@@ -7,7 +7,7 @@ trackers and datasets on the topic. The compilation is not meant to be
 exhaustive and I am grateful for general feedback or suggestions on new
 sources you may have. Please email me at <lukas.lehner@spi.ox.ac.uk>.
 
-This collection started initially as a [Twitter
+Thi collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
 March 2020 and is based on a collaborative effort with suggestions from
 [\@B\_Ebbinghaus](https://twitter.com/B_Ebbinghaus),
