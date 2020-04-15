@@ -1,5 +1,5 @@
 # A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc --> 
-
+</p> <a href="#ref1">This is a reference to the bottom of this document</a> </p>
 The amount of COVID-19 related research being produced within the first
 weeks following the implementation far-reaching lockdowns across the
 globe has been impressive. I have compiled a collection of policy
@@ -40,7 +40,7 @@ The collection is structured around the areas of
  8. [Additional sources](#additional-sources)
 <!-- /TOC -->
 
-## 1. Confinement, travel restrictions, prisons
+## 1. <a Confinement, travel restrictions, prisons="confinement-travel-restrictions-prisons"></a>
 
 -   [Oxford COVID19 Government Response
     Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
@@ -80,7 +80,7 @@ The collection is structured around the areas of
     -   By [\@OZeveleva](https://twitter.com/OZeveleva)
 
 ## 2. Macro, financial and tax policy
-
+</p> <a name="ref1">text</a> </p>
 -   [IMF policy tracker](https://t.co/tzG6SIT4o7?amp=1)
     -   Focus: fiscal, monetary and macroprudential
     -   Country coverage: worldwide
