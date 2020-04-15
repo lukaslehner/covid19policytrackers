@@ -24,8 +24,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [\@jimmy810920](https://twitter.com/jimmy810920),
 [\@perezludena](https://twitter.com/perezludena),
 [\@olgaloblova](https://twitter.com/olgaloblova),
-[\@LTCcovid](https://twitter.com/LTCcovid) and [Maximilian
-Trenkmann](https://github.com/trenkmann).
+[\@LTCcovid](https://twitter.com/LTCcovid),
+[\@Luckinger](https://twitter.com/Luckinger)
+and [Maximilian Trenkmann](https://github.com/trenkmann).
 
 The collection is structured around the areas of
 <!-- TOC -->
