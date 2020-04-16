@@ -1,4 +1,5 @@
 name: covid19 policy trackers
 title: null
 description: 
+show_downloads: true
 theme: jekyll-theme-minimal
