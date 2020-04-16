@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-name: trackeroftrackers
 title: null
+name: trackeroftrackers
+description: This is a tracker of trackers.
+theme: jekyll-theme-minimal
