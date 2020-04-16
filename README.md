@@ -1,7 +1,3 @@
----
-title-heading: false
----
-
 # A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc --> 
 
 The amount of COVID-19 related research being produced within the first
