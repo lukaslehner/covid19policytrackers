@@ -15,6 +15,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@AliBargu](https://twitter.com/AliBargu),
 [@ertugrul_polat_](https://twitter.com/ertugrul_polat_),
 [@roosa_jolkkonen](https://twitter.com/roosa_jolkkonen),
+[@MoreiraAmilcar](https://twitter.com/MoreiraAmilcar),
 [@FrancescaAliaB](https://twitter.com/FrancescaAliaB),
 [@FNoeth](https://twitter.com/FNoeth),
 [@PhoebeIshak](https://twitter.com/PhoebeIshak),
