@@ -2,6 +2,7 @@
 title: "A tracker of trackers"
 title-heading: false
 categories: covid19
+permalink:"/covid19policytrackers"
 ---
 
 # A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc --> 
