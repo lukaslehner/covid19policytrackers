@@ -262,7 +262,7 @@ The collection is structured around the areas of
     -   Focus: health and social care policy issues
     -   Country coverage: selected countries worldwide and US states
     -   Data format: html
-    -   By [@CambridgeCore]
+    -   By [@CambridgeCore](https://twitter.com/CambridgeCore)
 
 ## 5. Education
 
