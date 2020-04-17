@@ -4,8 +4,8 @@ The amount of COVID-19 related research being produced within the first
 weeks following the implementation far-reaching lockdowns across the
 globe has been impressive. I have compiled a collection of policy
 trackers and datasets on the topic. The compilation is not meant to be
-exhaustive and I am grateful for general feedback or suggestions on new
-sources you may have. Please email me at <lukas.lehner@spi.ox.ac.uk>.
+exhaustive and I am grateful for general feedback you may have or suggestions on new
+sources. Please email me at <lukas.lehner@spi.ox.ac.uk>.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
