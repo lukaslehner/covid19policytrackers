@@ -251,6 +251,12 @@ The collection is structured around the areas of
         [@CPEC_LSE](https://twitter.com/CPEC_LSE)
         [@ilpnetwork](https://twitter.com/ilpnetwork)
 
+-   [Cambridge Core Health Economics, Policy and Law Blog series](https://www.cambridge.org/core/blog/tag/country-responses-to-the-covid19-pandemic/) is publishing short blogs on country responses
+    -   Focus: health and social care policy issues
+    -   Country coverage: selected countries worldwide and US states
+    -   Data format: html
+    -   By [@CambridgeCore]
+
 ## 5. Education
 
 -   [UNESCO COVID-19 Educational Disruption and
