@@ -4,8 +4,8 @@ The amount of COVID-19 related research being produced within the first
 weeks following the implementation far-reaching lockdowns across the
 globe has been impressive. I have compiled a collection of policy
 trackers and datasets on the topic. The compilation is not meant to be
-exhaustive and I am grateful for general feedback or suggestions on new
-sources you may have. Please email me at <lukas.lehner@spi.ox.ac.uk>.
+exhaustive and I am grateful for general feedback you may have or suggestions on new
+sources. Please email me at <lukas.lehner@spi.ox.ac.uk>.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
@@ -146,7 +146,7 @@ The collection is structured around the areas of
         [@BergaminiEnrico](https://twitter.com/BergaminiEnrico)
         [@MartaDomnguezJ1](https://twitter.com/MartaDomnguezJ1)
 
--    The [EU or euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf) 
+-    [EU and euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf) 
      -    Focus: measures proposed and taken at the EU or euro area level to mitigate the economic and social effects. 
      -    Coverage: measures by the EC, EU Council, ECB, SSM, ESRB, EBA, EIB. EIF, EBRD.
      -    Data format: pdf
