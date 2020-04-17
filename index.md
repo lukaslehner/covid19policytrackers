@@ -27,6 +27,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@olgaloblova](https://twitter.com/olgaloblova),
 [@LTCcovid](https://twitter.com/LTCcovid),
 [@SebDiessner](https://twitter.com/SebDiessner),
+[@AnToniPichler](https://twitter.com/AnToniPichler),
 [@Luckinger](https://twitter.com/Luckinger)
 and [Maximilian Trenkmann](https://github.com/trenkmann).
 
@@ -63,6 +64,12 @@ The collection is structured around the areas of
         [@rmkubinec](https://twitter.com/rmkubinec)
         [@joan_barcelo_](https://twitter.com/joan_barcelo_)
         [@as_hartnett](https://twitter.com/as_hartnett)
+
+- [Complexity Science Hub COVID-19 Covid-19 Control Strategies List (CCCSL)](http://covid19-interventions.com/)
+  - Focus: non-pharmaceutical interventions (NPIs) to stop the spread of COVID-19
+  - Coverage: 170 governmental measures in 41 countries worldwide 
+  - Data format: csv spreadsheet
+  - By  [@CSHVienna](https://twitter.com/CSHVienna)
 
 -   [COVID19 Global Travel
     Navigator](https://c19navigator.mayerbrown.com/)
