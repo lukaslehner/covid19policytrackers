@@ -26,6 +26,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@perezludena](https://twitter.com/perezludena),
 [@olgaloblova](https://twitter.com/olgaloblova),
 [@LTCcovid](https://twitter.com/LTCcovid),
+[@SebDiessner](https://twitter.com/SebDiessner),
 [@Luckinger](https://twitter.com/Luckinger)
 and [Maximilian Trenkmann](https://github.com/trenkmann).
 
@@ -144,6 +145,12 @@ The collection is structured around the areas of
     -   By [@ZsoltDarvas](https://twitter.com/ZsoltDarvas)
         [@BergaminiEnrico](https://twitter.com/BergaminiEnrico)
         [@MartaDomnguezJ1](https://twitter.com/MartaDomnguezJ1)
+
+-    The [EU or euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf) 
+     -    Focus: measures proposed and taken at the EU or euro area level to mitigate the economic and social effects. 
+     -    Coverage: measures by the EC, EU Council, ECB, SSM, ESRB, EBA, EIB. EIF, EBRD.
+     -    Data format: pdf
+     -    By [@europarl_EN](https://twitter.com/europarl_en)
 
 -   [Economic Policy Response
     Map](https://sites.google.com/view/atanaspekanov/economic-policy-response-map)
