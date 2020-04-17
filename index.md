@@ -146,7 +146,7 @@ The collection is structured around the areas of
         [@BergaminiEnrico](https://twitter.com/BergaminiEnrico)
         [@MartaDomnguezJ1](https://twitter.com/MartaDomnguezJ1)
 
--    The [EU or euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf) 
+-    [EU and euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf) 
      -    Focus: measures proposed and taken at the EU or euro area level to mitigate the economic and social effects. 
      -    Coverage: measures by the EC, EU Council, ECB, SSM, ESRB, EBA, EIB. EIF, EBRD.
      -    Data format: pdf
