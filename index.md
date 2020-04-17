@@ -174,6 +174,12 @@ The collection is structured around the areas of
         [@BasbugGokce](https://twitter.com/BasbugGokce)
         [@AbdullahYalaman](https://twitter.com/AbdullahYalaman)
 
+-   [Tax Foundation tax relief dataset](https://taxfoundation.org/coronavirus-country-by-country-responses/)
+    -   Focus: individual, business, consumption, and other taxes
+    -   Country coverage: Selected countries worldwide
+    -   Data format: html
+    -   By [@TaxFoundation](https://twitter.com/TaxFoundation) [@ElkeAsen](https://twitter.com/ElkeAsen) [@crisberechet](https://twitter.com/crisberechet) [@danieldbunn](https://twitter.com/danieldbunn)
+
 ## 3. Social and employment policy
 
 -   Living paper: [Social Protection and Jobs Responses to COVID-19: A
