@@ -26,10 +26,11 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@perezludena](https://twitter.com/perezludena),
 [@olgaloblova](https://twitter.com/olgaloblova),
 [@LTCcovid](https://twitter.com/LTCcovid),
+[@Luckinger](https://twitter.com/Luckinger),
+[@KnowsOnions](https://twitter.com/KnowsOnions),
 [@SebDiessner](https://twitter.com/SebDiessner),
-[@AnToniPichler](https://twitter.com/AnToniPichler),
-[@Luckinger](https://twitter.com/Luckinger)
-and [Maximilian Trenkmann](https://github.com/trenkmann).
+[@AnToniPichler](https://twitter.com/AnToniPichler) and
+[@Anne_Parth](https://twitter.com/Anne_Parth).
 
 The collection is structured around the areas of
 - [1. Confinement, travel restrictions, prisons](#1-confinement-travel-restrictions-prisons)
