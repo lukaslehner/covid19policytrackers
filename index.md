@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163872740-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163872740-1');
+</script>
+
 # A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc --> 
 
 The amount of COVID-19 related research being produced within the first
@@ -113,7 +123,7 @@ The collection is structured around the areas of
 
 -   [OECD tax policy
     dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
-    -   Focus: tax policy measures including a detailed breakdown of cash flow measures and changes in tax policies for firms & households
+    -   Focus: tax policy measures incl. a detailed breakdown of cash flow measures and changes in tax policies for firms & households
     -   Coverage: 91 countries
     -   Data format: xlsm spreadsheet
     -   By [@OECDtax](https://twitter.com/OECDtax) incl.
@@ -132,7 +142,7 @@ The collection is structured around the areas of
 -   Yale [COVID-19 Financial Response Tracker
     (CFRT)](https://som.yale.edu/node/222278) by the Yale Program on
     Financial Stability
-    -   Focus: financial stability (including fiscal, monetary, macroprudential and liquidity measures)
+    -   Focus: financial stability (incl. fiscal, monetary, macroprudential and liquidity measures)
     -   Coverage: worldwide
     -   Data format: xlsx spreadsheet
 
@@ -360,7 +370,7 @@ The collection is structured around the areas of
     - Focus: how citizens are preparing and coping with the COVID-19 crisis
     - Coverage: worldwide
     - Data format: data will be made available later
-    - By researchers of 12 universities including
+    - By researchers of 12 universities incl.
         [@Margarita1512](https://twitter.com/Margarita1512)
         [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
         [@jonj](https://twitter.com/jonj)
