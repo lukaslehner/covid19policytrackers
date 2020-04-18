@@ -360,6 +360,20 @@ The collection is structured around the areas of
         [@fetzert](https://twitter.com/fetzert)
         [@caria_stefano](https://twitter.com/caria_stefano)
 
+- [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker) 
+  - Focus: behavrioural change to COVID19 safety policies
+  - Coverage: 30,000 people across 29 countries each week 
+  - Data format: aggregate results are published on a dashboard and microdata are publicly available as csv spreadsheets
+  - By [@YouGov](https://twitter.com/YouGov)
+  [@Imperial_IGHI](https://twitter.com/Imperial_IGHI)
+  - [Dashboard for aggregate results](https://public.tableau.com/profile/ighi#!/vizhome/ICLYouGovCovid-19Tracker_V0_3/1Specificbehaviourbycountry)
+
+- [YouGov international COVID19 tracker](https://yougov.co.uk/topics/international/articles-reports/2020/03/17/YouGov-international-COVID-19-tracker)
+  - Focus: public attitudes on a broad range of topics from brands to politics
+  - Coverage: over 27,000 people a week across 26 countries
+  - Data format: html, only aggregate data for selected categories, such as behavioral response and government satisfaction are publicly available
+  - By [@YouGov](https://twitter.com/YouGov)
+
 ## 8. Additional sources
 
 - [@timvlandas](https://twitter.com/timvlandas) has put together a dedicated [COVID-19 resources webpage](https://timvlandas.com/covid-19-resources/) collecting many sources for research, policy and data related to the crisis.
