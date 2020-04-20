@@ -197,7 +197,16 @@ The collection is structured around the areas of
         [@BasbugGokce](https://twitter.com/BasbugGokce)
         [@AbdullahYalaman](https://twitter.com/AbdullahYalaman)
 
--   [Tax Foundation tax relief dataset](https://taxfoundation.org/coronavirus-country-by-country-responses/)
+- [COVID-19 Fiscal Response Tracker and world map](https://www.csis.org/analysis/breaking-down-g20-covid-19-fiscal-response)
+  - Focus: breakdown of major fiscal actions
+  - Coverage: G20 countries
+  - Data format: html
+  - By [@CSIS](https://twitter.com/CSIS)
+  [@CSIS_Econ](https://twitter.com/CSIS_Econ)
+  [@MPGoodman88](https://twitter.com/MPGoodman88)
+  [@handrewschwartz](https://twitter.com/handrewschwartz)
+
+- [Tax Foundation tax relief dataset](https://taxfoundation.org/coronavirus-country-by-country-responses/)
     -   Focus: individual, business, consumption, and other taxes
     -   Coverage: worldwide
     -   Data format: html
