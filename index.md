@@ -49,7 +49,7 @@ The collection is structured around the areas of
 - [4. Health and care policy](#4-health-and-care-policy)
 - [5. Education](#5-education)
 - [6. Innovation, SMEs, Tourism, Regions, Cities, Philanthropy](#6-innovation-smes-tourism-regions-cities-philanthropy)
-- [7. Public attitudes](#7-public-attitudes)
+- [7. Public attitudes and policy making](#7-public-attitudes-and-policy-making)
 - [8. Additional sources](#8-additional-sources)
 
 ## 1. Confinement, travel, civic freedom, prisons
@@ -363,7 +363,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@CandidDotOrg](https://twitter.com/CandidDotOrg)
 
-## 7. Public attitudes
+## 7. Public attitudes and policy making
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
