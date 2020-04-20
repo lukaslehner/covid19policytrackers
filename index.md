@@ -431,3 +431,8 @@ The collection is structured around the areas of
 - [@NIESRorg](https://twitter.com/NIESRorg) has published a [number of research articles](https://www.niesr.ac.uk/economic-crisis-covid-19-papers) including the NIESERGDP Tracker evaluating the macroeconomic impact of the crisis.
 
 - [@OurWorldInData](https://twitter.com/OurWorldInData) provides a clean [csv file](https://covid.ourworldindata.org/data/ecdc/full_data.csv) and [info](https://t.co/O7rkzBbRdw?amp=1) for daily new/total COVID19 cases & deaths. Data is based on the European CDC, covers 199 countries & territories and is updated daily.
+
+- The [CORE Project](https://www.core-econ.org/project/core-covid-19-collection/) provides a collection of economics teaching resources on COVID19. Examples include material to learn using R to analyse data on cases & fatalities, or an assignment on macroeconomics of COVID19. 
+By [@coreeconteam](https://twitter.com/coreeconteam)
+[@ralffbecker](https://twitter.com/ralffbecker)
+[@mvsbach](https://twitter.com/mvsbach)
