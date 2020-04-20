@@ -393,6 +393,12 @@ The collection is structured around the areas of
   - Data format: html, only aggregate data for selected categories, such as behavioral response and government satisfaction are publicly available
   - By [@YouGov](https://twitter.com/YouGov)
 
+- [Citizens’ Attitudes Under the COVID-19 Pandemic](https://www.sciencespo.fr/cevipof/attitudesoncovid19/)
+  - Focus: public attitudes on health, economy, civil liberties, government, policies and institutions
+  - Coverage: 20 countries worldwide
+  - Data format: microdata in dta, summary statistics in pdf
+  - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
+
 ## 8. Additional sources
 
 - [@timvlandas](https://twitter.com/timvlandas) has put together a dedicated [COVID-19 resources webpage](https://timvlandas.com/covid-19-resources/) collecting many sources for research, policy and data related to the crisis.
