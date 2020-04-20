@@ -409,7 +409,7 @@ The collection is structured around the areas of
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
 
 - [COVID-19 Policy-Making Tracker](https://www.ingsa.org/covid/policymaking-tracker/)
-  - Focus: HOW policy interventions are being made by collecting advice, evidence or other justifications that underpin governments’ decisions
+  - Focus: how policy interventions are being made by collecting advice, evidence or other justifications that underpin governments’ decisions
   - Coverage: worldwide
   - Data format: html
   - By [@INGSciAdvice](https://twitter.com/INGSciAdvice) 
