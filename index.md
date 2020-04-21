@@ -11,7 +11,7 @@
 # A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc --> 
 
 The amount of COVID-19 related research being produced within the first
-weeks following the implementation far-reaching lockdowns across the
+weeks following the implementation of far-reaching lockdowns across the
 globe has been impressive. I have compiled a collection of policy
 trackers and datasets on the topic. The compilation is not meant to be
 exhaustive and I am grateful for general feedback you may have or suggestions on new
@@ -40,8 +40,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@KnowsOnions](https://twitter.com/KnowsOnions),
 [@SebDiessner](https://twitter.com/SebDiessner),
 [@AnToniPichler](https://twitter.com/AnToniPichler),
-[@Anne_Parth](https://twitter.com/Anne_Parth) and 
-[@O_LJ](https://twitter.com/O_LJ).
+[@Anne_Parth](https://twitter.com/Anne_Parth),
+[@O_LJ](https://twitter.com/O_LJ) and
+[@PeterSWyckoff](https://twitter.com/PeterSWyckoff).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
@@ -50,8 +51,9 @@ The collection is structured around the areas of
 - [4. Health and Care Policy](#4-health-and-care-policy)
 - [5. Education, Research and Innovation](#5-education-research-and-innovation)
 - [6. Regions, Cities, SMEs, Tourism, Philanthropy](#6-regions-cities-smes-tourism-philanthropy)
-- [7. Public Attitudes, Media and Policy Making](#7-public-attitudes-media-and-policy-making)
-- [8. Additional Sources](#8-additional-sources)
+- [7. Public Attitudes and Behavioural Responses](#7-public-attitudes-and-behavioural-responses)
+- [8. Media coverage, Elections and Policy Making](#8-media-coverage-elections-and-policy-making)
+- [9. Additional Sources](#9-additional-sources)
 
 ## 1. Confinement, Travel, Civic Freedom, Prisons
 
@@ -379,7 +381,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@CandidDotOrg](https://twitter.com/CandidDotOrg)
 
-## 7. Public Attitudes, Media and Policy Making
+## 7. Public Attitudes and Behavioural Responses
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
@@ -415,6 +417,11 @@ The collection is structured around the areas of
   - Data format: microdata in dta, summary statistics in pdf
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
 
+## 8. Media coverage, Elections and Policy Making
+
+- []()
+  - 
+
 - [COVID-19 Policy-Making Tracker](https://www.ingsa.org/covid/policymaking-tracker/)
   - Focus: how policy interventions are being made by collecting advice, evidence or other justifications that underpin governments’ decisions
   - Coverage: worldwide
@@ -425,7 +432,7 @@ The collection is structured around the areas of
    [@jameswilsdon](https://twitter.com/jameswilsdon) 
    [@SciChefQC](https://twitter.com/SciChefQC)
 
-## 8. Additional Sources
+## 9. Additional Sources
 
 - [@timvlandas](https://twitter.com/timvlandas) has put together a dedicated [COVID-19 resources webpage](https://timvlandas.com/covid-19-resources/) collecting many sources for research, policy and data related to the crisis.
 
