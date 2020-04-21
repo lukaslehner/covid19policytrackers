@@ -419,8 +419,23 @@ The collection is structured around the areas of
 
 ## 8. Media coverage, Elections and Policy Making
 
-- []()
-  - 
+- [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
+    - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
+    - Coverage: worldwide
+    - Data format: csv
+    - By [@Anacode]( https://twitter.com/Anacode)
+
+- [Global overview of COVID-19: Impact on elections](https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections)
+    - Focus: compiles a list of elections postponed due to the outbreak of COVID-19 and of elections held despite the outbreak.
+    - Coverage: worldwide
+    - Data format: html
+    - By [@Int_IDEA](https://twitter.com/Int_IDEA)
+
+- [Open COVID-19 policy dataset](https://blog.overton.io/blog/2020/03/31/open-covid-19-policy-dataset/)
+    - Focus: policy documents from think tanks, policy orientated NGOs, IOs and national governments
+    - Coverage: worldwide
+    - Data format: pdf files with an accompanying json file for metadata
+    - By [@overtonio](https://twitter.com/overtonio) [@Stew](https://twitter.com/Stew)
 
 - [COVID-19 Policy-Making Tracker](https://www.ingsa.org/covid/policymaking-tracker/)
   - Focus: how policy interventions are being made by collecting advice, evidence or other justifications that underpin governments’ decisions
