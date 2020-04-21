@@ -39,8 +39,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@Luckinger](https://twitter.com/Luckinger),
 [@KnowsOnions](https://twitter.com/KnowsOnions),
 [@SebDiessner](https://twitter.com/SebDiessner),
-[@AnToniPichler](https://twitter.com/AnToniPichler) and
-[@Anne_Parth](https://twitter.com/Anne_Parth).
+[@AnToniPichler](https://twitter.com/AnToniPichler),
+[@Anne_Parth](https://twitter.com/Anne_Parth) and 
+[@O_LJ](https://twitter.com/O_LJ).
 
 The collection is structured around the areas of
 - [1. Confinement, travel, civic freedom, prisons](#1-confinement-travel-civic-freedom-prisons)
@@ -81,6 +82,12 @@ The collection is structured around the areas of
   - Coverage: 170 governmental measures in 41 countries worldwide 
   - Data format: csv spreadsheet
   - By  [@CSHVienna](https://twitter.com/CSHVienna)
+
+- [Coronavirus containment measures](https://coronavirusmeasures.herokuapp.com/) dataset and world map
+  - Focus: containment measures incl. a stringency index as a time series
+  - Coverage: worldwide
+  - Data format: csv and world map
+  - By [@O_LJ](https://twitter.com/O_LJ)
 
 - [COVID19 Civic Freedom Tracker](https://www.icnl.org/covid19tracker/)
   - Focus: government responses that affect civicfreedoms and humanrights
