@@ -44,16 +44,16 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@O_LJ](https://twitter.com/O_LJ).
 
 The collection is structured around the areas of
-- [1. Confinement, travel, civic freedom, prisons](#1-confinement-travel-civic-freedom-prisons)
-- [2. Macro, financial and tax policy](#2-macro-financial-and-tax-policy)
-- [3. Social and employment policy](#3-social-and-employment-policy)
-- [4. Health and care policy](#4-health-and-care-policy)
-- [5. Education](#5-education)
-- [6. Innovation, SMEs, Tourism, Regions, Cities, Philanthropy](#6-innovation-smes-tourism-regions-cities-philanthropy)
-- [7. Public attitudes and policy making](#7-public-attitudes-and-policy-making)
-- [8. Additional sources](#8-additional-sources)
+- [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
+- [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
+- [3. Social and Employment Policy](#3-social-and-employment-policy)
+- [4. Health and Care Policy](#4-health-and-care-policy)
+- [5. Education, Research and Innovation](#5-education-research-and-innovation)
+- [6. Regions, Cities, SMEs, Tourism, Philanthropy](#6-regions-cities-smes-tourism-philanthropy)
+- [7. Public Attitudes, Media and Policy Making](#7-public-attitudes-media-and-policy-making)
+- [8. Additional Sources](#8-additional-sources)
 
-## 1. Confinement, travel, civic freedom, prisons
+## 1. Confinement, Travel, Civic Freedom, Prisons
 
 -   [Oxford COVID19 Government Response
     Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
@@ -111,7 +111,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@OZeveleva](https://twitter.com/OZeveleva)
 
-## 2. Macro, financial and tax policy
+## 2. Macro, Financial and Tax Policy
 
 -   [IMF policy tracker](https://t.co/tzG6SIT4o7?amp=1)
     -   Focus: fiscal, monetary and macroprudential
@@ -219,7 +219,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@TaxFoundation](https://twitter.com/TaxFoundation) [@ElkeAsen](https://twitter.com/ElkeAsen) [@crisberechet](https://twitter.com/crisberechet) [@danieldbunn](https://twitter.com/danieldbunn)
 
-## 3. Social and employment policy
+## 3. Social and Employment Policy
 
 -   Living paper: [Social Protection and Jobs Responses to COVID-19: A
     Real-Time Review of Country Measures](http://www.ugogentilini.net/)
@@ -268,7 +268,7 @@ The collection is structured around the areas of
     -   By [@etuc_ces](https://twitter.com/etuc_ces)
         [@ETUI_org](https://twitter.com/ETUI_org)
 
-## 4. Health and care policy
+## 4. Health and Care Policy
 
 -   [OECD Health System responses
     summary](https://t.co/f41gKRros0?amp=1) and
@@ -309,7 +309,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@CambridgeCore](https://twitter.com/CambridgeCore)
 
-## 5. Education
+## 5. Education, Research and Innovation
 
 -   [UNESCO COVID-19 Educational Disruption and
     Response](https://en.unesco.org/covid19/educationresponse)
@@ -318,7 +318,32 @@ The collection is structured around the areas of
     -   Data format: html (map ony)
     -   By [@UNESCO](https://twitter.com/UNESCO)
 
-## 6. Innovation, SMEs, Tourism, Regions, Cities, Philanthropy 
+## 6. Regions, Cities, SMEs, Tourism, Philanthropy
+
+-   [OECD multilevel
+    governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
+    summary
+    -   Focus: measures taken by national and subnational governments to ensure effective coordination and support regions and cities.
+    -   Coverage: worldwide
+    -   Data format: pdf
+    -   By [@OECD_local](https://twitter.com/OECD_local)
+
+-   [OECD cities
+    responses](https://read.oecd-ilibrary.org/view/?ref=126_126769-yen45847kf&title=Coronavirus-COVID-19-Cities-Policy-Responses)
+    summary
+    -   Focus: policy responses taken by cities. They are structured by i) communication & awareness raising ii) workplace & commuting iii) social distance iv) vulnerable groups v) local service delivery vi) support to business.
+    -   Coverage: worldwide
+    -   Data format: pdf
+    -   By [@OECD_local](https://twitter.com/OECD_local) incl.
+        [@Akhmouch](https://twitter.com/Akhmouch)
+
+-   Harvard [Resources State and Local Government
+    Practitioners](https://medium.com/covid-19-public-sector-resources)
+    -   Focus: policy solutions
+    -   Coverage: US local and state governments
+    -   Data format: html
+    -   By [@HarvardAsh](https://twitter.com/HarvardAsh)
+        [@Kennedy_School](https://twitter.com/Kennedy_School)
 
 -   OECD OPSI [COVID-19: Innovative responses
     update](https://oecd-opsi.org/covid-19-innovative-responses-update-2/)
@@ -347,31 +372,6 @@ The collection is structured around the areas of
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
--   [OECD multilevel
-    governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
-    summary
-    -   Focus: measures taken by national and subnational governments to ensure effective coordination and support regions and cities.
-    -   Coverage: worldwide
-    -   Data format: pdf
-    -   By [@OECD_local](https://twitter.com/OECD_local)
-
--   [OECD cities
-    responses](https://read.oecd-ilibrary.org/view/?ref=126_126769-yen45847kf&title=Coronavirus-COVID-19-Cities-Policy-Responses)
-    summary
-    -   Focus: policy responses taken by cities. They are structured by i) communication & awareness raising ii) workplace & commuting iii) social distance iv) vulnerable groups v) local service delivery vi) support to business.
-    -   Coverage: worldwide
-    -   Data format: pdf
-    -   By [@OECD_local](https://twitter.com/OECD_local) incl.
-        [@Akhmouch](https://twitter.com/Akhmouch)
-
--   Harvard [Resources State and Local Government
-    Practitioners](https://medium.com/covid-19-public-sector-resources)
-    -   Focus: policy solutions
-    -   Coverage: US local and state governments
-    -   Data format: html
-    -   By [@HarvardAsh](https://twitter.com/HarvardAsh)
-        [@Kennedy_School](https://twitter.com/Kennedy_School)
-
 -   Candid [Philanthropic funding
     data](https://candid.org/explore-issues/coronavirus)
     -   Focus: private funders and recipients with details on the amount, purpose and geographical distribution
@@ -379,7 +379,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@CandidDotOrg](https://twitter.com/CandidDotOrg)
 
-## 7. Public attitudes and policy making
+## 7. Public Attitudes, Media and Policy Making
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
@@ -425,7 +425,7 @@ The collection is structured around the areas of
    [@jameswilsdon](https://twitter.com/jameswilsdon) 
    [@SciChefQC](https://twitter.com/SciChefQC)
 
-## 8. Additional sources
+## 8. Additional Sources
 
 - [@timvlandas](https://twitter.com/timvlandas) has put together a dedicated [COVID-19 resources webpage](https://timvlandas.com/covid-19-resources/) collecting many sources for research, policy and data related to the crisis.
 
