@@ -178,7 +178,7 @@ The collection is structured around the areas of
 
 -   [Bruegel fiscal policy dataset](https://t.co/XxHMpTlW9q?amp=1)
     -   Focus: fiscal (3 categories: 1) fiscal impulse 2) deferrals 3) guarantees)
-    -   Coverage: 7 countries (FRA, DEU, HUN, ITA, ESP, GBR,
+    -   Coverage: 11 countries (BEL, DNK, FRA, DEU, GRC, HUN, ITA, ESP, GBR,
         USA)
     -   Data format: html
     -   By [@ZsoltDarvas](https://twitter.com/ZsoltDarvas)
