@@ -15,7 +15,7 @@ weeks following the implementation of far-reaching lockdowns across the
 globe has been impressive. I have compiled a collection of policy
 trackers and datasets on the topic. The compilation is not meant to be
 exhaustive and I am grateful for general feedback you may have or suggestions on new
-sources. Please email me at <lukas.lehner@spi.ox.ac.uk>.
+sources. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
