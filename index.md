@@ -252,6 +252,7 @@ The collection is structured around the areas of
     -   Focus: social protection
     -   Coverage: 46 countries
     -   Data format: pdf
+    -   [Dashboard (regularly updated)](https://www.social-protection.org/gimi/ShowWiki.action?id=3417)
 
 -   Eurofound European Restructuring Monitor (ERM) [COVID 19
     summary](https://www.eurofound.europa.eu/publications/blog/coronavirus-a-labour-market-earthquake?&utm_campaign=covid-19&utm_content=ef20052&utm_source=twitter&utm_medium=social-network)
