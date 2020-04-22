@@ -112,6 +112,13 @@ The collection is structured around the areas of
     -   Coverage: 76 countries
     -   Data format: html
     -   By [@OZeveleva](https://twitter.com/OZeveleva)
+    
+-   [socialdistancing.stanford.edu](socialdistancing.stanford.edu)
+    -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
+    -   Coverage: 182 counties
+    -   Data format: csv
+    -   Data set: [http://hci.st/socialdistancing-dataset](http://hci.st/socialdistancing-dataset)
+    -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
 
 ## 2. Macro, Financial and Tax Policy
 
