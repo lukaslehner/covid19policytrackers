@@ -320,6 +320,26 @@ The collection is structured around the areas of
     -   Data format: html (map ony)
     -   By [@UNESCO](https://twitter.com/UNESCO)
 
+- [COVID-19 Open Research Dataset (CORD-19)]( https://pages.semanticscholar.org/coronavirus-research)
+    - Focus: covers 52,000 scholarly articles, including over 41,000 with full text, about COVID-19 and the coronavirus family of viruses.
+    - Coverage: worldwide
+    - Data format: pdf, json
+    - By [@allen_ai](https://twitter.com/allen_ai)
+    - The [CORD-19 Explorer](https://cord-19.apps.allenai.org/) allows to easily navigate through the dataset
+
+- [The Lens COVID19 datasets](https://about.lens.org/covid-19/)
+    - Focus: patent documents, scholarly research works’ metadata and biological sequences from patents. The current patent data relates to previous viral outbreaks from SARS and MERS but patents for COVID-19 will be added once available.
+    - Coverage: worldwide
+    - Data format: csv, json
+    - By [@TheLensOrg](https://twitter.com/TheLensOrg)
+
+- [Dimensions COVID-19 publications, data sets, clinical trials](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063)
+    - Focus: research outputs in medical and health science, such as journal articles, datasets and clinical trials
+    - Coverage: worldwide
+    - Data format: xlsx spreadsheet
+    - By [@DSDimensions] (https://twitter.com/DSDimensions)
+    [@digitalsci](https://twitter.com/digitalsci)
+
 ## 6. Regions, Cities, SMEs, Tourism, Philanthropy
 
 -   [OECD multilevel
