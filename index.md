@@ -321,6 +321,12 @@ The collection is structured around the areas of
     -   Data format: html (map ony)
     -   By [@UNESCO](https://twitter.com/UNESCO)
 
+-	[OECD Survey on Science and Innovation policy responses](https://stip.oecd.org/Covid.html)
+    - Focus: science and innovation policy responses as self-reported by national government ministries
+    - Coverage: 33 mainly OECD countries
+    - Data format: html
+    - By [@OECDinnovation](https://twitter.com/OECDinnovation)
+
 - [COVID-19 Open Research Dataset (CORD-19)]( https://pages.semanticscholar.org/coronavirus-research)
     - Focus: covers 52,000 scholarly articles, including over 41,000 with full text, about COVID-19 and the coronavirus family of viruses.
     - Coverage: worldwide
