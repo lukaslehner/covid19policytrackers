@@ -41,8 +41,10 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@SebDiessner](https://twitter.com/SebDiessner),
 [@AnToniPichler](https://twitter.com/AnToniPichler),
 [@Anne_Parth](https://twitter.com/Anne_Parth),
-[@O_LJ](https://twitter.com/O_LJ) and
-[@PeterSWyckoff](https://twitter.com/PeterSWyckoff).
+[@O_LJ](https://twitter.com/O_LJ),
+[@PeterSWyckoff](https://twitter.com/PeterSWyckoff),
+[@JoachimGassen](https://twitter.com/JoachimGassen) and
+[@ToddOfMess](https://twitter.com/ToddOfMess).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
