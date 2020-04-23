@@ -43,8 +43,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@Anne_Parth](https://twitter.com/Anne_Parth),
 [@O_LJ](https://twitter.com/O_LJ),
 [@PeterSWyckoff](https://twitter.com/PeterSWyckoff),
-[@JoachimGassen](https://twitter.com/JoachimGassen) and
-[@ToddOfMess](https://twitter.com/ToddOfMess).
+[@JoachimGassen](https://twitter.com/JoachimGassen),
+[@ToddOfMess](https://twitter.com/ToddOfMess) and
+[@leecrawfurd](https://twitter.com/leecrawfurd).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
@@ -335,6 +336,13 @@ The collection is structured around the areas of
     -   Coverage: worldwide
     -   Data format: html (map ony)
     -   By [@UNESCO](https://twitter.com/UNESCO)
+
+-	[CGD - COVID education policy tracking](https://docs.google.com/spreadsheets/d/1ndHgP53atJ5J-EtxgWcpSfYG8LdzHpUsnb6mWybErYg/edit#gid=0)
+    - Focus: school closures
+    - Coverage: countries worldwide and regional level for India, Brazil, Nigeria, USA
+    - Data format: Google sheets spreadsheet, downloadable as csv, xlsx, pdf, html
+    - By [@CGDev](https://twitter.com/CGDev)
+    [@leecrawfurd](https://twitter.com/leecrawfurd)
 
 -	[OECD Survey on Science and Innovation policy responses](https://stip.oecd.org/Covid.html)
     - Focus: science and innovation policy responses as self-reported by national government ministries
