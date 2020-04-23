@@ -57,6 +57,12 @@ The collection is structured around the areas of
 
 ## 1. Confinement, Travel, Civic Freedom, Prisons
 
+-	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
+    - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
+    - Coverage: worldwide
+    - Data format: xlsx spreadsheet
+    - By [@ACAPSproject](https://twitter.com/ACAPSproject)
+
 -   [Oxford COVID19 Government Response
     Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
     (OxCGRT) incl. a stringency index on government response
@@ -327,7 +333,7 @@ The collection is structured around the areas of
     - Data format: html
     - By [@OECDinnovation](https://twitter.com/OECDinnovation)
 
-- [COVID-19 Open Research Dataset (CORD-19)]( https://pages.semanticscholar.org/coronavirus-research)
+- [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
     - Focus: covers 52,000 scholarly articles, including over 41,000 with full text, about COVID-19 and the coronavirus family of viruses.
     - Coverage: worldwide
     - Data format: pdf, json
