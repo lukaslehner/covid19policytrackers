@@ -44,8 +44,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@O_LJ](https://twitter.com/O_LJ),
 [@PeterSWyckoff](https://twitter.com/PeterSWyckoff),
 [@JoachimGassen](https://twitter.com/JoachimGassen),
-[@ToddOfMess](https://twitter.com/ToddOfMess) and
-[@leecrawfurd](https://twitter.com/leecrawfurd).
+[@ToddOfMess](https://twitter.com/ToddOfMess),
+[@leecrawfurd](https://twitter.com/leecrawfurd) and
+[@tozCSS](https://twitter.com/tozCSS).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
@@ -340,7 +341,7 @@ The collection is structured around the areas of
 -	[CGD - COVID education policy tracking](https://docs.google.com/spreadsheets/d/1ndHgP53atJ5J-EtxgWcpSfYG8LdzHpUsnb6mWybErYg/edit#gid=0)
     - Focus: school closures
     - Coverage: countries worldwide and regional level for India, Brazil, Nigeria, USA
-    - Data format: Google sheets spreadsheet, downloadable as csv, xlsx, pdf, html
+    - Data format: Google sheets, downloadable as csv, xlsx, pdf, html
     - By [@CGDev](https://twitter.com/CGDev)
     [@leecrawfurd](https://twitter.com/leecrawfurd)
 
@@ -349,6 +350,14 @@ The collection is structured around the areas of
     - Coverage: 33 mainly OECD countries
     - Data format: html
     - By [@OECDinnovation](https://twitter.com/OECDinnovation)
+
+-	[COVID-19 Social Science Research Tracker](https://github.com/natematias/covid-19-social-science-research/)
+    - Focus: new research about COVID 19, including published findings, pre-prints, projects underway, and projects at least at proposal stage. You can add your project via Google form.
+    - Coverage: worldwide
+    - Data format: Google sheets, downloadable as csv, xlsx, pdf, html
+    - By [@natematias](https://twitter.com/natematias)
+    [@alexleavitt](https://twitter.com/alexleavitt)
+
 
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
     - Focus: covers 52,000 scholarly articles, including over 41,000 with full text, about COVID-19 and the coronavirus family of viruses.
