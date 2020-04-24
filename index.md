@@ -366,7 +366,6 @@ The collection is structured around the areas of
     - By [@natematias](https://twitter.com/natematias)
     [@alexleavitt](https://twitter.com/alexleavitt)
 
-
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
     - Focus: covers 52,000 scholarly articles, including over 41,000 with full text, about COVID-19 and the coronavirus family of viruses.
     - Coverage: worldwide
