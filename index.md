@@ -50,7 +50,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@jwkritchie](https://twitter.com/jwkritchie).
 
 The collection is structured around the areas of
-- [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
+- [1. Confinement, Travel, Civic Freedom, Peace, Prisons](#1-confinement-travel-civic-freedom-peace-prisons)
 - [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
 - [3. Social and Employment Policy](#3-social-and-employment-policy)
 - [4. Health and Care Policy](#4-health-and-care-policy)
@@ -60,7 +60,7 @@ The collection is structured around the areas of
 - [8. Media coverage, Elections and Policy Making](#8-media-coverage-elections-and-policy-making)
 - [9. Additional Sources](#9-additional-sources)
 
-## 1. Confinement, Travel, Civic Freedom, Prisons
+## 1. Confinement, Travel, Civic Freedom, Peace, Prisons
 
 -	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
     - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
@@ -68,8 +68,7 @@ The collection is structured around the areas of
     - Data format: xlsx spreadsheet
     - By [@ACAPSproject](https://twitter.com/ACAPSproject)
 
--   [Oxford COVID19 Government Response
-    Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
+-   [Oxford COVID19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
     (OxCGRT) incl. a stringency index on government response
     -   Focus: 9 indicators on policies such as school closures, travel
         bans, 4 financial indicators on fiscal or monetary measures
@@ -102,6 +101,13 @@ The collection is structured around the areas of
   - Data format: csv and world map
   - By [@O_LJ](https://twitter.com/O_LJ)
 
+-   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
+    -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
+    -   Coverage: USA on a county level (182 as of 22.04.2020)
+    -   Data format: Google sheets, downloadable as csv and xlsx
+    -   [Data set](http://hci.st/socialdistancing-dataset)
+    -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
+
 - [COVID19 Civic Freedom Tracker](https://www.icnl.org/covid19tracker/)
   - Focus: government responses that affect civicfreedoms and humanrights
   - Coverage: worldwide
@@ -117,19 +123,18 @@ The collection is structured around the areas of
     -   Data format: pdf, html
     -   By [@Mayer_Brown](https://twitter.com/Mayer_Brown)
 
--   [Coronavirus in Prisons map and
-    database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
+-   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
     -   Focus: responses in prison systems incl. policy responses, releases, and riots
     -   Coverage: 76 countries
     -   Data format: html
     -   By [@OZeveleva](https://twitter.com/OZeveleva)
-    
--   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
-    -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
-    -   Coverage: USA on a county level (182 as of 22.04.2020)
-    -   Data format: Google sheets, downloadable as csv and xlsx
-    -   [Data set](http://hci.st/socialdistancing-dataset)
-    -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
+
+-	[Impact:Peace resources on COVID-19](https://docs.google.com/document/d/1QMEOe7NC1wpSx3jLDBohxXja-cN4M5A8ctg8fbLrOcs/edit)
+    - Focus: resources related to violence, conflict, inequality, peacebuilding
+    - Coverage: worldwide
+    - Data format: google doc
+    - By [@ImpactPeace](https://twitter.com/ImpactPeace)
+    [@juliascanney](https://twitter.com/juliascanney)
 
 ## 2. Macro, Financial and Tax Policy
 
