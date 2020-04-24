@@ -128,7 +128,7 @@ The collection is structured around the areas of
     -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
     -   Coverage: USA on a county level (182 as of 22.04.2020)
     -   Data format: Google sheets, downloadable as csv and xlsx
-    -   Data set: [http://hci.st/socialdistancing-dataset](http://hci.st/socialdistancing-dataset)
+    -   [Data set](http://hci.st/socialdistancing-dataset)
     -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
 
 ## 2. Macro, Financial and Tax Policy
