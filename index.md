@@ -425,6 +425,12 @@ The collection is structured around the areas of
     -   By [@HarvardAsh](https://twitter.com/HarvardAsh)
         [@Kennedy_School](https://twitter.com/Kennedy_School)
 
+-	[GovPredict Federal, State, and Local Responses to the Coronavirus](https://www.govpredict.com/corona-virus-resource-center)
+Focus: federal bills, state bills, governor orders, local documents
+Coverage: US city, county, state, and federal level
+Data format: html
+By [@GovPredict](https://twitter.com/GovPredict)
+
 -   OECD OPSI [COVID-19: Innovative responses
     update](https://oecd-opsi.org/covid-19-innovative-responses-update-2/)
     -   Focus: innovative government responses
