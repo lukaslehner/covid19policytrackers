@@ -45,8 +45,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@PeterSWyckoff](https://twitter.com/PeterSWyckoff),
 [@JoachimGassen](https://twitter.com/JoachimGassen),
 [@ToddOfMess](https://twitter.com/ToddOfMess),
-[@leecrawfurd](https://twitter.com/leecrawfurd) and
-[@tozCSS](https://twitter.com/tozCSS).
+[@leecrawfurd](https://twitter.com/leecrawfurd),
+[@tozCSS](https://twitter.com/tozCSS) and
+[@jwkritchie](https://twitter.com/jwkritchie).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
@@ -125,8 +126,8 @@ The collection is structured around the areas of
     
 -   [socialdistancing.stanford.edu](socialdistancing.stanford.edu)
     -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
-    -   Coverage: 182 counties
-    -   Data format: csv
+    -   Coverage: USA on a county level (182 as of 22.04.2020)
+    -   Data format: Google sheets, downloadable as csv and xlsx
     -   Data set: [http://hci.st/socialdistancing-dataset](http://hci.st/socialdistancing-dataset)
     -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
 
