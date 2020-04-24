@@ -372,6 +372,12 @@ The collection is structured around the areas of
     - By [@natematias](https://twitter.com/natematias)
     [@alexleavitt](https://twitter.com/alexleavitt)
 
+-	[World Pandemic Research Network (WPRN)](https://wprn.org/)
+    - Focus: collects research projects and maintains a searchable global directory of the scientific resources available on the societal and human impacts of the Covid-19 pandemic
+    - Coverage: worldwide
+    - Data format: html
+    - By [@WPRN_org](https://twitter.com/WPRN_org)
+
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
     - Focus: covers 52,000 scholarly articles, including over 41,000 with full text, about COVID-19 and the coronavirus family of viruses.
     - Coverage: worldwide
