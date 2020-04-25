@@ -82,8 +82,8 @@ The collection is structured around the areas of
         [@BlavatnikSchool](https://twitter.com/BlavatnikSchool)
 
 -  [CoronaNet project database](https://coronanet-project.org) on government responses
-    -   Focus: currently includes more than 5,000 separate policy announcements on measures such as social distancing measures, border restrictions, public awareness campaigns, declaration of emergency, health
-    -   Coverage: over 140 countries
+    -   Focus: currently includes more than 10,000 separate policy announcements on measures such as social distancing measures, border restrictions, public awareness campaigns, declaration of emergency, health
+    -   Coverage: 190 countries and sub-national units
     -   Data format: csv, xlsx spreadsheet
     -   By [@CoronaNet_org](https://twitter.com/CoronaNet_org)
         [@LuMesserschmidt](https://twitter.com/LuMesserschmidt)
