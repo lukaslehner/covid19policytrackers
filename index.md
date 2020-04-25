@@ -167,6 +167,13 @@ The collection is structured around the areas of
         - Data format: html
         - By [@PrisonPolicy](https://twitter.com/PrisonPolicy)
 
+- [Vera Institute of Justice prison data](https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic)
+    - Focus: number of prisoners and #COVID19 cases and deaths per prison
+    - Coverage: USA, each individual jail and prison
+    - Data format: Tableau, downloadable as pdf
+    - By [@verainstitute](https://twitter.com/verainstitute)
+
+
 
 ## 2. Macro, Financial and Tax Policy
 
