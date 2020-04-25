@@ -117,18 +117,11 @@ The collection is structured around the areas of
   [@enablingNGOlaw](https://twitter.com/enablingNGOlaw) 
   [@NiAolainF](https://twitter.com/NiAolainF)
 
--   [COVID19 Global Travel
-    Navigator](https://c19navigator.mayerbrown.com/)
+-   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
     -   Focus: travel restrictions, quarantine requirements for travellers
     -   Coverage: worldwide
     -   Data format: pdf, html
     -   By [@Mayer_Brown](https://twitter.com/Mayer_Brown)
-
--   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
-    -   Focus: responses in prison systems incl. policy responses, releases, and riots
-    -   Coverage: 76 countries
-    -   Data format: html
-    -   By [@OZeveleva](https://twitter.com/OZeveleva)
 
 -	[Impact:Peace resources on COVID-19](https://docs.google.com/document/d/1QMEOe7NC1wpSx3jLDBohxXja-cN4M5A8ctg8fbLrOcs/edit)
     - Focus: resources related to violence, conflict, inequality, peacebuilding
@@ -136,6 +129,20 @@ The collection is structured around the areas of
     - Data format: google doc
     - By [@ImpactPeace](https://twitter.com/ImpactPeace)
     [@juliascanney](https://twitter.com/juliascanney)
+
+-	[Conflict and Covid-19 Resource Hub](https://www.politicalsettlements.org/covid-19/resources/)
+Focus: conflicts, ceasefires, human rights, elections, emergency legislation, prisoners, etc.
+Coverage: worldwide
+Data format: html
+By [@PolSettlements](https://twitter.com/PolSettlements)
+
+
+
+-   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
+    -   Focus: responses in prison systems incl. policy responses, releases, and riots
+    -   Coverage: 76 countries
+    -   Data format: html
+    -   By [@OZeveleva](https://twitter.com/OZeveleva)
 
 ## 2. Macro, Financial and Tax Policy
 
