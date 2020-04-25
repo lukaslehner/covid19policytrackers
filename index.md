@@ -149,12 +149,12 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@OZeveleva](https://twitter.com/OZeveleva)
 
--	 [The Marshall Project Coronavirus Tracker: How Justice Systems Are Responding in Each State](https://www.themarshallproject.org/2020/03/17/tracking-prisons-response-to-coronavirus)
+-	 [The Marshall Project Coronavirus Tracker](https://www.themarshallproject.org/2020/03/17/tracking-prisons-response-to-coronavirus)
     - Focus: prison responses, such as visit restrictions, court operations
     - Coverage: U.S. states
     - Data format: html
     - By [@MarshallProj](https://twitter.com/MarshallProj)
-    - [Additional resources on the USA] (https://www.themarshallproject.org/coronavirus) on 
+    - [Additional resources on the USA](https://www.themarshallproject.org/coronavirus) on 
         - [the spread of #COVID19 in prisons](https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons), 
         - [prisoner in- and outflows on a country level](https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus) and 
         - [domestic violence reports](https://www.themarshallproject.org/2020/04/22/is-domestic-violence-rising-during-the-coronavirus-shutdown-here-s-what-the-data-shows) during the shutdown
