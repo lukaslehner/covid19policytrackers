@@ -47,8 +47,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@ToddOfMess](https://twitter.com/ToddOfMess),
 [@leecrawfurd](https://twitter.com/leecrawfurd),
 [@tozCSS](https://twitter.com/tozCSS),
-[@jwkritchie](https://twitter.com/jwkritchie) and
-[@juliascanney](https://twitter.com/juliascanney).
+[@jwkritchie](https://twitter.com/jwkritchie)
+[@juliascanney](https://twitter.com/juliascanney) and
+[@AllbriteAllday](https://twitter.com/AllbriteAllday).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Peace, Prisons](#1-confinement-travel-civic-freedom-peace-prisons)
@@ -147,6 +148,16 @@ The collection is structured around the areas of
     -   Coverage: 76 countries
     -   Data format: html
     -   By [@OZeveleva](https://twitter.com/OZeveleva)
+
+-	 [The Marshall Project Coronavirus Tracker: How Justice Systems Are Responding in Each State](https://www.themarshallproject.org/2020/03/17/tracking-prisons-response-to-coronavirus)
+    - Focus: prison responses, such as visit restrictions, court operations
+    - Coverage: U.S. states
+    - Data format: html
+    - By [@MarshallProj](https://twitter.com/MarshallProj)
+    - [Additional resources] (https://www.themarshallproject.org/coronavirus) on 
+        - [the spread of #COVID19 in prisons](https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons), 
+        - [prisoner in- and outflows on a country level](https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus) and 
+        - [domestic violence reports](https://www.themarshallproject.org/2020/04/22/is-domestic-violence-rising-during-the-coronavirus-shutdown-here-s-what-the-data-shows) during the shutdown.
 
 ## 2. Macro, Financial and Tax Policy
 
