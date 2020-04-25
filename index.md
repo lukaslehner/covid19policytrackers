@@ -131,12 +131,16 @@ The collection is structured around the areas of
     [@juliascanney](https://twitter.com/juliascanney)
 
 -	[Conflict and Covid-19 Resource Hub](https://www.politicalsettlements.org/covid-19/resources/)
-Focus: conflicts, ceasefires, human rights, elections, emergency legislation, prisoners, etc.
-Coverage: worldwide
-Data format: html
-By [@PolSettlements](https://twitter.com/PolSettlements)
+    - Focus: conflicts, ceasefires, human rights, elections, emergency legislation, prisoners, etc.
+    - Coverage: worldwide
+    - Data format: html
+    - By [@PolSettlements](https://twitter.com/PolSettlements)
 
-
+-	[COVID-19 Disorder Tracker (CDT)](https://acleddata.com/analysis/covid-19-disorder-tracker/)
+    - Focus: the pandemic’s impact on political violence and protest, monitoring changes in demonstration activity, state repression, mob attacks, overall rates of armed conflict, etc.
+    - Coverage: worldwide
+    - Data format: html, data can be exported
+    - By [@ACLEDINFO](https://twitter.com/ACLEDINFO)
 
 -   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
     -   Focus: responses in prison systems incl. policy responses, releases, and riots
