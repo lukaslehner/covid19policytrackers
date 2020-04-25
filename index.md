@@ -173,7 +173,11 @@ The collection is structured around the areas of
     - Data format: Tableau, downloadable as pdf
     - By [@verainstitute](https://twitter.com/verainstitute)
 
-
+- [Brennan Center for Justice Courts’ Responses](https://www.brennancenter.org/our-work/research-reports/courts-responses-covid-19-crisis)
+    - Focus: court operations, postponements of hearings and closures
+    - Coverage: U.S. federal courts, immigration courts, and state courts
+    - Data format: html
+    - By [@BrennanCenter](https://twitter.com/BrennanCenter)
 
 ## 2. Macro, Financial and Tax Policy
 
