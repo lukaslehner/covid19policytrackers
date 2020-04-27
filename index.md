@@ -180,6 +180,12 @@ The collection is structured around the areas of
     - Data format: html
     - By [@BrennanCenter](https://twitter.com/BrennanCenter)
 
+-	[African Policy Monitor](https://covid19africawatch.org/african-policy-monitor/)
+    - Focus: 1) Emergency declarations, 2) Fiscal Policy Responses, 3) Monetary Policy Responses, 4) Social Distancing Measures, 5) School closures
+    - Coverage: African countries
+    - Data format: html
+    - By [@Covid_Africa](https://twitter.com/Covid_Africa)
+
 ## 2. Macro, Financial and Tax Policy
 
 -   [IMF policy tracker](https://t.co/tzG6SIT4o7?amp=1)
