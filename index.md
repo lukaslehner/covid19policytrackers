@@ -189,11 +189,11 @@ The collection is structured around the areas of
         [@alexbykova](https://twitter.com/alexbykova)
         [@MarioHolzner](https://twitter.com/MarioHolzner)
 
-- [IFF Global Policy Responses](https://www.iif.com/Portals/0/Files/Databases/COVID-19_responses.pdf?ver=2020-04-24-173749-083)
+- [IIF Global Policy Responses](https://www.iif.com/Portals/0/Files/Databases/COVID-19_responses.pdf?ver=2020-04-24-173749-083)
     - Focus: fiscal and monetary policy responses
     - Coverage: advanced and emerging economies worldwide
     - Data format: pdf
-    - By [@IFF](https://twitter.com/IIF)
+    - By [@IIF](https://twitter.com/IIF)
 
 -   [Bruegel fiscal policy dataset](https://t.co/XxHMpTlW9q?amp=1)
     -   Focus: fiscal (3 categories: 1) fiscal impulse 2) deferrals 3) guarantees)
