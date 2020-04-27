@@ -301,6 +301,12 @@ The collection is structured around the areas of
     - By [@ToddOfMess](https://twitter.com/ToddOfMess)
     [@PeterMcCrory](https://twitter.com/PeterMcCrory)
 
+-	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
+    - Focus: countries that are getting World Bank Group support through the COVID-19 dedicated fast-track facility as well as other financing mechanisms
+    - Coverage: developing countries worldwide
+    - Data format: html
+    - By [@WorldBank](https://twitter.com/WorldBank)
+
 ## 3. Social and Employment Policy
 
 -   Living paper: [Social Protection and Jobs Responses to COVID-19: A
