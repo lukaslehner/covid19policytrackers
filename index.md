@@ -358,7 +358,7 @@ The collection is structured around the areas of
     -   By [@etuc_ces](https://twitter.com/etuc_ces)
         [@ETUI_org](https://twitter.com/ETUI_org)
 
--	 [Special Issue: Covid-19 and Labour Law. A Global Review](https://illej.unibo.it/issue/view/868)
+- [Special Issue: Covid-19 and Labour Law. A Global Review](https://illej.unibo.it/issue/view/868)
     - Focus: overview of measures on working conditions & business operations. The focus is on labour law norms, institutions and workplace arrangements across legal systems
     - Coverage: 40 countries worldwide
     - Data format: pdf
