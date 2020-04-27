@@ -52,8 +52,10 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@AllbriteAllday](https://twitter.com/AllbriteAllday)
 [@AltPrimate](https://twitter.com/AltPrimate),
 [@econ_hmg](https://twitter.com/econ_hmg),
-[@hmryder](https://twitter.com/hmryder) and 
-[@TimGoedeme](https://twitter.com/TimGoedeme).
+[@hmryder](https://twitter.com/hmryder), 
+[@TimGoedeme](https://twitter.com/TimGoedeme),
+[@Covid_Africa](https://twitter.com/Covid_Africa) and
+.
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Peace, Prisons](#1-confinement-travel-civic-freedom-peace-prisons)
@@ -63,7 +65,7 @@ The collection is structured around the areas of
 - [5. Education, Research and Innovation](#5-education-research-and-innovation)
 - [6. Regions, Cities, SMEs, Tourism, Philanthropy](#6-regions-cities-smes-tourism-philanthropy)
 - [7. Public Attitudes and Behavioural Responses](#7-public-attitudes-and-behavioural-responses)
-- [8. Media coverage, Elections and Policy Making](#8-media-coverage-elections-and-policy-making)
+- [8. Politics, Elections, Media, War and Peace](#8-politics-elections-media-war-and-peace)
 - [9. Additional Sources](#9-additional-sources)
 
 ## 1. Confinement, Travel, Civic Freedom, Peace, Prisons
@@ -462,16 +464,14 @@ The collection is structured around the areas of
 
 ## 6. Regions, Cities, SMEs, Tourism, Philanthropy
 
--   [OECD multilevel
-    governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
+-   [OECD multilevel governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
     summary
     -   Focus: measures taken by national and subnational governments to ensure effective coordination and support regions and cities.
     -   Coverage: worldwide
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
--   [OECD cities
-    responses](https://read.oecd-ilibrary.org/view/?ref=126_126769-yen45847kf&title=Coronavirus-COVID-19-Cities-Policy-Responses)
+-   [OECD cities responses](https://read.oecd-ilibrary.org/view/?ref=126_126769-yen45847kf&title=Coronavirus-COVID-19-Cities-Policy-Responses)
     summary
     -   Focus: policy responses taken by cities. They are structured by i) communication & awareness raising ii) workplace & commuting iii) social distance iv) vulnerable groups v) local service delivery vi) support to business.
     -   Coverage: worldwide
@@ -479,8 +479,7 @@ The collection is structured around the areas of
     -   By [@OECD_local](https://twitter.com/OECD_local) incl.
         [@Akhmouch](https://twitter.com/Akhmouch)
 
--   Harvard [Resources State and Local Government
-    Practitioners](https://medium.com/covid-19-public-sector-resources)
+-   Harvard [Resources State and Local Government Practitioners](https://medium.com/covid-19-public-sector-resources)
     -   Focus: policy solutions
     -   Coverage: US local and state governments
     -   Data format: html
@@ -493,8 +492,7 @@ Coverage: US city, county, state, and federal level
 Data format: html
 By [@GovPredict](https://twitter.com/GovPredict)
 
--   OECD OPSI [COVID-19: Innovative responses
-    update](https://oecd-opsi.org/covid-19-innovative-responses-update-2/)
+-   OECD OPSI [COVID-19: Innovative responses update](https://oecd-opsi.org/covid-19-innovative-responses-update-2/)
     -   Focus: innovative government responses
     -   Coverage: worldwide
     -   Data format: html
@@ -504,28 +502,31 @@ By [@GovPredict](https://twitter.com/GovPredict)
         [@civiccatalyst](https://twitter.com/civiccatalyst)
         [@hbuisma](https://twitter.com/hbuisma)
 
--   [OECD SME policy
-    responses](https://read.oecd-ilibrary.org/view/?ref=119_119680-di6h3qgi4x&title=Covid-19_SME_Policy_Responses)
+-   [OECD SME policy responses](https://read.oecd-ilibrary.org/view/?ref=119_119680-di6h3qgi4x&title=Covid-19_SME_Policy_Responses)
     -   Focus: policies that are targeted at SMEs. Measures range from tax deferrals and loan guarantees to direct lending and wage
         subsidies.
     -   Coverage: worldwide
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
--   [OECD
-    tourism](https://read.oecd-ilibrary.org/view/?ref=124_124984-7uf8nm95se&Title=Covid-19:%20Tourism%20Policy%20Responses)
+-   [OECD tourism](https://read.oecd-ilibrary.org/view/?ref=124_124984-7uf8nm95se&Title=Covid-19:%20Tourism%20Policy%20Responses)
     summary
     -   Focus: impact on tourism and policy responses to support the tourism industry
     -   Coverage: worldwide
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
--   Candid [Philanthropic funding
-    data](https://candid.org/explore-issues/coronavirus)
+-   Candid [Philanthropic funding data](https://candid.org/explore-issues/coronavirus)
     -   Focus: private funders and recipients with details on the amount, purpose and geographical distribution
     -   Coverage: worldwide
     -   Data format: html
     -   By [@CandidDotOrg](https://twitter.com/CandidDotOrg)
+
+- [Global Response Funding Tracker](https://covid19africawatch.org/global-response-monitor/)
+    - Focus: global initiatives and financial support packages organised by 1) Financial Support from International Development Partners, 2) IMF and World Bank Support, 3) Philanthropic and Corporate Giving
+    - Coverage: African countries
+    - Data format: html tables
+    - By [@Covid_Africa](https://twitter.com/Covid_Africa)
 
 ## 7. Public Attitudes and Behavioural Responses
 
@@ -563,7 +564,7 @@ By [@GovPredict](https://twitter.com/GovPredict)
   - Data format: microdata in dta, summary statistics in pdf
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
 
-## 8. Media coverage, Elections and Policy Making
+## 8. Politics, Elections, Media, War and Peace
 
 - [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
     - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
