@@ -58,17 +58,19 @@ March 2020 and is based on a collaborative effort with suggestions from
 .
 
 The collection is structured around the areas of
-- [1. Confinement, Travel, Civic Freedom, Peace, Prisons](#1-confinement-travel-civic-freedom-peace-prisons)
+- [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
 - [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
 - [3. Social and Employment Policy](#3-social-and-employment-policy)
 - [4. Health and Care Policy](#4-health-and-care-policy)
 - [5. Education, Research and Innovation](#5-education-research-and-innovation)
-- [6. Regions, Cities, SMEs, Tourism, Philanthropy](#6-regions-cities-smes-tourism-philanthropy)
+- [6. Regions, Cities, SMEs, Tourism](#6-regions-cities-smes-tourism)
 - [7. Public Attitudes and Behavioural Responses](#7-public-attitudes-and-behavioural-responses)
-- [8. Politics, Elections, Media, War and Peace](#8-politics-elections-media-war-and-peace)
-- [9. Additional Sources](#9-additional-sources)
+- [8. Politics, Elections, Media, Violent Conflict](#8-politics-elections-media-violent-conflict)
+- [9. Prisons, courts and Judiciary Systems](#9-prisons-courts-and-judiciary-systems)
+- [10. International Development, Development Cooperation, Philantropy](#10-international-development-development-cooperation-philantropy)
+- [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
-## 1. Confinement, Travel, Civic Freedom, Peace, Prisons
+## 1. Confinement, Travel, Civic Freedom, Prisons
 
 -	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
     - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
@@ -130,65 +132,6 @@ The collection is structured around the areas of
     -   Data format: pdf, html
     -   By [@Mayer_Brown](https://twitter.com/Mayer_Brown)
 
--	[Impact:Peace resources on COVID-19](https://docs.google.com/document/d/1QMEOe7NC1wpSx3jLDBohxXja-cN4M5A8ctg8fbLrOcs/edit)
-    - Focus: resources related to violence, conflict, inequality, peacebuilding
-    - Coverage: worldwide
-    - Data format: google doc
-    - By [@ImpactPeace](https://twitter.com/ImpactPeace)
-    [@juliascanney](https://twitter.com/juliascanney)
-
--	[Conflict and Covid-19 Resource Hub](https://www.politicalsettlements.org/covid-19/resources/)
-    - Focus: conflicts, ceasefires, human rights, elections, emergency legislation, prisoners, etc.
-    - Coverage: worldwide
-    - Data format: html
-    - By [@PolSettlements](https://twitter.com/PolSettlements)
-
--	[COVID-19 Disorder Tracker (CDT)](https://acleddata.com/analysis/covid-19-disorder-tracker/)
-    - Focus: the pandemic’s impact on political violence and protest, monitoring changes in demonstration activity, state repression, mob attacks, overall rates of armed conflict, etc.
-    - Coverage: worldwide
-    - Data format: html, data can be exported
-    - By [@ACLEDINFO](https://twitter.com/ACLEDINFO)
-
--   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
-    -   Focus: responses in prison systems incl. policy responses, releases, and riots
-    -   Coverage: 76 countries
-    -   Data format: html
-    -   By [@OZeveleva](https://twitter.com/OZeveleva)
-
-- [The Marshall Project Coronavirus Tracker](https://www.themarshallproject.org/2020/03/17/tracking-prisons-response-to-coronavirus)
-    - Focus: prison responses, such as visit restrictions, court operations
-    - Coverage: U.S. states
-    - Data format: html
-    - By [@MarshallProj](https://twitter.com/MarshallProj)
-    - [Additional resources](https://www.themarshallproject.org/coronavirus) on the USA on 
-        - [the spread of #COVID19 in prisons](https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons), 
-        - [prisoner in- and outflows](https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus) on a country level and 
-        - [domestic violence reports](https://www.themarshallproject.org/2020/04/22/is-domestic-violence-rising-during-the-coronavirus-shutdown-here-s-what-the-data-shows) during the shutdown
-
-- [Prison Policy: Responses to the COVID-19 pandemic](https://www.prisonpolicy.org/virus/virusresponse.html)
-    - Focus: responses of U.S. jails and prisons, such as releasing people early, lowering or stopping jail admissions, limiting check-ins and visits to offices for people on parole, eliminating medical co-pays, reducing the cost of phone calls
-    - Coverage: U.S. states
-    - Data format: html
-    - By [@PrisonPolicy](https://twitter.com/PrisonPolicy)
-
-- [Vera Institute of Justice prison data](https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic)
-    - Focus: number of prisoners and #COVID19 cases and deaths per prison
-    - Coverage: USA, each individual jail and prison
-    - Data format: Tableau, downloadable as pdf
-    - By [@verainstitute](https://twitter.com/verainstitute)
-
-- [Brennan Center for Justice Courts’ Responses](https://www.brennancenter.org/our-work/research-reports/courts-responses-covid-19-crisis)
-    - Focus: court operations, postponements of hearings and closures
-    - Coverage: U.S. federal courts, immigration courts, and state courts
-    - Data format: html
-    - By [@BrennanCenter](https://twitter.com/BrennanCenter)
-
--	[African Policy Monitor](https://covid19africawatch.org/african-policy-monitor/)
-    - Focus: 1) Emergency declarations, 2) Fiscal Policy Responses, 3) Monetary Policy Responses, 4) Social Distancing Measures, 5) School closures
-    - Coverage: African countries
-    - Data format: html
-    - By [@Covid_Africa](https://twitter.com/Covid_Africa)
-
 ## 2. Macro, Financial and Tax Policy
 
 -   [IMF policy tracker](https://t.co/tzG6SIT4o7?amp=1)
@@ -196,8 +139,7 @@ The collection is structured around the areas of
     -   Country coverage: worldwide
     -   Data format: html
 
--   [OECD Covid Action
-    Map](https://oecd.github.io/OECD-covid-action-map/) incl. dataset
+-   [OECD Covid Action Map](https://oecd.github.io/OECD-covid-action-map/) incl. dataset
     -   Focus: containment, health, fiscal, monetary
     -   Coverage: worldwide
     -   Data format: xlsx spreadsheet
@@ -206,8 +148,7 @@ The collection is structured around the areas of
     [OECD_Social](https://twitter.com/OECD_Social)
     [@OECDtax](https://twitter.com/OECDtax)
 
--   [OECD tax policy
-    dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
+-   [OECD tax policy dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
     -   Focus: tax policy measures incl. a detailed breakdown of cash flow measures and changes in tax policies for firms & households
     -   Coverage: 91 countries
     -   Data format: xlsm spreadsheet
@@ -217,22 +158,19 @@ The collection is structured around the areas of
         [@PierceOReilly](https://twitter.com/PierceOReilly)
         [@jmteusch](https://twitter.com/jmteusch)
 
--   [OECD tax administration responses
-    dataset](https://read.oecd-ilibrary.org/view/?ref=126_126478-29c4rprb3y&title=Tax_administration_responses_to_COVID-9_Measures_taken_to_support_taxpayers)
+-   [OECD tax administration responses dataset](https://read.oecd-ilibrary.org/view/?ref=126_126478-29c4rprb3y&title=Tax_administration_responses_to_COVID-9_Measures_taken_to_support_taxpayers)
     -   Focus: 1) additional time for tax affairs, 2) quicker refunds, 3) changes in audit policy, 4) services & communications
     -   Coverage: worldwide
     -   Data format: pdf
     -   By CIAT/IOTA/OECD
 
--   Yale [COVID-19 Financial Response Tracker
-    (CFRT)](https://som.yale.edu/node/222278) by the Yale Program on
+-   Yale [COVID-19 Financial Response Tracker (CFRT)](https://som.yale.edu/node/222278) by the Yale Program on
     Financial Stability
     -   Focus: financial stability (incl. fiscal, monetary, macroprudential and liquidity measures)
     -   Coverage: worldwide
     -   Data format: xlsx spreadsheet
 
--   UNCTAD [update on cross border investment
-    flows](https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=2313)
+-   UNCTAD [update on cross border investment flows](https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=2313)
     -   Focus: projections on global FDI and data on CAPEX, greenfield investments, M&As, and MNE earning estimates
     -   Coverage: worldwide
     -   Data format: pdf
@@ -240,8 +178,7 @@ The collection is structured around the areas of
         [@unctadwif](https://twitter.com/unctadwif) incl.
         [@perezludena](https://twitter.com/perezludena)
 
--   wiiw [Eastern Europe Coronavirus
-    tracker](https://wiiw.ac.at/n-430.html) and [summary
+-   wiiw [Eastern Europe Coronavirus tracker](https://wiiw.ac.at/n-430.html) and [summary
     table](https://www.wiiw.ac.at/files/press/summary-of-cesee-key-measures-regarding-covid.pdf)
     -   Focus: fiscal, monetary, public order
     -   Coverage:23 CESEE countries
@@ -267,15 +204,13 @@ The collection is structured around the areas of
      -    Data format: pdf
      -    By [@europarl_EN](https://twitter.com/europarl_en)
 
--   [Economic Policy Response
-    Map](https://sites.google.com/view/atanaspekanov/economic-policy-response-map)
+-   [Economic Policy Response Map](https://sites.google.com/view/atanaspekanov/economic-policy-response-map)
     -   Focus: fiscal and wider liquidity measures
     -   Coverage: EU governments, European Commission, ECB
     -   Data format: html
     -   By [@atanaspekanov](https://twitter.com/atanaspekanov)
 
--   [COVID-19 Economic Stimulus
-    Index](http://web.boun.edu.tr/elgin/COVID.htm) (CESI) and dataset
+-   [COVID-19 Economic Stimulus Index](http://web.boun.edu.tr/elgin/COVID.htm) (CESI) and dataset
     -   Focus: fiscal, monetary & exchange rate measures
     -   Coverage: 166 countries
     -   By [@CeyhunElgin](https://twitter.com/CeyhunElgin)
@@ -303,12 +238,6 @@ The collection is structured around the areas of
     - Data format: html
     - By [@ToddOfMess](https://twitter.com/ToddOfMess)
     [@PeterMcCrory](https://twitter.com/PeterMcCrory)
-
--	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
-    - Focus: countries that are getting World Bank Group support through the COVID-19 dedicated fast-track facility as well as other financing mechanisms
-    - Coverage: developing countries worldwide
-    - Data format: html
-    - By [@WorldBank](https://twitter.com/WorldBank)
 
 ## 3. Social and Employment Policy
 
@@ -462,7 +391,7 @@ The collection is structured around the areas of
     - By [@DSDimensions] (https://twitter.com/DSDimensions)
     [@digitalsci](https://twitter.com/digitalsci)
 
-## 6. Regions, Cities, SMEs, Tourism, Philanthropy
+## 6. Regions, Cities, SMEs, Tourism
 
 -   [OECD multilevel governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
     summary
@@ -516,18 +445,6 @@ By [@GovPredict](https://twitter.com/GovPredict)
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
--   Candid [Philanthropic funding data](https://candid.org/explore-issues/coronavirus)
-    -   Focus: private funders and recipients with details on the amount, purpose and geographical distribution
-    -   Coverage: worldwide
-    -   Data format: html
-    -   By [@CandidDotOrg](https://twitter.com/CandidDotOrg)
-
-- [Global Response Funding Tracker](https://covid19africawatch.org/global-response-monitor/)
-    - Focus: global initiatives and financial support packages organised by 1) Financial Support from International Development Partners, 2) IMF and World Bank Support, 3) Philanthropic and Corporate Giving
-    - Coverage: African countries
-    - Data format: html tables
-    - By [@Covid_Africa](https://twitter.com/Covid_Africa)
-
 ## 7. Public Attitudes and Behavioural Responses
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
@@ -564,13 +481,7 @@ By [@GovPredict](https://twitter.com/GovPredict)
   - Data format: microdata in dta, summary statistics in pdf
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
 
-## 8. Politics, Elections, Media, War and Peace
-
-- [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
-    - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
-    - Coverage: worldwide
-    - Data format: csv
-    - By [@Anacode]( https://twitter.com/Anacode)
+## 8. Politics, Elections, Media, Violent Conflict
 
 - [Global overview of COVID-19: Impact on elections](https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections)
     - Focus: compiles a list of elections postponed due to the outbreak of COVID-19 and of elections held despite the outbreak.
@@ -594,7 +505,94 @@ By [@GovPredict](https://twitter.com/GovPredict)
    [@jameswilsdon](https://twitter.com/jameswilsdon) 
    [@SciChefQC](https://twitter.com/SciChefQC)
 
-## 9. Additional Sources
+-	[Impact:Peace resources on COVID-19](https://docs.google.com/document/d/1QMEOe7NC1wpSx3jLDBohxXja-cN4M5A8ctg8fbLrOcs/edit)
+    - Focus: resources related to violence, conflict, inequality, peacebuilding
+    - Coverage: worldwide
+    - Data format: google doc
+    - By [@ImpactPeace](https://twitter.com/ImpactPeace)
+    [@juliascanney](https://twitter.com/juliascanney)
+
+-	[Conflict and Covid-19 Resource Hub](https://www.politicalsettlements.org/covid-19/resources/)
+    - Focus: conflicts, ceasefires, human rights, elections, emergency legislation, prisoners, etc.
+    - Coverage: worldwide
+    - Data format: html
+    - By [@PolSettlements](https://twitter.com/PolSettlements)
+
+-	[COVID-19 Disorder Tracker (CDT)](https://acleddata.com/analysis/covid-19-disorder-tracker/)
+    - Focus: the pandemic’s impact on political violence and protest, monitoring changes in demonstration activity, state repression, mob attacks, overall rates of armed conflict, etc.
+    - Coverage: worldwide
+    - Data format: html, data can be exported
+    - By [@ACLEDINFO](https://twitter.com/ACLEDINFO)
+
+- [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
+    - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
+    - Coverage: worldwide
+    - Data format: csv
+    - By [@Anacode]( https://twitter.com/Anacode)
+
+## 9. Prisons, courts and Judiciary Systems
+
+-   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
+    -   Focus: responses in prison systems incl. policy responses, releases, and riots
+    -   Coverage: 76 countries
+    -   Data format: html
+    -   By [@OZeveleva](https://twitter.com/OZeveleva)
+
+- [The Marshall Project Coronavirus Tracker](https://www.themarshallproject.org/2020/03/17/tracking-prisons-response-to-coronavirus)
+    - Focus: prison responses, such as visit restrictions, court operations
+    - Coverage: U.S. states
+    - Data format: html
+    - By [@MarshallProj](https://twitter.com/MarshallProj)
+    - [Additional resources](https://www.themarshallproject.org/coronavirus) on the USA on 
+        - [the spread of #COVID19 in prisons](https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons), 
+        - [prisoner in- and outflows](https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus) on a country level and 
+        - [domestic violence reports](https://www.themarshallproject.org/2020/04/22/is-domestic-violence-rising-during-the-coronavirus-shutdown-here-s-what-the-data-shows) during the shutdown
+
+- [Prison Policy: Responses to the COVID-19 pandemic](https://www.prisonpolicy.org/virus/virusresponse.html)
+    - Focus: responses of U.S. jails and prisons, such as releasing people early, lowering or stopping jail admissions, limiting check-ins and visits to offices for people on parole, eliminating medical co-pays, reducing the cost of phone calls
+    - Coverage: U.S. states
+    - Data format: html
+    - By [@PrisonPolicy](https://twitter.com/PrisonPolicy)
+
+- [Vera Institute of Justice prison data](https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic)
+    - Focus: number of prisoners and #COVID19 cases and deaths per prison
+    - Coverage: USA, each individual jail and prison
+    - Data format: Tableau, downloadable as pdf
+    - By [@verainstitute](https://twitter.com/verainstitute)
+
+- [Brennan Center for Justice Courts’ Responses](https://www.brennancenter.org/our-work/research-reports/courts-responses-covid-19-crisis)
+    - Focus: court operations, postponements of hearings and closures
+    - Coverage: U.S. federal courts, immigration courts, and state courts
+    - Data format: html
+    - By [@BrennanCenter](https://twitter.com/BrennanCenter)
+
+## 10. International Development, Development Cooperation, Philantropy
+
+-	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
+    - Focus: countries that are getting World Bank Group support through the COVID-19 dedicated fast-track facility as well as other financing mechanisms
+    - Coverage: developing countries worldwide
+    - Data format: html
+    - By [@WorldBank](https://twitter.com/WorldBank)
+
+-	[African Policy Monitor](https://covid19africawatch.org/african-policy-monitor/)
+    - Focus: 1) Emergency declarations, 2) Fiscal Policy Responses, 3) Monetary Policy Responses, 4) Social Distancing Measures, 5) School closures
+    - Coverage: African countries
+    - Data format: html
+    - By [@Covid_Africa](https://twitter.com/Covid_Africa)
+
+-   Candid [Philanthropic funding data](https://candid.org/explore-issues/coronavirus)
+    -   Focus: private funders and recipients with details on the amount, purpose and geographical distribution
+    -   Coverage: worldwide
+    -   Data format: html
+    -   By [@CandidDotOrg](https://twitter.com/CandidDotOrg)
+
+- [Global Response Funding Tracker](https://covid19africawatch.org/global-response-monitor/)
+    - Focus: global initiatives and financial support packages organised by 1) Financial Support from International Development Partners, 2) IMF and World Bank Support, 3) Philanthropic and Corporate Giving
+    - Coverage: African countries
+    - Data format: html tables
+    - By [@Covid_Africa](https://twitter.com/Covid_Africa)
+
+## Additional Sources: Research & other collections
 
 - [@timvlandas](https://twitter.com/timvlandas) has put together a dedicated [COVID-19 resources webpage](https://timvlandas.com/covid-19-resources/) collecting many sources for research, policy and data related to the crisis.
 
