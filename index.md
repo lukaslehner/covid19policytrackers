@@ -49,8 +49,10 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@tozCSS](https://twitter.com/tozCSS),
 [@jwkritchie](https://twitter.com/jwkritchie)
 [@juliascanney](https://twitter.com/juliascanney),
-[@AllbriteAllday](https://twitter.com/AllbriteAllday) and
-[@AltPrimate](https://twitter.com/AltPrimate).
+[@AllbriteAllday](https://twitter.com/AllbriteAllday)
+[@AltPrimate](https://twitter.com/AltPrimate),
+[@econ_hmg](https://twitter.com/econ_hmg) and
+[]().
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Peace, Prisons](#1-confinement-travel-civic-freedom-peace-prisons)
@@ -590,3 +592,7 @@ By [@GovPredict](https://twitter.com/GovPredict)
 By [@coreeconteam](https://twitter.com/coreeconteam)
 [@ralffbecker](https://twitter.com/ralffbecker)
 [@mvsbach](https://twitter.com/mvsbach)
+
+- The [@CovidImpactLab](https://covid-19-impact-lab.readthedocs.io/en/latest/) is running multiple surveys, thereby facilitating near-real-time monitoring of how people respond to the CoViD-19 crisis and the implemented countermeasures to the pandemic. It is a collaborative research initiative by OpenSourceEconomics supported by [@iza_bonn](https://twitter.com/iza_bonn) [@UniBonn](https://twitter.com/UniBonn) [@ECON_tribute](https://twitter.com/ECON_tribute) [@EPoS224](https://twitter.com/EPoS224). 
+  - [Covid-19 dashboard](http://covid-19-impact-lab.iza.org)
+
