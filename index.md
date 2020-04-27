@@ -48,8 +48,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@leecrawfurd](https://twitter.com/leecrawfurd),
 [@tozCSS](https://twitter.com/tozCSS),
 [@jwkritchie](https://twitter.com/jwkritchie)
-[@juliascanney](https://twitter.com/juliascanney) and
-[@AllbriteAllday](https://twitter.com/AllbriteAllday).
+[@juliascanney](https://twitter.com/juliascanney),
+[@AllbriteAllday](https://twitter.com/AllbriteAllday) and
+[@AltPrimate](https://twitter.com/AltPrimate).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Peace, Prisons](#1-confinement-travel-civic-freedom-peace-prisons)
