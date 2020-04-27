@@ -55,7 +55,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@hmryder](https://twitter.com/hmryder), 
 [@TimGoedeme](https://twitter.com/TimGoedeme),
 [@Covid_Africa](https://twitter.com/Covid_Africa) and
-.
+[@elinaribakova](https://twitter.com/elinaribakova).
 
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
