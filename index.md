@@ -58,19 +58,19 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@elinaribakova](https://twitter.com/elinaribakova).
 
 The collection is structured around the areas of
-- [1. Confinement, Travel, Civic Freedom, Prisons](#1-confinement-travel-civic-freedom-prisons)
+- [1. Confinement, Travel, Civic Freedom](#1-confinement-travel-civic-freedom)
 - [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
 - [3. Social and Employment Policy](#3-social-and-employment-policy)
 - [4. Health and Care Policy](#4-health-and-care-policy)
 - [5. Education, Research and Innovation](#5-education-research-and-innovation)
 - [6. Regions, Cities, SMEs, Tourism](#6-regions-cities-smes-tourism)
-- [7. Public Attitudes and Behavioural Responses](#7-public-attitudes-and-behavioural-responses)
+- [7. Public Attitudes, Behavioural Responses](#7-public-attitudes-behavioural-responses)
 - [8. Politics, Elections, Media, Violent Conflict](#8-politics-elections-media-violent-conflict)
-- [9. Prisons, courts and Judiciary Systems](#9-prisons-courts-and-judiciary-systems)
+- [9. Prisons, Courts and Judiciary Systems](#9-prisons-courts-and-judiciary-systems)
 - [10. International Development, Philantropy](#10-international-development-philantropy)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
-## 1. Confinement, Travel, Civic Freedom, Prisons
+## 1. Confinement, Travel, Civic Freedom
 
 -	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
     - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
@@ -422,10 +422,10 @@ The collection is structured around the areas of
         [@Kennedy_School](https://twitter.com/Kennedy_School)
 
 -	[GovPredict Federal, State, and Local Responses to the Coronavirus](https://www.govpredict.com/corona-virus-resource-center)
-Focus: federal bills, state bills, governor orders, local documents
-Coverage: US city, county, state, and federal level
-Data format: html
-By [@GovPredict](https://twitter.com/GovPredict)
+    - Focus: federal bills, state bills, governor orders, local documents
+    - Coverage: US city, county, state, and federal level
+    - Data format: html
+    - By [@GovPredict](https://twitter.com/GovPredict)
 
 -   OECD OPSI [COVID-19: Innovative responses update](https://oecd-opsi.org/covid-19-innovative-responses-update-2/)
     -   Focus: innovative government responses
@@ -451,7 +451,7 @@ By [@GovPredict](https://twitter.com/GovPredict)
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
-## 7. Public Attitudes and Behavioural Responses
+## 7. Public Attitudes, Behavioural Responses
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
@@ -536,7 +536,7 @@ By [@GovPredict](https://twitter.com/GovPredict)
     - Data format: csv
     - By [@Anacode]( https://twitter.com/Anacode)
 
-## 9. Prisons, courts and Judiciary Systems
+## 9. Prisons, Courts and Judiciary Systems
 
 -   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
     -   Focus: responses in prison systems incl. policy responses, releases, and riots
