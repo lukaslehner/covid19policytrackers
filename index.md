@@ -67,7 +67,7 @@ The collection is structured around the areas of
 - [7. Public Attitudes and Behavioural Responses](#7-public-attitudes-and-behavioural-responses)
 - [8. Politics, Elections, Media, Violent Conflict](#8-politics-elections-media-violent-conflict)
 - [9. Prisons, courts and Judiciary Systems](#9-prisons-courts-and-judiciary-systems)
-- [10. International Development, Development Cooperation, Philantropy](#10-international-development-development-cooperation-philantropy)
+- [10. International Development, Philantropy](#10-international-development-philantropy)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
 ## 1. Confinement, Travel, Civic Freedom, Prisons
@@ -572,7 +572,7 @@ By [@GovPredict](https://twitter.com/GovPredict)
     - Data format: html
     - By [@BrennanCenter](https://twitter.com/BrennanCenter)
 
-## 10. International Development, Development Cooperation, Philantropy
+## 10. International Development, Philantropy
 
 -	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
     - Focus: countries that are getting World Bank Group support through the COVID-19 dedicated fast-track facility as well as other financing mechanisms
