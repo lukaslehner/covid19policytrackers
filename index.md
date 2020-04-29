@@ -64,7 +64,7 @@ The collection is structured around the areas of
 - [4. Health and Care Policy](#4-health-and-care-policy)
 - [5. Education, Research and Innovation](#5-education-research-and-innovation)
 - [6. Regions, Cities, SMEs, Tourism](#6-regions-cities-smes-tourism)
-- [7. Public Attitudes, Behavioural Responses](#7-public-attitudes-behavioural-responses)
+- [7. Public Attitudes, Behavioural Responses, Mobility](#7-public-attitudes-behavioural-responses-mobility)
 - [8. Politics, Elections, Media, Violent Conflict](#8-politics-elections-media-violent-conflict)
 - [9. Prisons, Courts and Judiciary Systems](#9-prisons-courts-and-judiciary-systems)
 - [10. International Development, Philantropy](#10-international-development-philantropy)
@@ -451,7 +451,7 @@ The collection is structured around the areas of
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
-## 7. Public Attitudes, Behavioural Responses
+## 7. Public Attitudes, Behavioural Responses, Mobility
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
@@ -486,6 +486,14 @@ The collection is structured around the areas of
   - Coverage: 20 countries worldwide
   - Data format: microdata in dta, summary statistics in pdf
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
+
+- [Google Covid-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
+    - Focus: mobility trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. Data is sourced from Google Apps such as Google Maps.
+    - Coverage: 131 countries, of which many can be disaggregated at the regional level
+    - Data format: csv data, pdf reports
+    - By [@Google](https://twitter.com/Google)
+[@googlemaps](https://twitter.com/googlemaps)
+
 
 ## 8. Politics, Elections, Media, Violent Conflict
 
