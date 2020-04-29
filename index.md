@@ -572,6 +572,15 @@ The collection is structured around the areas of
     - Data format: html
     - By [@BrennanCenter](https://twitter.com/BrennanCenter)
 
+- [UCLA Law Covid-19 Behind Bars Data Project](https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906)
+    - Focus: cases & deaths for each US prison, jail, youth correctional facility and immigration detention facility. It also tracks releases, population reduction requests and responses, legal filings and court orders.
+    - Coverage: USA on a state and prison unit level
+    - Data format: Google spreadsheet, downloadable as xlsx or csv
+    - By [@uclaprisondata](https://twitter.com/uclaprisondata)
+[@SharonDolovich](https://twitter.com/SharonDolovich)
+[@aaronlittman](https://twitter.com/aaronlittman)
+[@uclaprisonlaw](https://twitter.com/uclaprisonlaw)
+
 ## 10. International Development, Philantropy
 
 -	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
