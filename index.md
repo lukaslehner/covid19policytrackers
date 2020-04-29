@@ -297,6 +297,13 @@ The collection is structured around the areas of
     - Data format: pdf
     - By [@labour_e](https://twitter.com/labour_e)
 
+- [IGC COVID-19](https://www.theigc.org/covid-19/tracker/)
+    - Focus: economic support measures for countries worldwide by 1) wage/employment support, 2) cash transfers, 3) credit schemes/guarantees/ business support, 4) tax delays/deferrals, 5) tax cuts/ cancellations/exemptions/credits, 6) Interest rate cuts/liquidity measures/ other monetary measures
+    - Coverage: countries worldwide with a focus on developing countries
+    - Data format: google spreadsheet, downloadable as xlsx or csv
+    - By [@The_IGC](https://twitter.com/The_IGC)
+
+
 ## 4. Health and Care Policy
 
 -   [OECD Health System responses summary](https://t.co/f41gKRros0?amp=1) and
