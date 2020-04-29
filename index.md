@@ -494,6 +494,11 @@ The collection is structured around the areas of
     - By [@Google](https://twitter.com/Google)
 [@googlemaps](https://twitter.com/googlemaps)
 
+- [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility)
+    - Focus: mobility trends. Data can be separated by walking, driving and public transport. Data reflect relative volume of directions requests compared to a baseline volume on 13 January 2020.
+    - Coverage: countries, regions and cities worldwide
+    - Data format: csv data, html charts
+    - By [@Apple](https://twitter.com/Apple)
 
 ## 8. Politics, Elections, Media, Violent Conflict
 
