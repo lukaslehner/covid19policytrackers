@@ -58,7 +58,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@elinaribakova](https://twitter.com/elinaribakova).
 
 The collection is structured around the areas of
-- [1. Confinement, Travel, Civic Freedom](#1-confinement-travel-civic-freedom)
+- [1. Confinement, Civic Freedom, Borders](#1-confinement-civic-freedom-borders)
 - [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
 - [3. Tax Policy](#3-tax-policy)
 - [4. Trade Policy and FDI](#4-trade-policy-and-fdi)
@@ -72,7 +72,7 @@ The collection is structured around the areas of
 - [12. International Development, Philantropy](#12-international-development-philantropy)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
-## 1. Confinement, Travel, Civic Freedom
+## 1. Confinement, Civic Freedom, Borders
 
 -	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
     - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
@@ -133,6 +133,12 @@ The collection is structured around the areas of
     -   Coverage: worldwide
     -   Data format: pdf, html
     -   By [@Mayer_Brown](https://twitter.com/Mayer_Brown)
+
+- [EY global immigration tracker](https://www.ey.com/en_lu/tax/how-covid-19-is-disrupting-immigration-policies-and-worker-mobility-a-tracker)
+    - Focus: mobility and immigration regulations, such as entry restrictions, quarantine orders for newly admitted citizens, visa suspensions or changes in eligibility criteria for visa applications
+    - Coverage: countries worldwide
+    - Data format: pdf
+    - By [@EYnews](https://twitter.com/EYnews)
 
 ## 2. Macro, Financial and Tax Policy
 
