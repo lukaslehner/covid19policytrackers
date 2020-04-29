@@ -243,6 +243,12 @@ The collection is structured around the areas of
 
 ## 4. Trade Policy and FDI
 
+- [EY Covid-19 Global Trade Considerations tracker](https://www.ey.com/en_lu/tax/how-covid-19-is-affecting-customs-and-excise-taxes-a-trade-track)
+    - Focus: trade policies, such as import tariffs on personal protective equipment, export restrictions on similar goods, relaxing regulatory requirements to help quicker responses.
+    - Coverage: countries worldwide
+    - Data format: pdf
+    - By [@EYnews](https://twitter.com/EYnews)
+
 - [Covid-19 Food Policy Tracker](https://www.ifpri.org/project/covid-19-food-trade-policy-tracker)
     - Focus: food export restrictions and their impact as a percentage of each country’s imported calories that are impacted by export restrictions
     - Coverage: countries worldwide
