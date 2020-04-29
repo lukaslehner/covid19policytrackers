@@ -597,6 +597,7 @@ The collection is structured around the areas of
 [@cconcannon1](https://twitter.com/cconcannon1)
 [@everydayasoreng](https://twitter.com/everydayasoreng)
 [@aaronlittman](https://twitter.com/aaronlittman)
+[@nrjones8](https://twitter.com/nrjones8)
 
 ## 10. International Development, Philantropy
 
