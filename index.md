@@ -72,11 +72,11 @@ The collection is structured around the areas of
 
 ## 1. Confinement, Travel, Civic Freedom
 
--	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
+-	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset){target="_blank"} 
     - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
     - Coverage: worldwide
     - Data format: xlsx spreadsheet
-    - By [@ACAPSproject](https://twitter.com/ACAPSproject)
+    - By [@ACAPSproject](https://twitter.com/ACAPSproject){target="_blank"} 
 
 -   [Oxford COVID19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
     (OxCGRT) incl. a stringency index on government response
@@ -247,8 +247,7 @@ The collection is structured around the areas of
 
 ## 3. Social and Employment Policy
 
--   Living paper: [Social Protection and Jobs Responses to COVID-19: A
-    Real-Time Review of Country Measures](http://www.ugogentilini.net/)
+-   Living paper: [Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures](http://www.ugogentilini.net/)
     -   Focus: social protection and jobs
     -   Countries: worldwide
     -   Data format: pdf
@@ -256,8 +255,7 @@ The collection is structured around the areas of
         [@mohamed_almenfi](https://twitter.com/mohamed_almenfi)
         (WorldBank, ILO, UNICEF)
 
--   [OECD employment and social policies
-    dataset](http://oecd.org/social/Covid-19-Employment-and-Social-Policy-Responses-by-Country.xlsx)
+-   [OECD employment and social policies dataset](http://oecd.org/social/Covid-19-Employment-and-Social-Policy-Responses-by-Country.xlsx)
     -   Focus: Employment and social policies
     -   Coverage: 37 OECD and G20 countries
     -   Data format: xlsx spreadsheet
@@ -265,14 +263,12 @@ The collection is structured around the areas of
         [@AGarnero](https://twitter.com/AGarnero)
         [@sebkoenigs](file:///C:\Users\lukas\Desktop\@sebkoenigs)
 
--   [ILO collection of country policy
-    responses](https://ilo.org/global/topics/coronavirus/country-responses/lang--en/index.htm)
+-   [ILO collection of country policy responses](https://ilo.org/global/topics/coronavirus/country-responses/lang--en/index.htm)
     -   Focus: structured by 4 categories: 1) Stimulating economy & employment 2) Supporting enterprises, jobs, incomes 3) Protecting workers in workplace 4) Relying on social dialogue
     -   Coverage: 174 countries
     -   Data format: html
 
--   [ILO Social Protection
-    Monitor](https://www.social-protection.org/gimi/RessourcePDF.action?id=56024)
+-   [ILO Social Protection Monitor](https://www.social-protection.org/gimi/RessourcePDF.action?id=56024)
     -   Focus: social protection
     -   Coverage: 46 countries
     -   Data format: pdf
@@ -303,8 +299,7 @@ The collection is structured around the areas of
 
 ## 4. Health and Care Policy
 
--   [OECD Health System responses
-    summary](https://t.co/f41gKRros0?amp=1) and
+-   [OECD Health System responses summary](https://t.co/f41gKRros0?amp=1) and
     [dataset](http://oecd.org/health/COVID19-OECD-Health-System-Response-Tracker.xlsx)
     -   Focus: health system responses. The policies are structured around 1) access to diagnostics 2) strengthening capacity 3) leverage digital solutions 4) R&D.
     -   Coverage: mainly OECD + Argentina, Peru, Costa Rica
@@ -313,8 +308,7 @@ The collection is structured around the areas of
         [@FranColombo2019](https://twitter.com/FranColombo2019)
         [@fredguanais](https://twitter.com/fredguanais)
 
--   [Health System Response
-    Monitor](https://www.covid19healthsystem.org/mainpage.aspx)
+-   [Health System Response Monitor](https://www.covid19healthsystem.org/mainpage.aspx)
     -   Focus: health systems and wider public health initiatives
     -   Coverage: Europe
     -   Data format: pdf
@@ -324,8 +318,7 @@ The collection is structured around the areas of
         [@EU_Commission](https://twitter.com/EU_Commission) incl.
         [@BKMErica](https://twitter.com/BKMErica)
 
--   [International Long-Term Care Policy Network
-    resources](https://ltccovid.org) and [country
+-   [International Long-Term Care Policy Network resources](https://ltccovid.org) and [country
     reports](https://t.co/VMcevXBLyg?amp=1)
     -   Focus: long-term care policy
     -   Coverage: worldwide
@@ -344,8 +337,7 @@ The collection is structured around the areas of
 
 ## 5. Education, Research and Innovation
 
--   [UNESCO COVID-19 Educational Disruption and
-    Response](https://en.unesco.org/covid19/educationresponse)
+-   [UNESCO COVID-19 Educational Disruption and Response](https://en.unesco.org/covid19/educationresponse)
     -   Focus: school closures
     -   Coverage: worldwide
     -   Data format: html (map ony)
