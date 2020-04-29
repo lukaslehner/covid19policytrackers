@@ -223,6 +223,13 @@ The collection is structured around the areas of
     - By [@ToddOfMess](https://twitter.com/ToddOfMess)
     [@PeterMcCrory](https://twitter.com/PeterMcCrory)
 
+- [Firm-level risk Covid-19 exposure](https://sites.google.com/view/firmrisk/home?authuser=0)
+    - Focus: firm-level measures of exposure, risk, and sentiment to epidemic diseases (covid-19, SARS, H1N1, Ebola, etc.) constructed using textual analysis of quarterly earnings conference calls
+    - Coverage: 11’000 firms in 81 countries; 2002 to 2020q1
+    - Data format: csv, tsv, dta
+    - By [@StephanHollan](https://twitter.com/StephanHollan)
+[@L_van_Lent](https://twitter.com/L_van_Lent)
+
 ## 3. Tax Policy
 
 -   [OECD tax policy dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
