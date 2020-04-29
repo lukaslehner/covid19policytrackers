@@ -568,7 +568,7 @@ The collection is structured around the areas of
 
 - [Vera Institute of Justice prison data](https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic)
     - Focus: number of prisoners and #COVID19 cases and deaths per prison
-    - Coverage: USA, each individual jail and prison
+    - Coverage: U.S. facility-level
     - Data format: Tableau, downloadable as pdf
     - By [@verainstitute](https://twitter.com/verainstitute)
 
@@ -580,12 +580,23 @@ The collection is structured around the areas of
 
 - [UCLA Law Covid-19 Behind Bars Data Project](https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906)
     - Focus: cases & deaths for each US prison, jail, youth correctional facility and immigration detention facility. It also tracks releases, population reduction requests and responses, legal filings and court orders.
-    - Coverage: USA on a state and prison unit level
+    - Coverage: U.S. facility-level
     - Data format: Google spreadsheet, downloadable as xlsx or csv
     - By [@uclaprisondata](https://twitter.com/uclaprisondata)
 [@SharonDolovich](https://twitter.com/SharonDolovich)
 [@aaronlittman](https://twitter.com/aaronlittman)
 [@uclaprisonlaw](https://twitter.com/uclaprisonlaw)
+
+- [Covid Prison Data](https://covidprisondata.com/)
+    - Focus: cases, tests and deaths among inmates and guards; historical population data for state prisons
+    - Coverage: U.S. states and facility-level
+    - Data format: xlsx, csv, html
+    - By [@DataPrison](https://twitter.com/DataPrison)
+[@JacobKaplan19](https://twitter.com/JacobKaplan19)
+[@seathebass92](https://twitter.com/seathebass92)
+[@cconcannon1](https://twitter.com/cconcannon1)
+[@everydayasoreng](https://twitter.com/everydayasoreng)
+[@aaronlittman](https://twitter.com/aaronlittman)
 
 ## 10. International Development, Philantropy
 
