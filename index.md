@@ -448,8 +448,8 @@ The collection is structured around the areas of
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
     - Focus: how citizens are preparing and coping with the COVID-19 crisis
-    - Coverage: worldwide
-    - Data format: data will be made available later
+    - Coverage: 58 countries and over 100,000 respondents
+    - Data format: aggregate results in html, individual level data in dta
     - By researchers of 12 universities incl.
         [@Margarita1512](https://twitter.com/Margarita1512)
         [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
@@ -458,6 +458,7 @@ The collection is structured around the areas of
         [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
         [@fetzert](https://twitter.com/fetzert)
         [@caria_stefano](https://twitter.com/caria_stefano)
+    - [Individual level data](https://osf.io/3sn2k/)
 
 - [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker) 
   - Focus: behavrioural change to COVID19 safety policies
