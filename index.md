@@ -60,14 +60,16 @@ March 2020 and is based on a collaborative effort with suggestions from
 The collection is structured around the areas of
 - [1. Confinement, Travel, Civic Freedom](#1-confinement-travel-civic-freedom)
 - [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
-- [3. Social and Employment Policy](#3-social-and-employment-policy)
-- [4. Health and Care Policy](#4-health-and-care-policy)
-- [5. Education, Research and Innovation](#5-education-research-and-innovation)
-- [6. Regions, Cities, SMEs, Tourism](#6-regions-cities-smes-tourism)
-- [7. Public Attitudes, Behavioural Responses, Mobility](#7-public-attitudes-behavioural-responses-mobility)
-- [8. Politics, Elections, Media, Violent Conflict](#8-politics-elections-media-violent-conflict)
-- [9. Prisons, Courts and Judiciary Systems](#9-prisons-courts-and-judiciary-systems)
-- [10. International Development, Philantropy](#10-international-development-philantropy)
+- [3. Tax Policy](#3-tax-policy)
+- [4. Trade Policy and FDI](#4-trade-policy-and-fdi)
+- [5. Social and Employment Policy](#5-social-and-employment-policy)
+- [6. Health and Care Policy](#6-health-and-care-policy)
+- [7. Education, Research and Innovation](#7-education-research-and-innovation)
+- [8. Regions, Cities, SMEs, Tourism](#8-regions-cities-smes-tourism)
+- [9. Public Attitudes, Behavioural Responses, Mobility](#9-public-attitudes-behavioural-responses-mobility)
+- [10. Politics, Elections, Media, Violent Conflict](#10-politics-elections-media-violent-conflict)
+- [11. Prisons, Courts and Judiciary Systems](#11-prisons-courts-and-judiciary-systems)
+- [12. International Development, Philantropy](#12-international-development-philantropy)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
 ## 1. Confinement, Travel, Civic Freedom
@@ -148,35 +150,11 @@ The collection is structured around the areas of
     [OECD_Social](https://twitter.com/OECD_Social)
     [@OECDtax](https://twitter.com/OECDtax)
 
--   [OECD tax policy dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
-    -   Focus: tax policy measures incl. a detailed breakdown of cash flow measures and changes in tax policies for firms & households
-    -   Coverage: 91 countries
-    -   Data format: xlsm spreadsheet
-    -   By [@OECDtax](https://twitter.com/OECDtax) incl.
-        [@DBradbury1021](https://twitter.com/DBradbury1021)
-        [@THanappi](https://twitter.com/THanappi)
-        [@PierceOReilly](https://twitter.com/PierceOReilly)
-        [@jmteusch](https://twitter.com/jmteusch)
-
--   [OECD tax administration responses dataset](https://read.oecd-ilibrary.org/view/?ref=126_126478-29c4rprb3y&title=Tax_administration_responses_to_COVID-9_Measures_taken_to_support_taxpayers)
-    -   Focus: 1) additional time for tax affairs, 2) quicker refunds, 3) changes in audit policy, 4) services & communications
-    -   Coverage: worldwide
-    -   Data format: pdf
-    -   By CIAT/IOTA/OECD
-
 -   Yale [COVID-19 Financial Response Tracker (CFRT)](https://som.yale.edu/node/222278) by the Yale Program on
     Financial Stability
     -   Focus: financial stability (incl. fiscal, monetary, macroprudential and liquidity measures)
     -   Coverage: worldwide
     -   Data format: xlsx spreadsheet
-
--   UNCTAD [update on cross border investment flows](https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=2313)
-    -   Focus: projections on global FDI and data on CAPEX, greenfield investments, M&As, and MNE earning estimates
-    -   Coverage: worldwide
-    -   Data format: pdf
-    -   By [@UNCTAD](https://twitter.com/UNCTAD)
-        [@unctadwif](https://twitter.com/unctadwif) incl.
-        [@perezludena](https://twitter.com/perezludena)
 
 -   wiiw [Eastern Europe Coronavirus tracker](https://wiiw.ac.at/n-430.html) and [summary
     table](https://www.wiiw.ac.at/files/press/summary-of-cesee-key-measures-regarding-covid.pdf)
@@ -232,12 +210,6 @@ The collection is structured around the areas of
   [@MPGoodman88](https://twitter.com/MPGoodman88)
   [@handrewschwartz](https://twitter.com/handrewschwartz)
 
-- [Tax Foundation tax relief dataset](https://taxfoundation.org/coronavirus-country-by-country-responses/)
-    -   Focus: individual, business, consumption, and other taxes
-    -   Coverage: worldwide
-    -   Data format: html
-    -   By [@TaxFoundation](https://twitter.com/TaxFoundation) [@ElkeAsen](https://twitter.com/ElkeAsen) [@crisberechet](https://twitter.com/crisberechet) [@danieldbunn](https://twitter.com/danieldbunn)
-
 -	[U.S. Economic Policy Response to Coronavirus Pandemic](https://messertodd.github.io/coronavirus-policy-response/)
     - Focus: economic policy responses, explanation of economic mechanisms at play and references to theory and academic readings on the implemented measures.
     - Coverage: USA
@@ -245,7 +217,42 @@ The collection is structured around the areas of
     - By [@ToddOfMess](https://twitter.com/ToddOfMess)
     [@PeterMcCrory](https://twitter.com/PeterMcCrory)
 
-## 3. Social and Employment Policy
+## 3. Tax Policy
+
+-   [OECD tax policy dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
+    -   Focus: tax policy measures incl. a detailed breakdown of cash flow measures and changes in tax policies for firms & households
+    -   Coverage: 91 countries
+    -   Data format: xlsm spreadsheet
+    -   By [@OECDtax](https://twitter.com/OECDtax) incl.
+        [@DBradbury1021](https://twitter.com/DBradbury1021)
+        [@THanappi](https://twitter.com/THanappi)
+        [@PierceOReilly](https://twitter.com/PierceOReilly)
+        [@jmteusch](https://twitter.com/jmteusch)
+
+-   [OECD tax administration responses dataset](https://read.oecd-ilibrary.org/view/?ref=126_126478-29c4rprb3y&title=Tax_administration_responses_to_COVID-9_Measures_taken_to_support_taxpayers)
+    -   Focus: 1) additional time for tax affairs, 2) quicker refunds, 3) changes in audit policy, 4) services & communications
+    -   Coverage: worldwide
+    -   Data format: pdf
+    -   By CIAT/IOTA/OECD
+
+- [Tax Foundation tax relief dataset](https://taxfoundation.org/coronavirus-country-by-country-responses/)
+    -   Focus: individual, business, consumption, and other taxes
+    -   Coverage: worldwide
+    -   Data format: html
+    -   By [@TaxFoundation](https://twitter.com/TaxFoundation) [@ElkeAsen](https://twitter.com/ElkeAsen) [@crisberechet](https://twitter.com/crisberechet) [@danieldbunn](https://twitter.com/danieldbunn)
+
+## 4. Trade Policy and FDI
+
+
+-   UNCTAD [update on cross border investment flows](https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=2313)
+    -   Focus: projections on global FDI and data on CAPEX, greenfield investments, M&As, and MNE earning estimates
+    -   Coverage: worldwide
+    -   Data format: pdf
+    -   By [@UNCTAD](https://twitter.com/UNCTAD)
+        [@unctadwif](https://twitter.com/unctadwif) incl.
+        [@perezludena](https://twitter.com/perezludena)
+
+## 5. Social and Employment Policy
 
 -   Living paper: [Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures](http://www.ugogentilini.net/)
     -   Focus: social protection and jobs
@@ -297,14 +304,14 @@ The collection is structured around the areas of
     - Data format: pdf
     - By [@labour_e](https://twitter.com/labour_e)
 
-- [IGC COVID-19](https://www.theigc.org/covid-19/tracker/)
+- [IGC COVID-19 tracker](https://www.theigc.org/covid-19/tracker/)
     - Focus: economic support measures for countries worldwide by 1) wage/employment support, 2) cash transfers, 3) credit schemes/guarantees/ business support, 4) tax delays/deferrals, 5) tax cuts/ cancellations/exemptions/credits, 6) Interest rate cuts/liquidity measures/ other monetary measures
     - Coverage: countries worldwide with a focus on developing countries
     - Data format: google spreadsheet, downloadable as xlsx or csv
     - By [@The_IGC](https://twitter.com/The_IGC)
 
 
-## 4. Health and Care Policy
+## 6. Health and Care Policy
 
 -   [OECD Health System responses summary](https://t.co/f41gKRros0?amp=1) and
     [dataset](http://oecd.org/health/COVID19-OECD-Health-System-Response-Tracker.xlsx)
@@ -342,7 +349,7 @@ The collection is structured around the areas of
     -   Data format: html
     -   By [@CambridgeCore](https://twitter.com/CambridgeCore)
 
-## 5. Education, Research and Innovation
+## 7. Education, Research and Innovation
 
 -   [UNESCO COVID-19 Educational Disruption and Response](https://en.unesco.org/covid19/educationresponse)
     -   Focus: school closures
@@ -396,7 +403,7 @@ The collection is structured around the areas of
     - By [@DSDimensions] (https://twitter.com/DSDimensions)
     [@digitalsci](https://twitter.com/digitalsci)
 
-## 6. Regions, Cities, SMEs, Tourism
+## 8. Regions, Cities, SMEs, Tourism
 
 -   [OECD multilevel governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
     summary
@@ -450,7 +457,7 @@ The collection is structured around the areas of
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
-## 7. Public Attitudes, Behavioural Responses, Mobility
+## 9. Public Attitudes, Behavioural Responses, Mobility
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
@@ -500,7 +507,7 @@ The collection is structured around the areas of
     - Data format: csv data, html charts
     - By [@Apple](https://twitter.com/Apple)
 
-## 8. Politics, Elections, Media, Violent Conflict
+## 10. Politics, Elections, Media, Violent Conflict
 
 - [Global overview of COVID-19: Impact on elections](https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections)
     - Focus: compiles a list of elections postponed due to the outbreak of COVID-19 and of elections held despite the outbreak.
@@ -549,7 +556,7 @@ The collection is structured around the areas of
     - Data format: csv
     - By [@Anacode]( https://twitter.com/Anacode)
 
-## 9. Prisons, Courts and Judiciary Systems
+## 11. Prisons, Courts and Judiciary Systems
 
 -   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
     -   Focus: responses in prison systems incl. policy responses, releases, and riots
@@ -606,7 +613,7 @@ The collection is structured around the areas of
 [@aaronlittman](https://twitter.com/aaronlittman)
 [@nrjones8](https://twitter.com/nrjones8)
 
-## 10. International Development, Philantropy
+## 12. International Development, Philantropy
 
 -	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
     - Focus: countries that are getting World Bank Group support through the COVID-19 dedicated fast-track facility as well as other financing mechanisms
