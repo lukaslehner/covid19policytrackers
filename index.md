@@ -243,6 +243,12 @@ The collection is structured around the areas of
 
 ## 4. Trade Policy and FDI
 
+- [Covid-19 Food Policy Tracker](https://www.ifpri.org/project/covid-19-food-trade-policy-tracker)
+    - Focus: food export restrictions and their impact as a percentage of each country’s imported calories that are impacted by export restrictions
+    - Coverage: countries worldwide
+    - Data format: csv
+    - By [@IFPRI](https://twitter.com/IFPRI)
+[Dashboard](https://public.tableau.com/profile/laborde6680#!/vizhome/ExportRestrictionsTracker/FoodExportRestrictionsTracker)
 
 -   UNCTAD [update on cross border investment flows](https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=2313)
     -   Focus: projections on global FDI and data on CAPEX, greenfield investments, M&As, and MNE earning estimates
