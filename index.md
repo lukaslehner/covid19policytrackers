@@ -641,6 +641,15 @@ The collection is structured around the areas of
 
 ## 12. International Development, Philantropy
 
+- [UNDP HDR Global Preparedness and Vulnerability Dashboard](http://hdr.undp.org/)
+    - Focus: Index for preparedness and vulnerability to pandemics by country. Preparedness index composed of indicators such as Human Development Index, number of physicians and mobile phone subscriptions. Vulnerability index composed of indicators such as population in poverty, population without social protection, remittances inflows or tourism as a share of GDP.
+    - Coverage: all countries worldwide
+    - Data format: xlsx, pdf, html
+    - By [@UNDP](https://twitter.com/UNDP)
+    - [Dashboard](https://datastudio.google.com/u/0/reporting/abd4128c-7d8d-4411-b49a-ac04ab074e69/page/QYXLB)
+    - [Report](http://hdr.undp.org/sites/default/files/covid-19_and_human_development.pdf)
+
+
 -	[World Bank Group’s Operational Response to COVID-19 (coronavirus) – Projects List](https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list)
     - Focus: countries that are getting World Bank Group support through the COVID-19 dedicated fast-track facility as well as other financing mechanisms
     - Coverage: developing countries worldwide
