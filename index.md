@@ -54,8 +54,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@econ_hmg](https://twitter.com/econ_hmg),
 [@hmryder](https://twitter.com/hmryder), 
 [@TimGoedeme](https://twitter.com/TimGoedeme),
-[@Covid_Africa](https://twitter.com/Covid_Africa) and
-[@elinaribakova](https://twitter.com/elinaribakova).
+[@Covid_Africa](https://twitter.com/Covid_Africa)
+[@elinaribakova](https://twitter.com/elinaribakova) and
+[@JuliaGruebler](https://twitter.com/JuliaGruebler).
 
 The collection is structured around the areas of
 - [1. Confinement, Civic Freedom, Borders](#1-confinement-civic-freedom-borders)
@@ -162,8 +163,8 @@ The collection is structured around the areas of
     -   Coverage: worldwide
     -   Data format: xlsx spreadsheet
 
--   wiiw [Eastern Europe Coronavirus tracker](https://wiiw.ac.at/n-430.html) and [summary
-    table](https://www.wiiw.ac.at/files/press/summary-of-cesee-key-measures-regarding-covid.pdf)
+-   wiiw [Eastern Europe Coronavirus tracker](https://wiiw.ac.at/eastern-europe-coronavirus-tracker-economic-impact-rising-n-439.html) and [summary
+    table](https://wiiw.ac.at/files/news/summary-of-measures-cesee-16-04-2020-n-439.pdf)
     -   Focus: fiscal, monetary, public order
     -   Coverage:23 CESEE countries
     -   Data format: pdf, html
