@@ -336,6 +336,15 @@ The collection is structured around the areas of
     - Data format: google spreadsheet, downloadable as xlsx or csv
     - By [@The_IGC](https://twitter.com/The_IGC)
 
+- [COVID Inequality Project](https://sites.google.com/view/covidinequality/home)
+    - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
+    - Coverage: USA, UK, Germany
+    - Data format: aggregate data in csv, results reported in html and pdf
+    - By [@abicadams](https://twitter.com/abicadams)
+[@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
+[@MartaGolin](https://twitter.com/MartaGolin)
+Christopher Rauh
+    - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
 
 ## 6. Health and Care Policy
 
