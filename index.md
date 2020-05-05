@@ -59,7 +59,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@JuliaGruebler](https://twitter.com/JuliaGruebler).
 
 The collection is structured around the areas of
-- [1. Confinement, Civic Freedom, Borders](#1-confinement-civic-freedom-borders)
+- [1. Non-Pharmaceutical Interventions incl. Confinement, Civic Freedom, Borders](#1-non-pharmaceutical-interventions-incl-confinement-civic-freedom-borders)
 - [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
 - [3. Tax Policy](#3-tax-policy)
 - [4. Trade Policy and FDI](#4-trade-policy-and-fdi)
@@ -73,7 +73,13 @@ The collection is structured around the areas of
 - [12. International Development, Philantropy](#12-international-development-philantropy)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
-## 1. Confinement, Civic Freedom, Borders
+## 1. Non-Pharmaceutical Interventions incl. Confinement, Civic Freedom, Borders
+
+- [WHO PHSM: Public health and social measures](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm)
+    - Focus: measures or actions by individuals, institutions, communities, local and national governments and international bodies to slow or stop the spread of an infectious disease. Establishing one single open-content dataset by merging pre-existing datasets from WHO, the London School of Hygiene and Tropical Medicine, ACAPS, University of Oxford, Global Public Health Intelligence Network, US Centers for Disease Control and Prevention and the Complexity Science Hub Vienna.
+    - Coverage: countries worldwide
+    - Data format: csv
+    - By [@WHO](https://twitter.com/WHO)
 
 -	[COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset)
     - Focus: implemented governments measures structured by 1) Social distancing, 2) Movement restrictions, 3) Public health measures, 4) Social and economic measures, 5) Lockdowns
