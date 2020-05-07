@@ -55,8 +55,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@hmryder](https://twitter.com/hmryder), 
 [@TimGoedeme](https://twitter.com/TimGoedeme),
 [@Covid_Africa](https://twitter.com/Covid_Africa)
-[@elinaribakova](https://twitter.com/elinaribakova) and
-[@JuliaGruebler](https://twitter.com/JuliaGruebler).
+[@elinaribakova](https://twitter.com/elinaribakova)
+[@JuliaGruebler](https://twitter.com/JuliaGruebler) and
+[@TobyMPhillips](https://twitter.com/TobyMPhillips).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement, Civic Freedom, Borders](#1-non-pharmaceutical-interventions-incl-confinement-civic-freedom-borders)
@@ -88,7 +89,7 @@ The collection is structured around the areas of
     - By [@ACAPSproject](https://twitter.com/ACAPSproject)
 
 -   [Oxford COVID19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
-    (OxCGRT) incl. a stringency index on government response ([website](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker), [GitHub repo](https://github.com/OxCGRT/covid-policy-tracker))
+    (OxCGRT) incl. a stringency index on government response ([GitHub repo](https://github.com/OxCGRT/covid-policy-tracker))
     -   Focus: 8 indicators on containment policies (such as school closures or travel restrictions), 4 economic indicators on fiscal or stimulus measures, and 5 indicators that track health system policies (such as testing).
     -   Coverage: 150 countries
     -   Data format: csv or via API
