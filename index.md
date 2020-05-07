@@ -88,10 +88,9 @@ The collection is structured around the areas of
     - By [@ACAPSproject](https://twitter.com/ACAPSproject)
 
 -   [Oxford COVID19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
-    (OxCGRT) incl. a stringency index on government response
-    -   Focus: 9 indicators on policies such as school closures, travel
-        bans, 4 financial indicators on fiscal or monetary measures
-    -   Coverage: 80 countries
+    (OxCGRT) incl. a stringency index on government response ([website](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker), [GitHub repo](https://github.com/OxCGRT/covid-policy-tracker))
+    -   Focus: 8 indicators on containment policies (such as school closures or travel restrictions), 4 economic indicators on fiscal or stimulus measures, and 5 indicators that track health system policies (such as testing).
+    -   Coverage: 150 countries
     -   Data format: csv or via API
     -   By [@thomasnhale](https://twitter.com/thomasnhale),
         [@annajessiep](https://twitter.com/annajessiep),
