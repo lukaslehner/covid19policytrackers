@@ -593,6 +593,13 @@ Christopher Rauh
     - Data format: html
     - By [@ForCivicEU](https://twitter.com/ForCivicEU)
 
+- [Civicus Monitor Tracking Civic Space](https://monitor.civicus.org/COVID19/)
+    - Focus: restrictions and attacks on civic freedoms. Categories include 1) Censorship and restrictions on access to information, 2) Threats and arrests for criticising state response, 3) Restrictions on the media, 4) Passage and use of restrictive laws to counter ‘fake news’, 5) Targeting of human rights defenders, 6) Police abuses during lockdowns, 7) Surveillance and violations of the right to privacy, 8) Overly broad emergency laws and new restrictive legislation.
+    - Coverage: countries worldwide
+    - Data format: html
+    - By [@CIVICUSMonitor](https://twitter.com/CIVICUSMonitor)
+[@CIVICUSalliance](https://twitter.com/CIVICUSalliance)
+
 - [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
     - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
     - Coverage: worldwide
