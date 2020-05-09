@@ -60,8 +60,8 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@TobyMPhillips](https://twitter.com/TobyMPhillips).
 
 The collection is structured around the areas of
-- [1. Non-Pharmaceutical Interventions incl. Confinement, Civic Freedom, Borders](#1-non-pharmaceutical-interventions-incl-confinement-civic-freedom-borders)
-- [2. Macro, Financial and Tax Policy](#2-macro-financial-and-tax-policy)
+- [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
+- [2. Macroeconomic and Financial Policy](#2-macroeconomic-and-financial-policy)
 - [3. Tax Policy](#3-tax-policy)
 - [4. Trade Policy and FDI](#4-trade-policy-and-fdi)
 - [5. Social and Employment Policy](#5-social-and-employment-policy)
@@ -69,12 +69,14 @@ The collection is structured around the areas of
 - [7. Education, Research and Innovation](#7-education-research-and-innovation)
 - [8. Regions, Cities, SMEs, Tourism](#8-regions-cities-smes-tourism)
 - [9. Public Attitudes, Behavioural Responses, Mobility](#9-public-attitudes-behavioural-responses-mobility)
-- [10. Politics, Elections, Media, Violent Conflict](#10-politics-elections-media-violent-conflict)
-- [11. Prisons, Courts and Judiciary Systems](#11-prisons-courts-and-judiciary-systems)
-- [12. International Development, Philantropy](#12-international-development-philantropy)
+- [10. Politics, Elections, Policy Making](#10-politics-elections-policy-making)
+- [11. Civic Freedom, Human Rights, Media](#11-civic-freedom-human-rights-media)
+- [11. War, Peace and Civil Unrest](#11-war-peace-and-civil-unrest)
+- [12. Prisons, Courts and Judiciary Systems](#12-prisons-courts-and-judiciary-systems)
+- [13. International Development, Philantropy](#13-international-development-philantropy)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
-## 1. Non-Pharmaceutical Interventions incl. Confinement, Civic Freedom, Borders
+## 1. Non-Pharmaceutical Interventions incl. Confinement and Travel
 
 - [WHO PHSM: Public health and social measures](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm)
     - Focus: measures or actions by individuals, institutions, communities, local and national governments and international bodies to slow or stop the spread of an infectious disease. Establishing one single open-content dataset by merging pre-existing datasets from WHO, the London School of Hygiene and Tropical Medicine, ACAPS, University of Oxford, Global Public Health Intelligence Network, US Centers for Disease Control and Prevention and the Complexity Science Hub Vienna.
@@ -127,14 +129,6 @@ The collection is structured around the areas of
     -   [Data set](http://hci.st/socialdistancing-dataset)
     -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
 
-- [COVID19 Civic Freedom Tracker](https://www.icnl.org/covid19tracker/)
-  - Focus: government responses that affect civicfreedoms and humanrights
-  - Coverage: worldwide
-  - Data format: html
-  - By [@ICNLAlliance](https://twitter.com/ICNLAlliance) 
-  [@enablingNGOlaw](https://twitter.com/enablingNGOlaw) 
-  [@NiAolainF](https://twitter.com/NiAolainF)
-
 -   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
     -   Focus: travel restrictions, quarantine requirements for travellers
     -   Coverage: worldwide
@@ -147,7 +141,7 @@ The collection is structured around the areas of
     - Data format: pdf
     - By [@EYnews](https://twitter.com/EYnews)
 
-## 2. Macro, Financial and Tax Policy
+## 2. Macroeconomic and Financial Policy
 
 -   [IMF policy tracker](https://t.co/tzG6SIT4o7?amp=1)
     -   Focus: fiscal, monetary and macroprudential
@@ -548,7 +542,7 @@ Christopher Rauh
     - Data format: csv data, html charts
     - By [@Apple](https://twitter.com/Apple)
 
-## 10. Politics, Elections, Media, Violent Conflict
+## 10. Politics, Elections, Policy Making
 
 - [Global overview of COVID-19: Impact on elections](https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections)
     - Focus: compiles a list of elections postponed due to the outbreak of COVID-19 and of elections held despite the outbreak.
@@ -572,6 +566,32 @@ Christopher Rauh
    [@jameswilsdon](https://twitter.com/jameswilsdon) 
    [@SciChefQC](https://twitter.com/SciChefQC)
 
+## 11. Civic Freedom, Human Rights, Media
+
+- [COVID19 Civic Freedom Tracker](https://www.icnl.org/covid19tracker/)
+  - Focus: government responses that affect civicfreedoms and humanrights
+  - Coverage: worldwide
+  - Data format: html
+  - By [@ICNLAlliance](https://twitter.com/ICNLAlliance) 
+  [@enablingNGOlaw](https://twitter.com/enablingNGOlaw) 
+  [@NiAolainF](https://twitter.com/NiAolainF)
+
+- [Tracker 19](https://rsf.org/en/tracker19-Coronavirus-Covid19)
+    - Focus: press freedom. It evaluates the impact on journalism by documenting state censorship and deliberate disinformation, and their impact on the right to reliable news and information. It also makes recommendations on how to defend journalism.
+    - Coverage: countries worldwide
+    - Data format: html
+    - By Reporters Without Borders 
+[@RSF_en](https://twitter.com/RSF_en)
+[@RSF_inter](https://twitter.com/RSF_inter)
+
+- [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
+    - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
+    - Coverage: worldwide
+    - Data format: csv
+    - By [@Anacode]( https://twitter.com/Anacode)
+
+## 11. War, Peace and Civil Unrest
+
 -	[Impact:Peace resources on COVID-19](https://docs.google.com/document/d/1QMEOe7NC1wpSx3jLDBohxXja-cN4M5A8ctg8fbLrOcs/edit)
     - Focus: resources related to violence, conflict, inequality, peacebuilding
     - Coverage: worldwide
@@ -591,13 +611,7 @@ Christopher Rauh
     - Data format: html, data can be exported
     - By [@ACLEDINFO](https://twitter.com/ACLEDINFO)
 
-- [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
-    - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
-    - Coverage: worldwide
-    - Data format: csv
-    - By [@Anacode]( https://twitter.com/Anacode)
-
-## 11. Prisons, Courts and Judiciary Systems
+## 12. Prisons, Courts and Judiciary Systems
 
 -   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
     -   Focus: responses in prison systems incl. policy responses, releases, and riots
@@ -654,7 +668,7 @@ Christopher Rauh
 [@aaronlittman](https://twitter.com/aaronlittman)
 [@nrjones8](https://twitter.com/nrjones8)
 
-## 12. International Development, Philantropy
+## 13. International Development, Philantropy
 
 - [UNDP HDR Global Preparedness and Vulnerability Dashboard](http://hdr.undp.org/)
     - Focus: Index for preparedness and vulnerability to pandemics by country. Preparedness index composed of indicators such as Human Development Index, number of physicians and mobile phone subscriptions. Vulnerability index composed of indicators such as population in poverty, population without social protection, remittances inflows or tourism as a share of GDP.
