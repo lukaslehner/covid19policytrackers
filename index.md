@@ -52,16 +52,15 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@AllbriteAllday](https://twitter.com/AllbriteAllday)
 [@AltPrimate](https://twitter.com/AltPrimate),
 [@econ_hmg](https://twitter.com/econ_hmg),
-[@hmryder](https://twitter.com/hmryder), 
+[@hmryder](https://twitter.com/hmryder),
 [@TimGoedeme](https://twitter.com/TimGoedeme),
 [@Covid_Africa](https://twitter.com/Covid_Africa),
 [@elinaribakova](https://twitter.com/elinaribakova),
 [@JuliaGruebler](https://twitter.com/JuliaGruebler),
 [@TobyMPhillips](https://twitter.com/TobyMPhillips),
 [@shelter_live](https://twitter.com/shelter_live),
-[@ashamin](https://twitter.com/ashamin) and 
+[@ashamin](https://twitter.com/ashamin) and
 [Seth Schimmel]().
-.
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -587,6 +586,12 @@ Christopher Rauh
     - By Reporters Without Borders 
 [@RSF_en](https://twitter.com/RSF_en)
 [@RSF_inter](https://twitter.com/RSF_inter)
+
+- Civic Space Watch: [Solidarity amid the COVID-19 crisis](http://civicspacewatch.eu/solidarity-amid-covid-19-crisis/)
+    - Focus: civil society’s and NGOs actions and demands
+    - Coverage: in European countries and on a European level
+    - Data format: html
+    - By [@ForCivicEU](https://twitter.com/ForCivicEU)
 
 - [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
     - Focus: contains over 40,000 online articles with full texts which were scraped from online media in the timespan January – April 2020, focussed mainly on the non-medical aspects of COVID-19.
