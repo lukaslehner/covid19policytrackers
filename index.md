@@ -54,10 +54,14 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@econ_hmg](https://twitter.com/econ_hmg),
 [@hmryder](https://twitter.com/hmryder), 
 [@TimGoedeme](https://twitter.com/TimGoedeme),
-[@Covid_Africa](https://twitter.com/Covid_Africa)
-[@elinaribakova](https://twitter.com/elinaribakova)
-[@JuliaGruebler](https://twitter.com/JuliaGruebler) and
-[@TobyMPhillips](https://twitter.com/TobyMPhillips).
+[@Covid_Africa](https://twitter.com/Covid_Africa),
+[@elinaribakova](https://twitter.com/elinaribakova),
+[@JuliaGruebler](https://twitter.com/JuliaGruebler),
+[@TobyMPhillips](https://twitter.com/TobyMPhillips),
+[@shelter_live](https://twitter.com/shelter_live),
+[@ashamin](https://twitter.com/ashamin) and 
+[Seth Schimmel]().
+.
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
