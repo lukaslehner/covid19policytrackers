@@ -59,8 +59,9 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@JuliaGruebler](https://twitter.com/JuliaGruebler),
 [@TobyMPhillips](https://twitter.com/TobyMPhillips),
 [@shelter_live](https://twitter.com/shelter_live),
-[@ashamin](https://twitter.com/ashamin) and
-[Seth Schimmel]().
+[@ashamin](https://twitter.com/ashamin),
+[Seth Schimmel](), and
+[@AsjadNaqvi](https://twitter.com/AsjadNaqvi).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -386,6 +387,13 @@ Christopher Rauh
     -   Coverage: selected countries worldwide and US states
     -   Data format: html
     -   By [@CambridgeCore](https://twitter.com/CambridgeCore)
+
+- IIASA COVID-19: [Visualizing regional socioeconomic indicators for Europe](https://covid19.iiasa.ac.at/interactive/)
+    - Focus: socioeconomic indicators, such as life expectancy and population shares elderly, ratios of doctors and hospital beds to elderly population, or the ratio of tourists to local population
+    - Coverage: Europe on a state/province level
+    - Data format: html
+    - By [@IIASAVienna](https://twitter.com/IIASAVienna)
+incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 
 ## 7. Education, Research and Innovation
 
