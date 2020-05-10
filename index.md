@@ -120,6 +120,12 @@ The collection is structured around the areas of
   - Data format: csv spreadsheet
   - By  [@CSHVienna](https://twitter.com/CSHVienna)
 
+- [Health Intervention Tracking for COVID-19 (HIT-COVID)](https://akuko.io/post/covid-intervention-tracking) and [Data](https://github.com/HopkinsIDD/hit-covid)
+    - Focus: documents public health policy interventions related to COVID-19
+    - Coverage: worldwide at the national and first-level administrative unit
+    - Data format: html for aggregate data, csv for microdata
+    - By [@JohnsHopkinsSPH](https://twitter.com/JohnsHopkinsSPH) [@BU_Tweets](https://twitter.com/BU_Tweets) [@qulu_zheng](https://twitter.com/qulu_zheng) [@JustinLessler](https://twitter.com/JustinLessler) [@alabriqu](https://twitter.com/alabriqu)
+
 - [Coronavirus containment measures](https://coronavirusmeasures.herokuapp.com/) dataset and world map
   - Focus: containment measures incl. a stringency index as a time series
   - Coverage: worldwide
