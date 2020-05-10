@@ -350,6 +350,13 @@ The collection is structured around the areas of
 Christopher Rauh
     - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
 
+- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
+    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
+    - Coverage: 8 countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+    - Data format: html for aggregate results (only)
+    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
+[@ashamin](https://twitter.com/ashamin)
+
 ## 6. Health and Care Policy
 
 -   [OECD Health System responses summary](https://t.co/f41gKRros0?amp=1) and
