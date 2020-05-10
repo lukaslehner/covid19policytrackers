@@ -456,6 +456,12 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - By [@DSDimensions] (https://twitter.com/DSDimensions)
     [@digitalsci](https://twitter.com/digitalsci)
 
+- [COVID Scholar](https://covidscholar.org/)
+    - Focus: search engine that uses natural language processing (NLP) to search on a set of research papers related to COVID-19. It also shows daily paper statistics on related research articles.
+    - Coverage: worldwide
+    - Data format: html
+    - By [@CovidScholar](https://twitter.com/CovidScholar) incl. [@KPatBerkeley](https://twitter.com/KPatBerkeley) [@jmdagdelen](https://twitter.com/jmdagdelen)
+
 ## 8. Regions, Cities, SMEs, Tourism
 
 -   [OECD multilevel governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
