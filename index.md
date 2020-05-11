@@ -124,7 +124,7 @@ The collection is structured around the areas of
     - Focus: documents public health policy interventions related to COVID-19
     - Coverage: worldwide at the national and first-level administrative unit
     - Data format: html for aggregate data, csv for microdata
-    - By [@JohnsHopkinsSPH](https://twitter.com/JohnsHopkinsSPH) [@BU_Tweets](https://twitter.com/BU_Tweets) [@qulu_zheng](https://twitter.com/qulu_zheng) [@JustinLessler](https://twitter.com/JustinLessler) [@alabriqu](https://twitter.com/alabriqu) [@andrewazman](https://twitter.com/andrewazman) [@Ymax](https://twitter.com/Ymax)
+    - By [@JohnsHopkinsSPH](https://twitter.com/JohnsHopkinsSPH) [@BUSPH](https://twitter.com/BUSPH) [@qulu_zheng](https://twitter.com/qulu_zheng) [@JustinLessler](https://twitter.com/JustinLessler) [@alabriqu](https://twitter.com/alabriqu) [@andrewazman](https://twitter.com/andrewazman) [@Ymax](https://twitter.com/Ymax)
 
 - [Coronavirus containment measures](https://coronavirusmeasures.herokuapp.com/) dataset and world map
   - Focus: containment measures incl. a stringency index as a time series
