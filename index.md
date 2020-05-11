@@ -60,7 +60,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@TobyMPhillips](https://twitter.com/TobyMPhillips),
 [@shelter_live](https://twitter.com/shelter_live),
 [@ashamin](https://twitter.com/ashamin),
-[Seth Schimmel](), and
+[Seth Schimmel](https://github.com/sethsch), and
 [@AsjadNaqvi](https://twitter.com/AsjadNaqvi).
 
 The collection is structured around the areas of
