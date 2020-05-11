@@ -373,6 +373,15 @@ Christopher Rauh
     - By [@BFAGlobal](https://twitter.com/BFAGlobal)
 [@ashamin](https://twitter.com/ashamin)
 
+- [Monitoring the Covid-19 Employment Response: Policy Approaches Across Countries](https://www.hks.harvard.edu/centers/wiener/programs/project-on-workforce/covid-19-employment-response)
+    - Focus: wage & employment support measures and their mechanisms
+    - Coverage: 16 countries: Australia, Canada, Denmark, France, Germany, Ireland, Italy, Japan, Netherlands, New Zealand, Norway, South Africa, Spain, Sweden, United Kingdom, United States
+    - Data format: html
+    - By [@Rachel_Lipson](https://twitter.com/Rachel_Lipson)
+[@jnorthend](https://twitter.com/jnorthend)
+[@HarvardMWC](https://twitter.com/HarvardMWC)
+[@Kennedy_School](https://twitter.com/Kennedy_School)
+
 ## 6. Health and Care Policy
 
 -   [OECD Health System responses summary](https://t.co/f41gKRros0?amp=1) and
