@@ -134,7 +134,7 @@ The collection is structured around the areas of
 
 -   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
     -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
-    -   Coverage: USA on a county level (182 as of 22.04.2020)
+    -   Coverage: USA on a county level (currently 274 counties covered)
     -   Data format: Google sheets, downloadable as csv and xlsx
     -   [Data set](http://hci.st/socialdistancing-dataset)
     -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
