@@ -408,6 +408,12 @@ Christopher Rauh
     - By [@IIASAVienna](https://twitter.com/IIASAVienna)
 incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 
+- [COVID-19 sex-disaggregated data tracker](https://globalhealth5050.org/covid19/)
+    - Focus: sex-disaggregated data on cases, deaths, hospitalisations, ICU admissions, age & infections in health care workers
+    - Coverage: 78 countries
+    - Data format: downloadable as csv, xlsx, pdf, html
+    - By [@GlobalHlth5050](https://twitter.com/globalhlth5050)
+
 ## 7. Education, Research and Innovation
 
 -   [UNESCO COVID-19 Educational Disruption and Response](https://en.unesco.org/covid19/educationresponse)
