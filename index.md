@@ -227,6 +227,16 @@ The collection is structured around the areas of
   [@MPGoodman88](https://twitter.com/MPGoodman88)
   [@handrewschwartz](https://twitter.com/handrewschwartz)
 
+- [The Opportunity Insights Economic Tracker](https://tracker.opportunityinsights.org/)
+    - Focus: real time tracking of employment, unemployment, consumer spending, job postings, small businesses openings and revenue, students online math coursework
+    - Coverage: USA aggregate and on a state level
+    - Data format: html, downloadable soon
+    - By [@OppInsights](https://twitter.com/OppInsights) 
+Raj Chetty
+[@John_N_Friedman](https://twitter.com/John_N_Friedman)
+[@nhendren82](https://twitter.com/nhendren82)
+[@michaelstepner](https://twitter.com/michaelstepner)
+
 -	[U.S. Economic Policy Response to Coronavirus Pandemic](https://messertodd.github.io/coronavirus-policy-response/)
     - Focus: economic policy responses, explanation of economic mechanisms at play and references to theory and academic readings on the implemented measures.
     - Coverage: USA
