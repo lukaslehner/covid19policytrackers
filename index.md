@@ -744,6 +744,13 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 [@aaronlittman](https://twitter.com/aaronlittman)
 [@nrjones8](https://twitter.com/nrjones8)
 
+- [Coronavirus: prison fever](https://www.prison-insider.com/en/articles/coronavirus-la-fievre-des-prisons)
+    - [World map of the coronavirus in prisons](https://www.prison-insider.com/en/articles/cartographie-du-coronavirus-en-prison)
+    - Focus: living conditions in prisons: cases, deaths, appeals, NGO recommendations, protests, sanitary conditions and access to healthcare
+    - Coverage: worldwide, country level
+    - Data format: html
+    - By [@PrisonInsider](https://twitter.com/PrisonInsider)
+
 ## 13. International Development, Philantropy
 
 - [UNDP HDR Global Preparedness and Vulnerability Dashboard](http://hdr.undp.org/)
