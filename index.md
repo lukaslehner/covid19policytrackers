@@ -12,10 +12,9 @@
 
 The amount of COVID-19 related research being produced within the first
 weeks following the implementation of far-reaching lockdowns across the
-globe has been impressive. I have compiled a collection of policy
-trackers and datasets on the topic. The compilation is not meant to be
+globe has been impressive. To keep track of new sources, I have compiled a collection of currently over 100 policy trackers and datasets on the topic. The compilation is not meant to be
 exhaustive and I am grateful for general feedback you may have or suggestions on new
-sources. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates.
+sources. I am updating the tracker of trackers on a daily basis. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
@@ -39,6 +38,7 @@ March 2020 and is based on a collaborative effort with suggestions from
 [@Luckinger](https://twitter.com/Luckinger),
 [@KnowsOnions](https://twitter.com/KnowsOnions),
 [@SebDiessner](https://twitter.com/SebDiessner),
+Grant Mills,
 [@AnToniPichler](https://twitter.com/AnToniPichler),
 [@Anne_Parth](https://twitter.com/Anne_Parth),
 [@O_LJ](https://twitter.com/O_LJ),
@@ -432,6 +432,14 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: 78 countries
     - Data format: downloadable as csv, xlsx, pdf, html
     - By [@GlobalHlth5050](https://twitter.com/globalhlth5050)
+
+- [The COVID Racial Data Tracker](https://covidtracking.com/race)
+    - Focus: cases, deaths and negative test results by race and ethnicity on a bi-weekly basis
+    - Coverage: US states
+    - Data format: Google sheets, downloadable as csv
+    - By [@AntiracismCtr](https://twitter.com/AntiracismCtr)
+[@COVID19Tracking](https://twitter.com/COVID19Tracking)
+[@TheAtlantic](https://twitter.com/TheAtlantic)
 
 ## 7. Education, Research and Innovation
 
