@@ -251,6 +251,14 @@ Raj Chetty
     - By [@StephanHollan](https://twitter.com/StephanHollan)
 [@L_van_Lent](https://twitter.com/L_van_Lent)
 
+- [Covid Stimulus Watch](https://covidstimuluswatch.org/blog/2020-04/covid-stimulus-watch-new-website-documents-accountability-track-records-cares-act)
+- Focus: strengthen corporate accountability. It assembles CARES Act recipient data on grants and loans per firm and combines it with information about each firm’s history of regulatory violations, previous government assistance, federal tax avoidance, and CEO and worker pay practices.
+- Coverage: US firms receiving grants and loans through the CARES Act. At the moment, it contains more than 5,700 awards, totalling $54 billion.
+- Data format: html, downloadable as csv and xml
+- By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
+[@DirtDiggers](https://twitter.com/DirtDiggers)
+[@GregLeRoy4](https://twitter.com/GregLeRoy4)
+
 ## 3. Tax Policy
 
 -   [OECD tax policy dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
