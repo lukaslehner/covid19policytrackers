@@ -80,6 +80,8 @@ The collection is structured around the areas of
 - [11. War, Peace and Civil Unrest](#11-war-peace-and-civil-unrest)
 - [12. Prisons, Courts and Judiciary Systems](#12-prisons-courts-and-judiciary-systems)
 - [13. International Development, Philantropy](#13-international-development-philantropy)
+- [14. National Surveys (with probability samples)](#14-national-surveys-with-probability-samples)
+- [15. National and comparative surveys (with non-probability samples)](#15-national-and-comparative-surveys-with-non-probability-samples)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
 ## 1. Non-Pharmaceutical Interventions incl. Confinement and Travel
