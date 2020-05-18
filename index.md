@@ -15,7 +15,9 @@ The amount of COVID-19 related research being produced within the first
 weeks following the implementation of far-reaching lockdowns across the
 globe has been impressive. To keep track of new sources, I have compiled a collection of currently over 100 policy trackers and datasets on the topic. The compilation is not meant to be
 exhaustive and I am grateful for general feedback you may have or suggestions on new
-sources. I am updating the tracker of trackers on a daily basis. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates.
+sources. I am updating the tracker of trackers on a daily basis. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates. 
+
+Sections 14. and 15. on surveys are edited by [Elias Naumann](). For suggestions, please email him at <>.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
@@ -799,6 +801,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - By [@Covid_Africa](https://twitter.com/Covid_Africa)
 
 ## 14. National Surveys (with probability samples)
+*edited by [Elias Naumann]()*
 
 - [SOEP-CoV](https://www.soep-cov.de/)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
@@ -892,6 +895,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
 
 ## 15. National and comparative surveys (with non-probability samples)
+*edited by [Elias Naumann]()*
 
 - [COVID-19 Snapshot Monitoring (COSMO)](https://www.psycharchives.org/handle/20.500.12034/2397)
     - Focus: COVID-related behavior and perceptions, mental health, political attitudes
@@ -906,7 +910,6 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: [.html](https://projekte.uni-erfurt.de/cosmo2020/cosmo-analysis.html)
     - By Universität Erfurt (UE), Robert Koch-Institut (RKI), Bundeszentrale für gesundheitliche Aufklärung (BZgA), Leibniz-Zentrum für Psychologische Information und Dokumentation (ZPID), Science Media Center (SMC), Bernhard Nocht Institute for Tropical Medicine (BNITM), Yale Institute for Global Health (YIGH)
 
-
 - [Austrian Corona Panel Project](https://viecer.univie.ac.at/en/projects-and-cooperations/austrian-corona-panel-project/)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
     - Coverage
@@ -919,7 +922,6 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Micro data availablity: no (planned?)
     - Data format: .html (daily reports)
     - By [@VieCER_](https://twitter.com/VieCER_)
-
 
 ## Additional Sources: Research & other collections
 
