@@ -798,17 +798,17 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 ## 14. National Surveys (with probability samples)
 
 - [SOEP-CoV](https://www.soep-cov.de/)
-        - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
-        - Coverage
-          - Country: Germany
-          - Target population and sampling: Probability sample of households
-          - Time: 03/30/2020 – 06/28/2020
-          - Interval of data collection: weekly cross-sections, follow-up survey planned for 2021
-          - Availability of individual level data from pre-CoVID: Yes
-          - Number of observations:  ~ 7.800 households (300-2000 per week)
-        - Micro data availablity: no (but planned)
-        - Data format: pdf (research reports)
-        - By [@DIW_Berlin](https://twitter.com/DIW_Berlin) [@unibielefeld](https://twitter.com/unibielefeld)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Probability sample of households
+      - Time: 03/30/2020 – 06/28/2020
+      - Interval of data collection: weekly cross-sections, follow-up survey planned for 2021
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  ~ 7.800 households (300-2000 per week)
+    - Micro data availablity: no (but planned)
+    - Data format: pdf (research reports)
+    - By [@DIW_Berlin](https://twitter.com/DIW_Berlin) [@unibielefeld](https://twitter.com/unibielefeld)
 
 - [Mannheimer Corona-Studie](https://www.uni-mannheim.de/gip/corona-studie/)
         - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
