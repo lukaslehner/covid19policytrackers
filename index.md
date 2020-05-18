@@ -811,112 +811,111 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - By [@DIW_Berlin](https://twitter.com/DIW_Berlin) [@unibielefeld](https://twitter.com/unibielefeld)
 
 - [Mannheimer Corona-Studie](https://www.uni-mannheim.de/gip/corona-studie/)
-        - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
-        - Coverage
-        - Country: Germany
-          - Target population and sampling: Probability sample of households/individuals
-          - Time: 03/20/2020-07/03/2020
-          - Interval of data collection: daily cross-sections, weekly individual panel data
-          - Availability of individual level data from pre-CoVID: Yes
-          - Number of observations:  ~ 3.500 individuals (~ 500 per day)
-        - Micro data availablity: no (but planned)
-        - Data format: pdf (daily update)
-        - By [@PolEconReforms](https://twitter.com/PolEconReforms) [Universität Mannheim](https://www.uni-mannheim.de)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Probability sample of households/individuals
+      - Time: 03/20/2020-07/03/2020
+      - Interval of data collection: daily cross-sections, weekly individual panel data
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  ~ 3.500 individuals (~ 500 per day)
+    - Micro data availablity: no (but planned)
+    - Data format: pdf (daily update)
+    - By [@PolEconReforms](https://twitter.com/PolEconReforms) [Universität Mannheim](https://www.uni-mannheim.de)
 
 - [gesis panel](https://www.gesis.org/gesis-panel/gesis-panel-home)
-        - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
-        - Coverage
-        - Country: Germany
-          - Target population and sampling: Probability sample of individuals
-          - Time: 03/17/2020-29/03/2020
-          - Interval of data collection: once
-          - Availability of individual level data from pre-CoVID: Yes
-          - Number of observations:  3.765 individuals
-        - Micro data availablity: yes
-        - Data format: .dta, .sav
-        - By [@GESIS_Panel](https://twitter.com/GESIS_Panel)
-
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Probability sample of individuals
+      - Time: 03/17/2020-29/03/2020
+      - Interval of data collection: once
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  3.765 individuals
+    - Micro data availablity: yes
+    - Data format: .dta, .sav
+    - By [@GESIS_Panel](https://twitter.com/GESIS_Panel)
 
 - [Understanding America Study](https://covid19pulse.usc.edu/)
-        - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
-        - Coverage
-          - Country: United States
-          - Target population and sampling: Probability sample of U.S. residents
-          - Time: since 03/10/2020 (ongoing)
-          - Interval of data collection: daily cross-sections, bi-weekly individual level panel
-          - Availability of individual level data from pre-CoVID: Yes
-          - Number of observations: ~ 5.500 individuals (~500 per day)
-        - Micro data availablity: yes
-        - Data format: .dta, .html (daily updates)
-        - By [USCDornsife](https://uasdata.usc.edu/index.php)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: United States
+      - Target population and sampling: Probability sample of U.S. residents
+      - Time: since 03/10/2020 (ongoing)
+      - Interval of data collection: daily cross-sections, bi-weekly individual level panel
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 5.500 individuals (~500 per day)
+    - Micro data availablity: yes
+    - Data format: .dta, .html (daily updates)
+    - By [USCDornsife](https://uasdata.usc.edu/index.php)
 
 - [COVID Impact Survey](https://www.covid-impact.org/)
-        - Focus: Employment and financial situation, COVID-related behavior and perceptions, mental health
-        - Coverage
-          - Country: United States
-          - Target population and sampling: Probability sample of U.S. adult population
-          - Time: 04/20-04/26 (Week 1), 05/04-05/10 (Week 2), ongoing
-          - Interval of data collection: monthly cross-sections
-          - Availability of individual level data from pre-CoVID: No
-          - Number of observations: ~ 2,200 individuals each month
-        - Micro data availablity: yes
-        - Data format: .dta, .sav, .csv
-        - By [covidimpact](https://twitter.com/covidimpact) [Data Foundation](https://www.datafoundation.org/)
+    - Focus: Employment and financial situation, COVID-related behavior and perceptions, mental health
+    - Coverage
+      - Country: United States
+      - Target population and sampling: Probability sample of U.S. adult population
+      - Time: 04/20-04/26 (Week 1), 05/04-05/10 (Week 2), ongoing
+      - Interval of data collection: monthly cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 2,200 individuals each month
+    - Micro data availablity: yes
+    - Data format: .dta, .sav, .csv
+    - By [covidimpact](https://twitter.com/covidimpact) [Data Foundation](https://www.datafoundation.org/)
 
 - [LISS Panel](https://www.lissdata.nl/)
-        - Focus: ?
-        - Coverage
-          - Country: Netherlands
-          - Target population and sampling: Probability sample of Dutch Households
-          - Time: ?
-          - Interval of data collection: ?
-          - Availability of individual level data from pre-CoVID: Yes
-          - Number of observations: ~ 7.000 individuals each month
-        - Micro data availablity: yes
-        - Data format: .dta, .sav
-        - By [@centerdata](https://twitter.com/centerdata)
+    - Focus: ?
+    - Coverage
+      - Country: Netherlands
+      - Target population and sampling: Probability sample of Dutch Households
+      - Time: ?
+      - Interval of data collection: ?
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 7.000 individuals each month
+    - Micro data availablity: yes
+    - Data format: .dta, .sav
+    - By [@centerdata](https://twitter.com/centerdata)
 
 - [Norwegian Citizen Panel](https://www.uib.no/en/digsscore/122162/methodology-and-field-periods)
-        - Focus: ?
-        - Coverage
-          - Country: Norway
-          - Target population and sampling: Probability sample of adult population
-          - Time: end of march
-          - Interval of data collection: once
-          - Availability of individual level data from pre-CoVID: Yes
-          - Number of observations: ~ 12.000
-        - Micro data availablity: no (but planned)
-        - Data format: .dta, .sav
-        - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
+    - Focus: ?
+    - Coverage
+      - Country: Norway
+      - Target population and sampling: Probability sample of adult population
+      - Time: end of march
+      - Interval of data collection: once
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 12.000
+    - Micro data availablity: no (but planned)
+    - Data format: .dta, .sav
+    - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
 
 ## 15. National and comparative surveys (with non-probability samples)
 
 - [COVID-19 Snapshot Monitoring (COSMO)](https://www.psycharchives.org/handle/20.500.12034/2397)
-        - Focus: COVID-related behavior and perceptions, mental health, political attitudes
-        - Coverage
-          - Country: Germany
-          - Target population and sampling: Adult population, non-probability quota sampling
-          - Time: since 03/03/2020 (ongoing)
-          - Interval of data collection: weekly cross-sections
-          - Availability of individual level data from pre-CoVID: No
-          - Number of observations: ~ 1.000 per week
-        - Micro data availablity: no
-        - Data format: [.html](https://projekte.uni-erfurt.de/cosmo2020/cosmo-analysis.html)
-        - By Universität Erfurt (UE), Robert Koch-Institut (RKI), Bundeszentrale für gesundheitliche Aufklärung (BZgA), Leibniz-Zentrum für Psychologische Information und Dokumentation (ZPID), Science Media Center (SMC), Bernhard Nocht Institute for Tropical Medicine (BNITM), Yale Institute for Global Health (YIGH)
+    - Focus: COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Adult population, non-probability quota sampling
+      - Time: since 03/03/2020 (ongoing)
+      - Interval of data collection: weekly cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 1.000 per week
+    - Micro data availablity: no
+    - Data format: [.html](https://projekte.uni-erfurt.de/cosmo2020/cosmo-analysis.html)
+    - By Universität Erfurt (UE), Robert Koch-Institut (RKI), Bundeszentrale für gesundheitliche Aufklärung (BZgA), Leibniz-Zentrum für Psychologische Information und Dokumentation (ZPID), Science Media Center (SMC), Bernhard Nocht Institute for Tropical Medicine (BNITM), Yale Institute for Global Health (YIGH)
 
 
 - [Austrian Corona Panel Project](https://viecer.univie.ac.at/en/projects-and-cooperations/austrian-corona-panel-project/)
-      - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
-      - Coverage
-        - Country: Austria
-        - Target population and sampling: adult population, non-probability quota sampling
-        - Time: since 03/27/2020 (ongoing)
-        - Interval of data collection: weekly individual level panel data
-        - Availability of individual level data from pre-CoVID: No
-        - Number of observations: ~ 1.500 per week
-      - Micro data availablity: no (planned?)
-      - Data format: .html (daily reports)
-      - By [@VieCER_](https://twitter.com/VieCER_)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Austria
+      - Target population and sampling: adult population, non-probability quota sampling
+      - Time: since 03/27/2020 (ongoing)
+      - Interval of data collection: weekly individual level panel data
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 1.500 per week
+    - Micro data availablity: no (planned?)
+    - Data format: .html (daily reports)
+    - By [@VieCER_](https://twitter.com/VieCER_)
 
 
 ## Additional Sources: Research & other collections
