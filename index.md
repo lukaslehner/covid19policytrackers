@@ -61,8 +61,9 @@ Grant Mills,
 [@shelter_live](https://twitter.com/shelter_live),
 [@ashamin](https://twitter.com/ashamin),
 [Seth Schimmel](https://github.com/sethsch),
-[@AsjadNaqvi](https://twitter.com/AsjadNaqvi), and
-[@jsvine](https://twitter.com/jsvine).
+[@AsjadNaqvi](https://twitter.com/AsjadNaqvi),
+[@jsvine](https://twitter.com/jsvine), and
+[@zehrarizvi](https://twitter.com/zehrarizvi).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
