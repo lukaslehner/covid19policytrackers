@@ -857,7 +857,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
     - Focus: Worldwide COVID-19 Attitudes and Beliefs
     - Coverage
-        - Country: 170 countries
+        - Countries: 170
         - Target population and sampling: people aged 18 and over, snowballing via social media
         - Time: since 03/20, ongoing
         - Interval of data collection: continuous
@@ -877,7 +877,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 - [Living, working and COVID-19](https://www.eurofound.europa.eu/data/covid-19)
   - Focus: Work and well-being
   - Coverage
-    - Country: EU27 and the UK
+    - Countries: EU27 and the UK
     - Target population and sampling: people aged 18 and over, snowballing on social media
     - Time: 04/9-04/30, ongoing
     - Interval of data collection: monthly cross-sections
@@ -889,7 +889,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 - [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker)
   - Focus: perceptions and COVID19-related health behavior
   - Coverage
-    - Countries: 29 countries
+    - Countries: 29
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
     - Time: since 03/30, ongoing
     - Interval of data collection: weekly cross-sections
@@ -903,7 +903,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 - [YouGov international COVID19 tracker](https://yougov.co.uk/topics/international/articles-reports/2020/03/17/YouGov-international-COVID-19-tracker)
   - Focus: public attitudes on a broad range of topics from brands to politics
   - Coverage
-    - Countries: 26 countries
+    - Countries: 26
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
     - Time: since march, ongoing
     - Interval of data collection: weekly cross-sections
@@ -915,7 +915,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 - [Attitudes Towards COVID-19 - A comparative study](https://www.sciencespo.fr/cevipof/attitudesoncovid19/)
   - Focus: public attitudes on health, economy, civil liberties, government, policies and institutions
   - Coverage
-    - Countries: 20 countries
+    - Countries: 20
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
     - Time: 03/20 - 04/30
     - Interval of data collection: individual level panel data (weekly, 2-8 waves depending on country)
@@ -943,7 +943,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 - [intergen-COVID](https://sites.google.com/unifi.it/intergen-covid)
   - Focus: Intergenerational contact during COVID and mental health
   - Coverage
-    - Country: Italy, Spain, France
+    - Countries: Italy, Spain, France
     - Target population and sampling: Adult population, quota sampling from opt-in panels
     - Time: April 2020
     - Interval of data collection: once
@@ -956,7 +956,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 - BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
     - Focus: COVID19 impact on financial health of households incl. income, savings, debt
     - Coverage
-      - Country: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+      - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
       - Target population and sampling: N/A
       - Time: 03/25-26, 04/11-12
       - Interval of data collection: 2 cross-sections
