@@ -855,8 +855,14 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
     [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
-    - Focus: how citizens are preparing and coping with the COVID-19 crisis
-    - Coverage: 58 countries and over 100,000 respondents
+    - Focus: Worldwide COVID-19 Attitudes and Beliefs
+    - Coverage
+        - Country: 170 countries
+        - Target population and sampling: people aged 18 and over, snowballing via social media
+        - Time: since 03/20, ongoing
+        - Interval of data collection: continuous
+        - Availability of individual level data from pre-CoVID: No
+        - Number of observations: > 110,000 respondents
     - Data format: aggregate results in html, individual level data in dta
     - By researchers of 12 universities incl.
         [@Margarita1512](https://twitter.com/Margarita1512)
@@ -876,13 +882,19 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Time: 04/9-04/30, ongoing
     - Interval of data collection: monthly cross-sections
     - Availability of individual level data from pre-CoVID: No
-    - Number of observations: ~ 70.000
-  - Data format: aggregate data (also for some subgrous) in .html and .csv
+    - Number of observations: ~ 70,000
+  - Data format: aggregate data (also for some subgroups) in .html and .csv
   - By: [@eurofound](https://twitter.com/eurofound)
 
 - [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker)
-  - Focus: behavioural change to COVID19 safety policies
-  - Coverage: 30,000 people across 29 countries each week
+  - Focus: perceptions and COVID19-related health behavior
+  - Coverage
+    - Countries: 29 countries
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: since 03/30, ongoing
+    - Interval of data collection: weekly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 21,000 respondents each week
   - Data format: aggregate results are published on a dashboard and microdata are publicly available as csv spreadsheets
   - By [@YouGov](https://twitter.com/YouGov)
   [@Imperial_IGHI](https://twitter.com/Imperial_IGHI)
@@ -890,25 +902,43 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 
 - [YouGov international COVID19 tracker](https://yougov.co.uk/topics/international/articles-reports/2020/03/17/YouGov-international-COVID-19-tracker)
   - Focus: public attitudes on a broad range of topics from brands to politics
-  - Coverage: over 27,000 people a week across 26 countries
+  - Coverage
+    - Countries: 26 countries
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: since march, ongoing
+    - Interval of data collection: weekly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 27,000 respondents each week
   - Data format: html, only aggregate data for selected categories, such as behavioral response and government satisfaction are publicly available
   - By [@YouGov](https://twitter.com/YouGov)
 
-- [Citizens’ Attitudes Under the COVID-19 Pandemic](https://www.sciencespo.fr/cevipof/attitudesoncovid19/)
+- [Attitudes Towards COVID-19 - A comparative study](https://www.sciencespo.fr/cevipof/attitudesoncovid19/)
   - Focus: public attitudes on health, economy, civil liberties, government, policies and institutions
-  - Coverage: 20 countries worldwide
+  - Coverage
+    - Countries: 20 countries
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: 03/20 - 04/30
+    - Interval of data collection: individual level panel data (weekly, 2-8 waves depending on country)
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 23,000 respondents in the first wave
   - Data format: microdata in dta, summary statistics in pdf
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
 
 - [COVID Inequality Project](https://sites.google.com/view/covidinequality/home)
-    - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
-    - Coverage: USA, UK, Germany
-    - Data format: aggregate data in csv, results reported in html and pdf
-    - By [@abicadams](https://twitter.com/abicadams)
+  - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
+  - Coverage
+    - Countries: USA, UK, Germany
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: 03/24 - 04/14
+    - Interval of data collection: 2 cross-sectional waves in UK and US, 1 wave in Germany
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 4,000 per country and wave
+  - Data format: aggregate data in csv, results reported in html and pdf
+  - By [@abicadams](https://twitter.com/abicadams)
   [@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
   [@MartaGolin](https://twitter.com/MartaGolin)
   Christopher Rauh
-    - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
+  - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
 
 - [intergen-COVID](https://sites.google.com/unifi.it/intergen-covid)
   - Focus: Intergenerational contact during COVID and mental health
@@ -925,7 +955,13 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 
 - BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
     - Focus: COVID19 impact on financial health of households incl. income, savings, debt
-    - Coverage: 8 countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+    - Coverage
+      - Country: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+      - Target population and sampling: N/A
+      - Time: 03/25-26, 04/11-12
+      - Interval of data collection: 2 cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
     - Data format: html for aggregate results (only)
     - By [@BFAGlobal](https://twitter.com/BFAGlobal)
   [@ashamin](https://twitter.com/ashamin)
