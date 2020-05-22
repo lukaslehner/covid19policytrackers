@@ -233,6 +233,12 @@ The collection is structured around the areas of
   [@MPGoodman88](https://twitter.com/MPGoodman88)
   [@handrewschwartz](https://twitter.com/handrewschwartz)
 
+  - [IMF Fiscal Monitor](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDA1MjAuMjE3ODU5MjEiLCJ1cmwiOiJodHRwczovL3d3dy5pbWYub3JnL34vbWVkaWEvRmlsZXMvUHVibGljYXRpb25zL2Zpc2NhbC1tb25pdG9yLzIwMjAvQXByaWwvRW5nbGlzaC9vbmxpbmVhbm5leDExLmFzaHg_bGE9ZW4mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.2kIn3Sr0Vxsxo63xijpm_Ma21ifxFSMYrhNztcJPD6M/br/78878540483-l)
+  - Focus: key fiscal measures governments have announced or taken from January 1 to April 8, 2020, categorised by above-the-line measures, below-the-line measures, and guarantees
+  - Coverage: G20 countries + selected countries
+  - Data format: pdf
+  - By [@IMFNews](https://twitter.com/IMFNews)
+
 - [The Opportunity Insights Economic Tracker](https://tracker.opportunityinsights.org/)
     - Focus: real time tracking of employment, unemployment, consumer spending, job postings, small businesses openings and revenue, students online math coursework
     - Coverage: USA aggregate and on a state level
