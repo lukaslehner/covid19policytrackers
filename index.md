@@ -84,6 +84,9 @@ The collection is structured around the areas of
 - [13. International Development, Philantropy](#13-international-development-philantropy)
 - [14. National Surveys (with probability samples)](#14-national-surveys-with-probability-samples)
 - [15. National and comparative surveys (with non-probability samples)](#15-national-and-comparative-surveys-with-non-probability-samples)
+  - [Quota sampling](#quota-sampling)
+  - [Snowballing sampling](#snowballing-sampling)
+  - [N/A](#na)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
 ## 1. Non-Pharmaceutical Interventions incl. Confinement and Travel
@@ -855,6 +858,8 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 
 We rank order the list of surveys by sampling method used. Surveys with non-probability samples either use quota sampling from commercial opt-in panels or snowballing via social media. We list surveys with quota sampling first,  since we believe that they provide somewhat higher data quality compared to snowball sampling. Within each category we rank order surveys according the number of countries covered.
 
+### Quota sampling
+
 - [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker)
   - Focus: perceptions and COVID19-related health behavior
   - Coverage
@@ -891,20 +896,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 23,000 respondents in the first wave
   - Data format: microdata in dta, summary statistics in pdf
-  - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
-
-- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
-    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
-    - Coverage
-      - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
-      - Target population and sampling: N/A
-      - Time: 03/25-26, 04/11-12
-      - Interval of data collection: 2 cross-sections
-      - Availability of individual level data from pre-CoVID: No
-      - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
-    - Data format: html for aggregate results (only)
-    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
-  [@ashamin](https://twitter.com/ashamin)
+  - By Sylvain Brouard, Michael Becher, [@MartialFoucault](https://twitter.com/MartialFoucault), [@pavlosvas1](https://twitter.com/pavlosvas1), [@CEVIPOF](https://twitter.com/CEVIPOF)
 
 - [COVID Inequality Project](https://sites.google.com/view/covidinequality/home)
   - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
@@ -946,7 +938,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
       - Number of observations: ~ 1.000 per week
     - Micro data availablity: no (planned: N/A)
     - Data format: [.html](https://projekte.uni-erfurt.de/cosmo2020/cosmo-analysis.html)
-    - By Universität Erfurt (UE), Robert Koch-Institut (RKI), Bundeszentrale für gesundheitliche Aufklärung (BZgA), Leibniz-Zentrum für Psychologische Information und Dokumentation (ZPID), Science Media Center (SMC), Bernhard Nocht Institute for Tropical Medicine (BNITM), Yale Institute for Global Health (YIGH)
+    - By [@unierfurt](https://twitter.com/unierfurt), Robert Koch-Institut [@rki_de](https://twitter.com/rki_de), Bundeszentrale für gesundheitliche Aufklärung [@bzga_de](https://twitter.com/bzga_de), Leibniz-Zentrum für Psychologische Information und Dokumentation [@ZPID](https://twitter.com/ZPID), Science Media Center [@smc_germany](https://twitter.com/smc_germany), Bernhard Nocht Institute for Tropical Medicine [@BNITM_de](https://twitter.com/BNITM_de), Yale Institute for Global Health [@YaleGH](https://twitter.com/YaleGH)
 
 - [Austrian Corona Panel Project](https://viecer.univie.ac.at/en/projects-and-cooperations/austrian-corona-panel-project/)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
@@ -960,6 +952,8 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Micro data availablity: no (planned: N/A)
     - Data format: .html (daily reports)
     - By [@VieCER_](https://twitter.com/VieCER_)
+
+### Snowballing sampling
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
         [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
@@ -993,6 +987,21 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Number of observations: ~ 70,000
   - Data format: aggregate data (also for some subgroups) in .html and .csv
   - By: [@eurofound](https://twitter.com/eurofound)
+
+### N/A
+
+- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
+    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
+    - Coverage
+      - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+      - Target population and sampling: N/A
+      - Time: 03/25-26, 04/11-12
+      - Interval of data collection: 2 cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
+    - Data format: html for aggregate results (only)
+    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
+  [@ashamin](https://twitter.com/ashamin)
 
 ## Additional Sources: Research & other collections
 
