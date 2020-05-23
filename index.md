@@ -853,38 +853,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
 ## 15. National and comparative surveys (with non-probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
 
--   [International Survey on Coronavirus](https://covid19-survey.org/)
-    [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
-    - Focus: Worldwide COVID-19 Attitudes and Beliefs
-    - Coverage
-        - Countries: 170
-        - Target population and sampling: people aged 18 and over, snowballing via social media
-        - Time: since 03/20, ongoing
-        - Interval of data collection: continuous
-        - Availability of individual level data from pre-CoVID: No
-        - Number of observations: > 110,000 respondents
-    - Data format: aggregate results in html, individual level data in dta
-    - By researchers of 12 universities incl.
-        [@Margarita1512](https://twitter.com/Margarita1512)
-        [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
-        [@jonj](https://twitter.com/jonj)
-        [@jhaushofer](https://twitter.com/jhaushofer)
-        [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
-        [@fetzert](https://twitter.com/fetzert)
-        [@caria_stefano](https://twitter.com/caria_stefano)
-    - [Individual level data](https://osf.io/3sn2k/)
-
-- [Living, working and COVID-19](https://www.eurofound.europa.eu/data/covid-19)
-  - Focus: Work and well-being
-  - Coverage
-    - Countries: EU27 and the UK
-    - Target population and sampling: people aged 18 and over, snowballing on social media
-    - Time: 04/9-04/30, ongoing
-    - Interval of data collection: monthly cross-sections
-    - Availability of individual level data from pre-CoVID: No
-    - Number of observations: ~ 70,000
-  - Data format: aggregate data (also for some subgroups) in .html and .csv
-  - By: [@eurofound](https://twitter.com/eurofound)
+We rank order the list of surveys by sampling method used. Surveys with non-probability samples either use quota sampling from commercial opt-in panels or snowballing via social media. We list surveys with quota sampling first,  since we believe that they provide somewhat higher data quality compared to snowball sampling. Within each category we rank order surveys according the number of countries covered.
 
 - [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker)
   - Focus: perceptions and COVID19-related health behavior
@@ -924,6 +893,19 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
   - Data format: microdata in dta, summary statistics in pdf
   - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
 
+- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
+    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
+    - Coverage
+      - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+      - Target population and sampling: N/A
+      - Time: 03/25-26, 04/11-12
+      - Interval of data collection: 2 cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
+    - Data format: html for aggregate results (only)
+    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
+  [@ashamin](https://twitter.com/ashamin)
+
 - [COVID Inequality Project](https://sites.google.com/view/covidinequality/home)
   - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
   - Coverage
@@ -935,9 +917,9 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Number of observations: ~ 4,000 per country and wave
   - Data format: aggregate data in csv, results reported in html and pdf
   - By [@abicadams](https://twitter.com/abicadams)
-  [@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
-  [@MartaGolin](https://twitter.com/MartaGolin)
-  Christopher Rauh
+    [@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
+    [@MartaGolin](https://twitter.com/MartaGolin)
+    Christopher Rauh
   - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
 
 - [intergen-COVID](https://sites.google.com/unifi.it/intergen-covid)
@@ -952,19 +934,6 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
   - Micro data availablity: no
   - Data format: Key findings in google doc
   - By [@brunoarpinoFLR](https://twitter.com/brunoarpinoFLR) [@ValeriaBordone](https://twitter.com/ValeriaBordone)  [@pasqualinimarta](https://twitter.com/pasqualinimarta)
-
-- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
-    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
-    - Coverage
-      - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
-      - Target population and sampling: N/A
-      - Time: 03/25-26, 04/11-12
-      - Interval of data collection: 2 cross-sections
-      - Availability of individual level data from pre-CoVID: No
-      - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
-    - Data format: html for aggregate results (only)
-    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
-  [@ashamin](https://twitter.com/ashamin)
 
 - [COVID-19 Snapshot Monitoring (COSMO)](https://www.psycharchives.org/handle/20.500.12034/2397)
     - Focus: COVID-related behavior and perceptions, mental health, political attitudes
@@ -991,6 +960,39 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Micro data availablity: no (planned: N/A)
     - Data format: .html (daily reports)
     - By [@VieCER_](https://twitter.com/VieCER_)
+
+-   [International Survey on Coronavirus](https://covid19-survey.org/)
+        [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
+    - Focus: Worldwide COVID-19 Attitudes and Beliefs
+    - Coverage
+      - Countries: 170
+      - Target population and sampling: people aged 18 and over, snowballing via social media
+      - Time: since 03/20, ongoing
+      - Interval of data collection: continuous
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: > 110,000 respondents
+    - Data format: aggregate results in html, individual level data in dta
+    - By researchers of 12 universities incl.
+            [@Margarita1512](https://twitter.com/Margarita1512)
+            [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
+            [@jonj](https://twitter.com/jonj)
+            [@jhaushofer](https://twitter.com/jhaushofer)
+            [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
+            [@fetzert](https://twitter.com/fetzert)
+            [@caria_stefano](https://twitter.com/caria_stefano)
+    - [Individual level data](https://osf.io/3sn2k/)
+
+- [Living, working and COVID-19](https://www.eurofound.europa.eu/data/covid-19)
+  - Focus: Work and well-being
+  - Coverage
+    - Countries: EU27 and the UK
+    - Target population and sampling: people aged 18 and over, snowballing on social media
+    - Time: 04/9-04/30, ongoing
+    - Interval of data collection: monthly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 70,000
+  - Data format: aggregate data (also for some subgroups) in .html and .csv
+  - By: [@eurofound](https://twitter.com/eurofound)
 
 ## Additional Sources: Research & other collections
 
