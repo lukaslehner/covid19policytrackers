@@ -980,7 +980,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
             [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
             [@fetzert](https://twitter.com/fetzert)
             [@caria_stefano](https://twitter.com/caria_stefano)
-  - [Individual level data](https://osf.io/3sn2k/)
+    - [Individual level data](https://osf.io/3sn2k/)
 
 - [Living, working and COVID-19](https://www.eurofound.europa.eu/data/covid-19)
   - Focus: Work and well-being
