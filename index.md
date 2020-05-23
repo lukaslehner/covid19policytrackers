@@ -963,16 +963,16 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
         [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
-  - Focus: Worldwide COVID-19 Attitudes and Beliefs
-  - Coverage
-    - Countries: 170
-    - Target population and sampling: people aged 18 and over, snowballing via social media
-    - Time: since 03/20, ongoing
-    - Interval of data collection: continuous
-    - Availability of individual level data from pre-CoVID: No
-    - Number of observations: > 110,000 respondents
-  - Data format: aggregate results in html, individual level data in dta
-  - By researchers of 12 universities incl.
+    - Focus: Worldwide COVID-19 Attitudes and Beliefs
+    - Coverage
+      - Countries: 170
+      - Target population and sampling: people aged 18 and over, snowballing via social media
+      - Time: since 03/20, ongoing
+      - Interval of data collection: continuous
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: > 110,000 respondents
+    - Data format: aggregate results in html, individual level data in dta
+    - By researchers of 12 universities incl.
             [@Margarita1512](https://twitter.com/Margarita1512)
             [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
             [@jonj](https://twitter.com/jonj)
