@@ -76,7 +76,7 @@ The collection is structured around the areas of
 - [6. Health and Care Policy](#6-health-and-care-policy)
 - [7. Education, Research and Innovation](#7-education-research-and-innovation)
 - [8. Regions, Cities, SMEs, Tourism](#8-regions-cities-smes-tourism)
-- [9. Public Attitudes, Behavioural Responses, Mobility](#9-public-attitudes-behavioural-responses-mobility)
+- [9. Behavioural Responses and Mobility](#9-behavioural-responses-and-mobility)
 - [10. Politics, Elections, Policy Making](#10-politics-elections-policy-making)
 - [11. Civic Freedom, Human Rights, Media](#11-civic-freedom-human-rights-media)
 - [11. War, Peace and Civil Unrest](#11-war-peace-and-civil-unrest)
@@ -561,7 +561,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
-## 9. Public Attitudes, Behavioural Responses, Mobility
+## 9. Behavioural Responses and Mobility
 
 - [Google Covid-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
     - Focus: mobility trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. Data is sourced from Google Apps such as Google Maps.
