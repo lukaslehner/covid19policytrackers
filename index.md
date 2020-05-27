@@ -990,7 +990,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
             [@caria_stefano](https://twitter.com/caria_stefano)
     - [Individual level data](https://osf.io/3sn2k/)
 
--   [COVIDiSTRESS Global Survey](https://osf.io/z39us/wiki/home/)
+- [COVIDiSTRESS Global Survey](https://osf.io/z39us/wiki/home/)
   - Focus: Psychological stress, compliance with behavioral guidelines, trust in governmental institutions and their preventive measures
   - Coverage
     - Countries: > 50
