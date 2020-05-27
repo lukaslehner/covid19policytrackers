@@ -8,13 +8,15 @@
   gtag('config', 'UA-163872740-1');
 </script>
 
-# A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc --> 
+# A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc -->
 
 The amount of COVID-19 related research being produced within the first
 weeks following the implementation of far-reaching lockdowns across the
 globe has been impressive. To keep track of new sources, I have compiled a collection of currently over 100 policy trackers and datasets on the topic. The compilation is not meant to be
 exhaustive and I am grateful for general feedback you may have or suggestions on new
 sources. I am updating the tracker of trackers on a daily basis. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates.
+
+Sections 14. and 15. on surveys are edited by [Elias Naumann](http://www.eliasnaumann.de/). For suggestions, please email him at <naumann@uni-mannheim.de>.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
@@ -61,8 +63,9 @@ Grant Mills,
 [@shelter_live](https://twitter.com/shelter_live),
 [@ashamin](https://twitter.com/ashamin),
 [Seth Schimmel](https://github.com/sethsch),
-[@AsjadNaqvi](https://twitter.com/AsjadNaqvi), and
-[@jsvine](https://twitter.com/jsvine).
+[@AsjadNaqvi](https://twitter.com/AsjadNaqvi),
+[@jsvine](https://twitter.com/jsvine), and
+[@zehrarizvi](https://twitter.com/zehrarizvi).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -73,12 +76,17 @@ The collection is structured around the areas of
 - [6. Health and Care Policy](#6-health-and-care-policy)
 - [7. Education, Research and Innovation](#7-education-research-and-innovation)
 - [8. Regions, Cities, SMEs, Tourism](#8-regions-cities-smes-tourism)
-- [9. Public Attitudes, Behavioural Responses, Mobility](#9-public-attitudes-behavioural-responses-mobility)
+- [9. Behavioural Responses and Mobility](#9-behavioural-responses-and-mobility)
 - [10. Politics, Elections, Policy Making](#10-politics-elections-policy-making)
 - [11. Civic Freedom, Human Rights, Media](#11-civic-freedom-human-rights-media)
 - [11. War, Peace and Civil Unrest](#11-war-peace-and-civil-unrest)
 - [12. Prisons, Courts and Judiciary Systems](#12-prisons-courts-and-judiciary-systems)
 - [13. International Development, Philantropy](#13-international-development-philantropy)
+- [14. National Surveys (with probability samples)](#14-national-surveys-with-probability-samples)
+- [15. National and comparative surveys (with non-probability samples)](#15-national-and-comparative-surveys-with-non-probability-samples)
+  - [Quota sampling](#quota-sampling)
+  - [Snowballing sampling](#snowballing-sampling)
+  - [N/A](#na)
 - [Additional Sources: Research & other collections](#additional-sources-research--other-collections)
 
 ## 1. Non-Pharmaceutical Interventions incl. Confinement and Travel
@@ -117,7 +125,7 @@ The collection is structured around the areas of
 
 - [Complexity Science Hub COVID-19 Covid-19 Control Strategies List (CCCSL)](http://covid19-interventions.com/)
   - Focus: non-pharmaceutical interventions (NPIs) to stop the spread of COVID-19
-  - Coverage: 170 governmental measures in 41 countries worldwide 
+  - Coverage: 170 governmental measures in 41 countries worldwide
   - Data format: csv spreadsheet
   - By  [@CSHVienna](https://twitter.com/CSHVienna)
 
@@ -134,7 +142,7 @@ The collection is structured around the areas of
   - By [@O_LJ](https://twitter.com/O_LJ)
 
 -   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
-    -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders) 
+    -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders)
     -   Coverage: USA on a county level (currently 274 counties covered)
     -   Data format: Google sheets, downloadable as csv and xlsx
     -   [Data set](http://hci.st/socialdistancing-dataset)
@@ -200,8 +208,8 @@ The collection is structured around the areas of
         [@BergaminiEnrico](https://twitter.com/BergaminiEnrico)
         [@MartaDomnguezJ1](https://twitter.com/MartaDomnguezJ1)
 
--    [EU and euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf) 
-     -    Focus: measures proposed and taken at the EU or euro area level to mitigate the economic and social effects. 
+-    [EU and euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf)
+     -    Focus: measures proposed and taken at the EU or euro area level to mitigate the economic and social effects.
      -    Coverage: measures by the EC, EU Council, ECB, SSM, ESRB, EBA, EIB. EIF, EBRD.
      -    Data format: pdf
      -    By [@europarl_EN](https://twitter.com/europarl_en)
@@ -228,11 +236,17 @@ The collection is structured around the areas of
   [@MPGoodman88](https://twitter.com/MPGoodman88)
   [@handrewschwartz](https://twitter.com/handrewschwartz)
 
+  - [IMF Fiscal Monitor](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDA1MjAuMjE3ODU5MjEiLCJ1cmwiOiJodHRwczovL3d3dy5pbWYub3JnL34vbWVkaWEvRmlsZXMvUHVibGljYXRpb25zL2Zpc2NhbC1tb25pdG9yLzIwMjAvQXByaWwvRW5nbGlzaC9vbmxpbmVhbm5leDExLmFzaHg_bGE9ZW4mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.2kIn3Sr0Vxsxo63xijpm_Ma21ifxFSMYrhNztcJPD6M/br/78878540483-l)
+  - Focus: key fiscal measures governments have announced or taken from January 1 to April 8, 2020, categorised by above-the-line measures, below-the-line measures, and guarantees
+  - Coverage: G20 countries + selected countries
+  - Data format: pdf
+  - By [@IMFNews](https://twitter.com/IMFNews)
+
 - [The Opportunity Insights Economic Tracker](https://tracker.opportunityinsights.org/)
     - Focus: real time tracking of employment, unemployment, consumer spending, job postings, small businesses openings and revenue, students online math coursework
     - Coverage: USA aggregate and on a state level
     - Data format: html, downloadable soon
-    - By [@OppInsights](https://twitter.com/OppInsights) 
+    - By [@OppInsights](https://twitter.com/OppInsights)
 Raj Chetty
 [@John_N_Friedman](https://twitter.com/John_N_Friedman)
 [@nhendren82](https://twitter.com/nhendren82)
@@ -253,10 +267,10 @@ Raj Chetty
 [@L_van_Lent](https://twitter.com/L_van_Lent)
 
 - [Covid Stimulus Watch](https://covidstimuluswatch.org/blog/2020-04/covid-stimulus-watch-new-website-documents-accountability-track-records-cares-act)
-- Focus: strengthen corporate accountability. It assembles CARES Act recipient data on grants and loans per firm and combines it with information about each firm’s history of regulatory violations, previous government assistance, federal tax avoidance, and CEO and worker pay practices.
-- Coverage: US firms receiving grants and loans through the CARES Act. At the moment, it contains more than 5,700 awards, totalling $54 billion.
-- Data format: html, downloadable as csv and xml
-- By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
+  - Focus: strengthen corporate accountability. It assembles CARES Act recipient data on grants and loans per firm and combines it with information about each firm’s history of regulatory violations, previous government assistance, federal tax avoidance, and CEO and worker pay practices.
+  - Coverage: US firms receiving grants and loans through the CARES Act. At the moment, it contains more than 5,700 awards, totalling $54 billion.
+  - Data format: html, downloadable as csv and xml
+  - By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
 [@DirtDiggers](https://twitter.com/DirtDiggers)
 [@GregLeRoy4](https://twitter.com/GregLeRoy4)
 
@@ -364,23 +378,6 @@ Raj Chetty
     - Coverage: countries worldwide with a focus on developing countries
     - Data format: google spreadsheet, downloadable as xlsx or csv
     - By [@The_IGC](https://twitter.com/The_IGC)
-
-- [COVID Inequality Project](https://sites.google.com/view/covidinequality/home)
-    - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
-    - Coverage: USA, UK, Germany
-    - Data format: aggregate data in csv, results reported in html and pdf
-    - By [@abicadams](https://twitter.com/abicadams)
-[@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
-[@MartaGolin](https://twitter.com/MartaGolin)
-Christopher Rauh
-    - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
-
-- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
-    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
-    - Coverage: 8 countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
-    - Data format: html for aggregate results (only)
-    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
-[@ashamin](https://twitter.com/ashamin)
 
 - [Monitoring the Covid-19 Employment Response: Policy Approaches Across Countries](https://www.hks.harvard.edu/centers/wiener/programs/project-on-workforce/covid-19-employment-response)
     - Focus: wage & employment support measures and their mechanisms
@@ -564,42 +561,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
-## 9. Public Attitudes, Behavioural Responses, Mobility
-
--   [International Survey on Coronavirus](https://covid19-survey.org/)
-    [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
-    - Focus: how citizens are preparing and coping with the COVID-19 crisis
-    - Coverage: 58 countries and over 100,000 respondents
-    - Data format: aggregate results in html, individual level data in dta
-    - By researchers of 12 universities incl.
-        [@Margarita1512](https://twitter.com/Margarita1512)
-        [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
-        [@jonj](https://twitter.com/jonj)
-        [@jhaushofer](https://twitter.com/jhaushofer)
-        [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
-        [@fetzert](https://twitter.com/fetzert)
-        [@caria_stefano](https://twitter.com/caria_stefano)
-    - [Individual level data](https://osf.io/3sn2k/)
-
-- [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker) 
-  - Focus: behavrioural change to COVID19 safety policies
-  - Coverage: 30,000 people across 29 countries each week 
-  - Data format: aggregate results are published on a dashboard and microdata are publicly available as csv spreadsheets
-  - By [@YouGov](https://twitter.com/YouGov)
-  [@Imperial_IGHI](https://twitter.com/Imperial_IGHI)
-  - [Dashboard for aggregate results](https://public.tableau.com/profile/ighi#!/vizhome/ICLYouGovCovid-19Tracker_V0_3/1Specificbehaviourbycountry)
-
-- [YouGov international COVID19 tracker](https://yougov.co.uk/topics/international/articles-reports/2020/03/17/YouGov-international-COVID-19-tracker)
-  - Focus: public attitudes on a broad range of topics from brands to politics
-  - Coverage: over 27,000 people a week across 26 countries
-  - Data format: html, only aggregate data for selected categories, such as behavioral response and government satisfaction are publicly available
-  - By [@YouGov](https://twitter.com/YouGov)
-
-- [Citizens’ Attitudes Under the COVID-19 Pandemic](https://www.sciencespo.fr/cevipof/attitudesoncovid19/)
-  - Focus: public attitudes on health, economy, civil liberties, government, policies and institutions
-  - Coverage: 20 countries worldwide
-  - Data format: microdata in dta, summary statistics in pdf
-  - By Sylvain Brouard (Sciences Po, CEVIPOF), Michael Becher (IAST, University of Toulouse 1), [@MartialFoucault](https://twitter.com/MartialFoucault) (Sciences Po, CEVIPOF) and [@pavlosvas1](https://twitter.com/pavlosvas1) (University of York and CEVIPOF) [@CEVIPOF](https://twitter.com/CEVIPOF)
+## 9. Behavioural Responses and Mobility
 
 - [Google Covid-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
     - Focus: mobility trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. Data is sourced from Google Apps such as Google Maps.
@@ -632,10 +594,10 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
   - Focus: how policy interventions are being made by collecting advice, evidence or other justifications that underpin governments’ decisions
   - Coverage: worldwide
   - Data format: html
-  - By [@INGSciAdvice](https://twitter.com/INGSciAdvice) 
-   [@ISC](https://twitter.com/ISC) 
-   [@PeterGluckman](https://twitter.com/PeterGluckman) 
-   [@jameswilsdon](https://twitter.com/jameswilsdon) 
+  - By [@INGSciAdvice](https://twitter.com/INGSciAdvice)
+   [@ISC](https://twitter.com/ISC)
+   [@PeterGluckman](https://twitter.com/PeterGluckman)
+   [@jameswilsdon](https://twitter.com/jameswilsdon)
    [@SciChefQC](https://twitter.com/SciChefQC)
 
 ## 11. Civic Freedom, Human Rights, Media
@@ -644,15 +606,15 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
   - Focus: government responses that affect civicfreedoms and humanrights
   - Coverage: worldwide
   - Data format: html
-  - By [@ICNLAlliance](https://twitter.com/ICNLAlliance) 
-  [@enablingNGOlaw](https://twitter.com/enablingNGOlaw) 
+  - By [@ICNLAlliance](https://twitter.com/ICNLAlliance)
+  [@enablingNGOlaw](https://twitter.com/enablingNGOlaw)
   [@NiAolainF](https://twitter.com/NiAolainF)
 
 - [Tracker 19](https://rsf.org/en/tracker19-Coronavirus-Covid19)
     - Focus: press freedom. It evaluates the impact on journalism by documenting state censorship and deliberate disinformation, and their impact on the right to reliable news and information. It also makes recommendations on how to defend journalism.
     - Coverage: countries worldwide
     - Data format: html
-    - By Reporters Without Borders 
+    - By Reporters Without Borders
 [@RSF_en](https://twitter.com/RSF_en)
 [@RSF_inter](https://twitter.com/RSF_inter)
 
@@ -709,9 +671,9 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: U.S. states
     - Data format: html
     - By [@MarshallProj](https://twitter.com/MarshallProj)
-    - [Additional resources](https://www.themarshallproject.org/coronavirus) on the USA on 
-        - [the spread of #COVID19 in prisons](https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons), 
-        - [prisoner in- and outflows](https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus) on a country level and 
+    - [Additional resources](https://www.themarshallproject.org/coronavirus) on the USA on
+        - [the spread of #COVID19 in prisons](https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons),
+        - [prisoner in- and outflows](https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus) on a country level and
         - [domestic violence reports](https://www.themarshallproject.org/2020/04/22/is-domestic-violence-rising-during-the-coronavirus-shutdown-here-s-what-the-data-shows) during the shutdown
 
 - [Prison Policy: Responses to the COVID-19 pandemic](https://www.prisonpolicy.org/virus/virusresponse.html)
@@ -795,6 +757,252 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: html tables
     - By [@Covid_Africa](https://twitter.com/Covid_Africa)
 
+## 14. National Surveys (with probability samples)
+*edited by [@eliasnau](https://twitter.com/eliasnau/)*
+
+Countries in this section (with number of surveys in brackets): Germany (3), US (2), Netherlands (1), Norway (1)
+
+- [SOEP-CoV](https://www.soep-cov.de/)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Probability sample of households
+      - Time: 03/30/2020 – 06/28/2020
+      - Interval of data collection: weekly cross-sections, follow-up survey planned for 2021
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  ~ 7.800 households (300-2000 per week)
+    - Micro data availablity: no (planned:yes)
+    - Data format: pdf (research reports)
+    - By [@DIW_Berlin](https://twitter.com/DIW_Berlin) [@unibielefeld](https://twitter.com/unibielefeld)
+
+- [Mannheimer Corona-Studie](https://www.uni-mannheim.de/gip/corona-studie/)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Probability sample of households/individuals
+      - Time: 03/20/2020-07/03/2020
+      - Interval of data collection: daily cross-sections, weekly individual panel data
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  ~ 3.500 individuals (~ 500 per day)
+    - Micro data availablity: no (planned:yes)
+    - Data format: pdf (daily update)
+    - By [@PolEconReforms](https://twitter.com/PolEconReforms) [Universität Mannheim](https://www.uni-mannheim.de)
+
+- [gesis panel](https://www.gesis.org/gesis-panel/gesis-panel-home)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Probability sample of individuals
+      - Time: 03/17/2020-29/03/2020
+      - Interval of data collection: once
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  3.765 individuals
+    - Micro data availablity: yes
+    - Data format: .dta, .sav
+    - By [@GESIS_Panel](https://twitter.com/GESIS_Panel)
+
+- [Understanding America Study](https://covid19pulse.usc.edu/)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: United States
+      - Target population and sampling: Probability sample of U.S. residents
+      - Time: since 03/10/2020 (ongoing)
+      - Interval of data collection: daily cross-sections, bi-weekly individual level panel
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 5.500 individuals (~500 per day)
+    - Micro data availablity: yes
+    - Data format: .dta, .html (daily updates)
+    - By [USCDornsife](https://uasdata.usc.edu/index.php)
+
+- [COVID Impact Survey](https://www.covid-impact.org/)
+    - Focus: Employment and financial situation, COVID-related behavior and perceptions, mental health
+    - Coverage
+      - Country: United States
+      - Target population and sampling: Probability sample of U.S. adult population
+      - Time: 04/20-04/26 (Week 1), 05/04-05/10 (Week 2), ongoing
+      - Interval of data collection: monthly cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 2,200 individuals each month
+    - Micro data availablity: yes
+    - Data format: .dta, .sav, .csv
+    - By [@covidimpact](https://twitter.com/covidimpact) [Data Foundation](https://www.datafoundation.org/)
+
+- [LISS Panel](https://www.lissdata.nl/)
+    - Focus: N/A
+    - Coverage
+      - Country: Netherlands
+      - Target population and sampling: Probability sample of Dutch Households
+      - Time: N/A
+      - Interval of data collection: N/A
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 7.000 individuals each month
+    - Micro data availablity: yes
+    - Data format: .dta, .sav
+    - By [@centerdata](https://twitter.com/centerdata)
+
+- [Norwegian Citizen Panel](https://www.uib.no/en/digsscore/122162/methodology-and-field-periods)
+    - Focus: N/A
+    - Coverage
+      - Country: Norway
+      - Target population and sampling: Probability sample of adult population
+      - Time: end of march
+      - Interval of data collection: once
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 12.000
+    - Micro data availablity: no (planned: yes)
+    - Data format: .dta, .sav
+    - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
+
+## 15. National and comparative surveys (with non-probability samples)
+*edited by [@eliasnau](https://twitter.com/eliasnau/)*
+
+We rank order the list of surveys by sampling method used. Surveys with non-probability samples either use quota sampling from commercial opt-in panels or snowballing via social media. We list surveys with quota sampling first,  since we believe that they provide somewhat higher data quality compared to snowball sampling. Within each category we rank order surveys according the number of countries covered.
+
+### Quota sampling
+
+- [Covid19 Behaviour Tracker](https://github.com/YouGov-Data/covid-19-tracker)
+  - Focus: perceptions and COVID19-related health behavior
+  - Coverage
+    - Countries: 29
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: since 03/30, ongoing
+    - Interval of data collection: weekly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 21,000 respondents each week
+  - Data format: aggregate results are published on a dashboard and microdata are publicly available as csv spreadsheets
+  - By [@YouGov](https://twitter.com/YouGov)
+  [@Imperial_IGHI](https://twitter.com/Imperial_IGHI)
+  - [Dashboard for aggregate results](https://public.tableau.com/profile/ighi#!/vizhome/ICLYouGovCovid-19Tracker_V0_3/1Specificbehaviourbycountry)
+
+- [YouGov international COVID19 tracker](https://yougov.co.uk/topics/international/articles-reports/2020/03/17/YouGov-international-COVID-19-tracker)
+  - Focus: public attitudes on a broad range of topics from brands to politics
+  - Coverage
+    - Countries: 26
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: since march, ongoing
+    - Interval of data collection: weekly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 27,000 respondents each week
+  - Data format: html, only aggregate data for selected categories, such as behavioral response and government satisfaction are publicly available
+  - By [@YouGov](https://twitter.com/YouGov)
+
+- [Attitudes Towards COVID-19 - A comparative study](https://www.sciencespo.fr/cevipof/attitudesoncovid19/)
+  - Focus: public attitudes on health, economy, civil liberties, government, policies and institutions
+  - Coverage
+    - Countries: 20
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: 03/20 - 04/30
+    - Interval of data collection: individual level panel data (weekly, 2-8 waves depending on country)
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 23,000 respondents in the first wave
+  - Data format: microdata in dta, summary statistics in pdf
+  - By Sylvain Brouard, Michael Becher, [@MartialFoucault](https://twitter.com/MartialFoucault), [@pavlosvas1](https://twitter.com/pavlosvas1), [@CEVIPOF](https://twitter.com/CEVIPOF)
+
+- [COVID Inequality Project](https://sites.google.com/view/covidinequality/home)
+  - Focus: impact on workers and inequality across many dimensions, such as age, gender, occupation, work arrangements, and education. Two survey waves collecting responses from large geographically representative samples in the US and UK and one survey wave in Germany.
+  - Coverage
+    - Countries: USA, UK, Germany
+    - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
+    - Time: 03/24 - 04/14
+    - Interval of data collection: 2 cross-sectional waves in UK and US, 1 wave in Germany
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 4,000 per country and wave
+  - Data format: aggregate data in csv, results reported in html and pdf
+  - By [@abicadams](https://twitter.com/abicadams)
+    [@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
+    [@MartaGolin](https://twitter.com/MartaGolin)
+    Christopher Rauh
+  - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
+
+- [intergen-COVID](https://sites.google.com/unifi.it/intergen-covid)
+  - Focus: Intergenerational contact during COVID and mental health
+  - Coverage
+    - Countries: Italy, Spain, France
+    - Target population and sampling: Adult population, quota sampling from opt-in panels
+    - Time: April 2020
+    - Interval of data collection: once
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: 9,186
+  - Micro data availablity: no
+  - Data format: Key findings in google doc
+  - By [@brunoarpinoFLR](https://twitter.com/brunoarpinoFLR) [@ValeriaBordone](https://twitter.com/ValeriaBordone)  [@pasqualinimarta](https://twitter.com/pasqualinimarta)
+
+- [COVID-19 Snapshot Monitoring (COSMO)](https://www.psycharchives.org/handle/20.500.12034/2397)
+    - Focus: COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Germany
+      - Target population and sampling: Adult population, non-probability quota sampling
+      - Time: since 03/03/2020 (ongoing)
+      - Interval of data collection: weekly cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 1.000 per week
+    - Micro data availablity: no (planned: N/A)
+    - Data format: [.html](https://projekte.uni-erfurt.de/cosmo2020/cosmo-analysis.html)
+    - By [@unierfurt](https://twitter.com/unierfurt), Robert Koch-Institut [@rki_de](https://twitter.com/rki_de), Bundeszentrale für gesundheitliche Aufklärung [@bzga_de](https://twitter.com/bzga_de), Leibniz-Zentrum für Psychologische Information und Dokumentation [@ZPID](https://twitter.com/ZPID), Science Media Center [@smc_germany](https://twitter.com/smc_germany), Bernhard Nocht Institute for Tropical Medicine [@BNITM_de](https://twitter.com/BNITM_de), Yale Institute for Global Health [@YaleGH](https://twitter.com/YaleGH)
+
+- [Austrian Corona Panel Project](https://viecer.univie.ac.at/en/projects-and-cooperations/austrian-corona-panel-project/)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: Austria
+      - Target population and sampling: adult population, non-probability quota sampling
+      - Time: since 03/27/2020 (ongoing)
+      - Interval of data collection: weekly individual level panel data
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 1.500 per week
+    - Micro data availablity: no (planned: N/A)
+    - Data format: .html (daily reports)
+    - By [@VieCER_](https://twitter.com/VieCER_)
+
+### Snowballing sampling
+
+-   [International Survey on Coronavirus](https://covid19-survey.org/)
+        [#covid19study](https://twitter.com/hashtag/covid19study?src=hashtag_click)
+    - Focus: Worldwide COVID-19 Attitudes and Beliefs
+    - Coverage
+      - Countries: 170
+      - Target population and sampling: people aged 18 and over, snowballing via social media
+      - Time: since 03/20, ongoing
+      - Interval of data collection: continuous
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: > 110,000 respondents
+    - Data format: aggregate results in html, individual level data in dta
+    - By researchers of 12 universities incl.
+            [@Margarita1512](https://twitter.com/Margarita1512)
+            [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
+            [@jonj](https://twitter.com/jonj)
+            [@jhaushofer](https://twitter.com/jhaushofer)
+            [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
+            [@fetzert](https://twitter.com/fetzert)
+            [@caria_stefano](https://twitter.com/caria_stefano)
+    - [Individual level data](https://osf.io/3sn2k/)
+
+- [Living, working and COVID-19](https://www.eurofound.europa.eu/data/covid-19)
+  - Focus: Work and well-being
+  - Coverage
+    - Countries: EU27 and the UK
+    - Target population and sampling: people aged 18 and over, snowballing on social media
+    - Time: 04/9-04/30, ongoing
+    - Interval of data collection: monthly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 70,000
+  - Data format: aggregate data (also for some subgroups) in .html and .csv
+  - By: [@eurofound](https://twitter.com/eurofound)
+
+### N/A
+
+- BFA Global [Survey on the Impact of COVID-19 on Financial Lives](https://bfa.works/C19-wave2-board) and [Summary Blog](https://bfa.works/c19-wave2-blog)
+    - Focus: COVID19 impact on financial health of households incl. income, savings, debt
+    - Coverage
+      - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
+      - Target population and sampling: N/A
+      - Time: 03/25-26, 04/11-12
+      - Interval of data collection: 2 cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
+    - Data format: html for aggregate results (only)
+    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
+  [@ashamin](https://twitter.com/ashamin)
+
 ## Additional Sources: Research & other collections
 
 - [@timvlandas](https://twitter.com/timvlandas) has put together a dedicated [COVID-19 resources webpage](https://timvlandas.com/covid-19-resources/) collecting many sources for research, policy and data related to the crisis.
@@ -809,10 +1017,9 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 
 - [@OurWorldInData](https://twitter.com/OurWorldInData) provides a clean [csv file](https://covid.ourworldindata.org/data/ecdc/full_data.csv) and [info](https://t.co/O7rkzBbRdw?amp=1) for daily new/total COVID19 cases & deaths. Data is based on the European CDC, covers 199 countries & territories and is updated daily.
 
-- The [CORE Project](https://www.core-econ.org/project/core-covid-19-collection/) provides a collection of economics teaching resources on COVID19. Examples include material to learn using R to analyse data on cases & fatalities, or an assignment on macroeconomics of COVID19. 
+- The [CORE Project](https://www.core-econ.org/project/core-covid-19-collection/) provides a collection of economics teaching resources on COVID19. Examples include material to learn using R to analyse data on cases & fatalities, or an assignment on macroeconomics of COVID19.
 By [@coreeconteam](https://twitter.com/coreeconteam)
 [@ralffbecker](https://twitter.com/ralffbecker)
 [@mvsbach](https://twitter.com/mvsbach)
 
-- The [@CovidImpactLab](https://covid-19-impact-lab.readthedocs.io/en/latest/) is running multiple surveys, thereby facilitating near-real-time monitoring of how people respond to the CoViD-19 crisis and the implemented countermeasures to the pandemic. It is also maintaining a [Covid-19 dashboard](http://covid-19-impact-lab.iza.org). It is a collaborative research initiative by OpenSourceEconomics supported by [@iza_bonn](https://twitter.com/iza_bonn) [@UniBonn](https://twitter.com/UniBonn) [@ECON_tribute](https://twitter.com/ECON_tribute) [@EPoS224](https://twitter.com/EPoS224).  
-
+- The [@CovidImpactLab](https://covid-19-impact-lab.readthedocs.io/en/latest/) is running multiple surveys, thereby facilitating near-real-time monitoring of how people respond to the CoViD-19 crisis and the implemented countermeasures to the pandemic. It is also maintaining a [Covid-19 dashboard](http://covid-19-impact-lab.iza.org). It is a collaborative research initiative by OpenSourceEconomics supported by [@iza_bonn](https://twitter.com/iza_bonn) [@UniBonn](https://twitter.com/UniBonn) [@ECON_tribute](https://twitter.com/ECON_tribute) [@EPoS224](https://twitter.com/EPoS224).
