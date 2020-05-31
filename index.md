@@ -64,8 +64,9 @@ Grant Mills,
 [@ashamin](https://twitter.com/ashamin),
 [Seth Schimmel](https://github.com/sethsch),
 [@AsjadNaqvi](https://twitter.com/AsjadNaqvi),
-[@jsvine](https://twitter.com/jsvine), and
-[@zehrarizvi](https://twitter.com/zehrarizvi).
+[@jsvine](https://twitter.com/jsvine),
+[@zehrarizvi](https://twitter.com/zehrarizvi), and
+Karel Mertens.
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -588,6 +589,12 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: countries, regions and cities worldwide
     - Data format: csv data, html charts
     - By [@Apple](https://twitter.com/Apple)
+
+- [The Dallas Fed Social Distancing Index](https://www.dallasfed.org/research/sdi.aspx)
+    - Focus: The index summarises the information in seven different variables based on geolocation data collected from a large sample of mobile devices: 1. The fraction of devices leaving home in a day; 2. The fraction of devices away from home for 3-6 hours at a fixed location; 3. The fraction of devices away from home longer than 6 hours at a fixed location; 4. An adjusted average of daytime hours spent at home; 5. The fraction of devices taking trips longer than 16 kilometers; 6. The fraction of devices taking trips less than 2 kilometers; and 7. The average time spent at locations far from home.
+    - Coverage: USA at county, metropolitan statistical areas (MSA), state and national level.
+    - Data format: csv
+    - By [@DallasFed](https://twitter.com/DallasFed)
 
 ## 10. Politics, Elections, Policy Making
 
