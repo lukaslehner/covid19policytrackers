@@ -514,6 +514,12 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: html
     - By [@CovidScholar](https://twitter.com/CovidScholar) incl. [@KPatBerkeley](https://twitter.com/KPatBerkeley) [@jmdagdelen](https://twitter.com/jmdagdelen)
 
+- [Open Government Approaches to Tackling COVID-19](https://www.opengovpartnership.org/collecting-open-government-approaches-to-covid-19/)
+    - Focus: a list of open government approaches, such as citizen-led community responses, Building trust between government and citizens, Transparency over forecasting models and data, Digital platforms or apps, Tackling misinformation online
+    - Coverage: worldwide, country level
+    - Data format: Google sheet, downloadable as xlsx or csv
+    - By [@opengovpart](https://twitter.com/opengovpart)
+
 ## 8. Regions, Cities, SMEs, Tourism
 
 -   [OECD multilevel governance](https://read.oecd-ilibrary.org/view/?ref=128_128287-5agkkojaaa&title=The-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government)
