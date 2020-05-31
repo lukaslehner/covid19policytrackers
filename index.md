@@ -764,6 +764,13 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: html tables
     - By [@Covid_Africa](https://twitter.com/Covid_Africa)
 
+- [The ONE Africa COVID-19 Tracker](https://www.one.org/africa/about/policy-analysis/covid-19-tracker/)
+    - Focus: health, economic, and social impacts, such as the number of hospital beds and ICUs; government measures to limit spread of the virus or to limit civil liberties; impact on food intake or remittances
+    - Coverage: African countries
+    - Data format: Tableau (not downloadable)
+    - By [@ONECampaign](https://twitter.com/ONEcampaign)
+[@David_McNair](https://twitter.com/David_McNair)
+
 ## 14. National Surveys (with probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
 
