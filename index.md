@@ -447,11 +447,11 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 [@COVID19Tracking](https://twitter.com/COVID19Tracking)
 [@TheAtlantic](https://twitter.com/TheAtlantic)
 
-[The Health Foundation COVID-19 policy tracker](https://www.health.org.uk/news-and-comment/charts-and-infographics/covid-19-policy-tracker)
-Focus: national government and health and social care system responses in five areas: 1. Policy narrative, 2. Measures to limit spread, 3. Health and social care systems responses, 4. Interventions to support R&D, 5. Broader social and economic interventions
-Coverage: England
-Data format: xlsx
-By [@HealthFdn](https://twitter.com/healthfdn)
+- [The Health Foundation COVID-19 policy tracker](https://www.health.org.uk/news-and-comment/charts-and-infographics/covid-19-policy-tracker)
+    - Focus: national government and health and social care system responses in five areas: 1. Policy narrative, 2. Measures to limit spread, 3. Health and social care systems responses, 4. Interventions to support R&D, 5. Broader social and economic interventions
+    - Coverage: England
+    - Data format: xlsx
+    - By [@HealthFdn](https://twitter.com/healthfdn)
 [@hughalderwick](https://twitter.com/hughalderwick)
 
 ## 7. Education, Research and Innovation
