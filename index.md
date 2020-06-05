@@ -275,6 +275,14 @@ Raj Chetty
 [@DirtDiggers](https://twitter.com/DirtDiggers)
 [@GregLeRoy4](https://twitter.com/GregLeRoy4)
 
+- [The Weekly Economic Index (WEI)](https://www.newyorkfed.org/research/policy/weekly-economic-index)
+    - Focus: provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency. It represents the common component of ten different daily and weekly series covering consumer behavior, the labor market, and production, scaled to proxy US GDP growth.
+    - Coverage: USA
+    - Data format: xlsx
+    - By [@NewYorkFed](https://twitter.com/NewYorkFed)
+[@DallasFed](https://twitter.com/DallasFed)
+
+
 ## 3. Tax Policy
 
 -   [OECD tax policy dataset](https://oecd.org/tax/covid-19-tax-policy-and-other-measures.xlsm)
