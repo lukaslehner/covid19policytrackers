@@ -282,6 +282,12 @@ Raj Chetty
     - By [@NewYorkFed](https://twitter.com/NewYorkFed)
 [@DallasFed](https://twitter.com/DallasFed)
 
+- [Real Time Population Survey](https://sites.google.com/view/covid-rps)
+    - Focus: bi-weekly online household survey that aims to provide more timely and more frequent version of the official labor market survey used to produce unemployment rate numbers etc.
+    - Coverage: USA
+    - Data format: html, pdf. No micro data available yet.
+    - By Alexander Bick, [@AdamBlandin](https://twitter.com/AdamBlandin)
+[@DallasFed](https://twitter.com/DallasFed)
 
 ## 3. Tax Policy
 
