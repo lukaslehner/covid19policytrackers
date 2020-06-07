@@ -147,6 +147,16 @@ The collection is structured around the areas of
   - Data format: csv and world map
   - By [@O_LJ](https://twitter.com/O_LJ)
 
+- [COVID-19 US state policy database (CUSP)](https://tinyurl.com/statepolicies) and [Sources](https://preview.tinyurl.com/statepolicysources)
+    - Focus: dates of state policy changes in the areas of non-pharmaceutical interventions, social policies, healthcare, racial disparities, etc.
+    - Coverage: USA (state level)
+    - Data format: Google sheets, xlsx, csv
+    - By [@JuliaRaifman](https://twitter.com/JuliaRaifman)
+[@JacobBor](https://twitter.com/JacobBor)
+[@dklinejones](https://twitter.com/dklinejones)
+[@DrSarahLipson](https://twitter.com/DrSarahLipson)
+[@jonjaytweets](https://twitter.com/jonjaytweets)
+
 -   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
     -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders)
     -   Coverage: USA on a county level (currently 274 counties covered)
