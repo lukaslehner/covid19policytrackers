@@ -68,8 +68,10 @@ Grant Mills,
 [@zehrarizvi](https://twitter.com/zehrarizvi)
 Karel Mertens,
 [@_CatJones_](https://twitter.com/_CatJones_),
-[@JuliaRaifman](https://twitter.com/JuliaRaifman), and
-Phoebe Dunn.
+[@JuliaRaifman](https://twitter.com/JuliaRaifman),
+Phoebe Dunn,
+[@kbbolch](https://twitter.com/kbbolch), and
+[@LiviaFritz](https://twitter.com/LiviaFritz).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -374,6 +376,12 @@ Raj Chetty
     -   Coverage: 46 countries
     -   Data format: pdf
     -   [Dashboard (regularly updated)](https://www.social-protection.org/gimi/ShowWiki.action?id=3417)
+
+- Eurofound [COVID-19 EU PolicyWatch](https://www.eurofound.europa.eu/data/covid-19-eu-policywatch)
+    - Focus: social and employment policy responses of government and social partners; examples of company practices aimed at mitigating the social and economic impacts
+    - Coverage: EU member countries, Norway, United Kingdom
+    - Data format: html, csv, json
+    - By [@eurofound](https://twitter.com/eurofound)
 
 -   Eurofound European Restructuring Monitor (ERM) [COVID 19
     summary](https://www.eurofound.europa.eu/publications/blog/coronavirus-a-labour-market-earthquake?&utm_campaign=covid-19&utm_content=ef20052&utm_source=twitter&utm_medium=social-network)
