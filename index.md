@@ -172,6 +172,13 @@ The collection is structured around the areas of
 [@TalusAnalytics](https://twitter.com/talusanalytics/)
 [@NTI_WMD](https://twitter.com/NTI_WMD)
 
+- [COVID19 Afrique Données Recherche](https://www.covid19afrique.com/)
+    - Focus: non-pharmaceutical interventions; cases and deaths (in French)
+    - Coverage: Francophone African countries and countries of Economic Community of West African States (ECOWAS)
+    - Data format: html
+-    By [@mavalo76](https://twitter.com/@mavalo76)
+[@ValeryRidde](https://twitter.com/ValeryRidde)
+
 -   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
     -   Focus: travel restrictions, quarantine requirements for travellers
     -   Coverage: worldwide
