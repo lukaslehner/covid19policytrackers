@@ -164,6 +164,14 @@ The collection is structured around the areas of
     -   [Data set](http://hci.st/socialdistancing-dataset)
     -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
 
+- [COVID Analysis and Mapping of Policies (AMP) site](https://covidamp.org/)
+    - Focus: non-pharmaceutical interventions
+    - Coverage: United States (national and sub-national), Nigeria, Djibouti
+    - Data format: html, xlsx
+    - By [@georgetown_ghss](https://twitter.com/georgetown_ghss)
+[@TalusAnalytics](https://twitter.com/talusanalytics/)
+[@NTI_WMD](https://twitter.com/NTI_WMD)
+
 -   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
     -   Focus: travel restrictions, quarantine requirements for travellers
     -   Coverage: worldwide
