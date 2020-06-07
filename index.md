@@ -65,8 +65,11 @@ Grant Mills,
 [Seth Schimmel](https://github.com/sethsch),
 [@AsjadNaqvi](https://twitter.com/AsjadNaqvi),
 [@jsvine](https://twitter.com/jsvine),
-[@zehrarizvi](https://twitter.com/zehrarizvi), and
-Karel Mertens.
+[@zehrarizvi](https://twitter.com/zehrarizvi)
+Karel Mertens,
+[@_CatJones_](https://twitter.com/_CatJones_),
+[@JuliaRaifman](https://twitter.com/JuliaRaifman), and
+Phoebe Dunn.
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
