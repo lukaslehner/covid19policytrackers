@@ -67,7 +67,7 @@ Grant Mills,
 [@jsvine](https://twitter.com/jsvine),
 [@zehrarizvi](https://twitter.com/zehrarizvi)
 Karel Mertens,
-[@_CatJones_](https://twitter.com/_CatJones_),
+[@\_CatJones_](https://twitter.com/_CatJones_),
 [@JuliaRaifman](https://twitter.com/JuliaRaifman),
 Phoebe Dunn,
 [@kbbolch](https://twitter.com/kbbolch), and
