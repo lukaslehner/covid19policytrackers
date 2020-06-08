@@ -176,7 +176,7 @@ The collection is structured around the areas of
     - Focus: non-pharmaceutical interventions; cases and deaths (in French)
     - Coverage: Francophone African countries and countries of Economic Community of West African States (ECOWAS)
     - Data format: html
--    By [@mavalo76](https://twitter.com/@mavalo76)
+    - By [@mavalo76](https://twitter.com/@mavalo76)
 [@ValeryRidde](https://twitter.com/ValeryRidde)
 
 -   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
