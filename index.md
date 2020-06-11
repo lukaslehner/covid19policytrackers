@@ -1064,18 +1064,18 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Data format: .html (daily reports)
     - By [@VieCER_](https://twitter.com/VieCER_)
 
-  - [The State of the Nation: A 50-State COVID-19 Survey](https://covidstates.org/)
-    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
-    - Coverage
-      - Country: US
-      - Target population and sampling: adult population, non-probability quota sampling
-      - Time: since 17/4/2020 (ongoing)
-      - Interval of data collection: ~ monthly cross-sections
-      - Availability of individual level data from pre-CoVID: No
-      - Number of observations: ~ 20.000 per round
-    - Micro data availablity: no (planned: N/A)
-    - Data format: reports, aggregate data and cross-tabs (as .html, .csv, .pdf)
-    - By: The COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States
+- [The State of the Nation: A 50-State COVID-19 Survey](https://covidstates.org/)
+  - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+  - Coverage
+    - Country: US
+    - Target population and sampling: adult population, non-probability quota sampling
+    - Time: since 17/4/2020 (ongoing)
+    - Interval of data collection: ~ monthly cross-sections
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 20.000 per round
+  - Micro data availablity: no (planned: N/A)
+  - Data format: reports, aggregate data and cross-tabs (as .html, .csv, .pdf)
+  - By: The COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States
             [The Network Science Institute of Northeastern University](https://www.networkscienceinstitute.org/)
             [The Shorenstein Center on Media, Politics, and Public Policy of Harvard University](https://shorensteincenter.org/)
             [Harvard Medical School, Harvard University](https://hms.harvard.edu/)
@@ -1138,29 +1138,29 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Data format: aggregate data (also for some subgroups) in .html and .csv
   - By: [@eurofound](https://twitter.com/eurofound)
 
-  - [Global Drug Survey](https://www.globaldrugsurvey.com/)
-    - Focus: Alcohol and other drug use, mental health and coping mechanisms
-    - Coverage
-      - Countries: 12 countries
-      - Target population and sampling: people aged 18 and over, snowballing
-      - Time: May and June 2020
-      - Interval of data collection: once
-      - Availability of individual level data from pre-CoVID: No
-      - Number of observations: ~ 70,000
-    - Data format: research report (.pdf)
-    - By: [@GlobalDrugSurvy](https://twitter.com/GlobalDrugSurvy)
+- [Global Drug Survey](https://www.globaldrugsurvey.com/)
+  - Focus: Alcohol and other drug use, mental health and coping mechanisms
+  - Coverage
+    - Countries: 12 countries
+    - Target population and sampling: people aged 18 and over, snowballing
+    - Time: May and June 2020
+    - Interval of data collection: once
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: ~ 70,000
+  - Data format: research report (.pdf)
+  - By: [@GlobalDrugSurvy](https://twitter.com/GlobalDrugSurvy)
 
-  - [Monitero Nacional de Sintomas y Practicas COVID-19 en Chile](https://www.movid19.cl/)
-    - Focus: Health situation and well-being
-    - Coverage
-      - Countries: Chile
-      - Target population and sampling: people aged 18 and over, snowball sampling
-      - Time: 13/4/2020 - 24/5/2020, ongoing
-      - Interval of data collection: weekly cross-sections and weekly individual level panel
-      - Availability of individual level data from pre-CoVID: No
-      - Number of observations: 15,000-37,000 per week
-    - Data format: N/A
-    - By: Colegio Médico de Chile y Universidad de Chile, Facultad de Psicología, Universidad Diego Portales, PI: Cristóbal Cuadrado, [@CCuadrado](https://twitter.com/CCuadradoN)
+- [Monitero Nacional de Sintomas y Practicas COVID-19 en Chile](https://www.movid19.cl/)
+  - Focus: Health situation and well-being
+  - Coverage
+    - Countries: Chile
+    - Target population and sampling: people aged 18 and over, snowball sampling
+    - Time: 13/4/2020 - 24/5/2020, ongoing
+    - Interval of data collection: weekly cross-sections and weekly individual level panel
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: 15,000-37,000 per week
+  - Data format: N/A
+  - By: Colegio Médico de Chile y Universidad de Chile, Facultad de Psicología, Universidad Diego Portales, PI: Cristóbal Cuadrado, [@CCuadrado](https://twitter.com/CCuadradoN)
 
 ### N/A
 
