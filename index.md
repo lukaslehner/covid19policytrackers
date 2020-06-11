@@ -1072,7 +1072,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
             [@royperlis](https://twitter.com/royperlis)
             [@matthewabaum](https://twitter.com/matthewabaum)
             [@davidlazer](https://twitter.com/davidlazer)
-            James Druckman (Northwestern University) 
+            James Druckman (Northwestern University)
             [@MauSantillana](https://twitter.com/MauSantillana)
             [@dellavolpe](https://twitter.com/dellavolpe)
 
@@ -1125,17 +1125,29 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Data format: aggregate data (also for some subgroups) in .html and .csv
   - By: [@eurofound](https://twitter.com/eurofound)
 
-- [Monitero Nacional de Sintomas y Practicas COVID-19 en Chile](https://www.movid19.cl/)
-  - Focus: Health situation and well-being
-  - Coverage
-    - Countries: Chile
-    - Target population and sampling: people aged 18 and over, snowball sampling
-    - Time: 13/4/2020 - 24/5/2020, ongoing
-    - Interval of data collection: weekly cross-sections and weekly individual level panel
-    - Availability of individual level data from pre-CoVID: No
-    - Number of observations: 15,000-37,000 per week
-  - Data format: N/A
-  - By: Colegio Médico de Chile y Universidad de Chile, Facultad de Psicología, Universidad Diego Portales, PI: Cristóbal Cuadrado, [@CCuadrado](https://twitter.com/CCuadradoN)
+  - [Global Drug Survey](https://www.globaldrugsurvey.com/)
+    - Focus: Alcohol and other drug use, mental health and coping mechanisms
+    - Coverage
+      - Countries: 12 countries
+      - Target population and sampling: people aged 18 and over, snowballing
+      - Time: May and June 2020
+      - Interval of data collection: once
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 70,000
+    - Data format: research report (.pdf)
+    - By: [@GlobalDrugSurvy](https://twitter.com/GlobalDrugSurvy)
+
+  - [Monitero Nacional de Sintomas y Practicas COVID-19 en Chile](https://www.movid19.cl/)
+    - Focus: Health situation and well-being
+    - Coverage
+      - Countries: Chile
+      - Target population and sampling: people aged 18 and over, snowball sampling
+      - Time: 13/4/2020 - 24/5/2020, ongoing
+      - Interval of data collection: weekly cross-sections and weekly individual level panel
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: 15,000-37,000 per week
+    - Data format: N/A
+    - By: Colegio Médico de Chile y Universidad de Chile, Facultad de Psicología, Universidad Diego Portales, PI: Cristóbal Cuadrado, [@CCuadrado](https://twitter.com/CCuadradoN)
 
 ### N/A
 
