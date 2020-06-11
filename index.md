@@ -1051,6 +1051,32 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Data format: .html (daily reports)
     - By [@VieCER_](https://twitter.com/VieCER_)
 
+  - [The State of the Nation: A 50-State COVID-19 Survey](https://covidstates.org/)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: US
+      - Target population and sampling: adult population, non-probability quota sampling
+      - Time: since 17/4/2020 (ongoing)
+      - Interval of data collection: ~ monthly cross-sections
+      - Availability of individual level data from pre-CoVID: No
+      - Number of observations: ~ 20.000 per round
+    - Micro data availablity: no (planned: N/A)
+    - Data format: reports, aggregate data and cross-tabs (as .html, .csv, .pdf)
+    - By: The COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States
+            [The Network Science Institute of Northeastern University](https://www.networkscienceinstitute.org/)
+            [The Shorenstein Center on Media, Politics, and Public Policy of Harvard University](https://shorensteincenter.org/)
+            [Harvard Medical School, Harvard University](https://hms.harvard.edu/)
+            [The School of Communication & Information, Rutgers University](https://comminfo.rutgers.edu/)
+            [Department of Political Science, Northwestern University](https://www.polisci.northwestern.edu/)
+            [@ognyanova](https://twitter.com/ognyanova)
+            [@royperlis](https://twitter.com/royperlis)
+            [@matthewabaum](https://twitter.com/matthewabaum)
+            [@davidlazer](https://twitter.com/davidlazer)
+            James Druckman (Northwestern University) 
+            [@MauSantillana](https://twitter.com/MauSantillana)
+            [@dellavolpe](https://twitter.com/dellavolpe)
+
+
 ### Snowballing sampling
 
 -   [International Survey on Coronavirus](https://covid19-survey.org/)
