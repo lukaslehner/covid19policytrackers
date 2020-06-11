@@ -925,15 +925,15 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - By [@centerdata](https://twitter.com/centerdata)
 
 - [Norwegian Citizen Panel](https://www.uib.no/en/digsscore/122162/methodology-and-field-periods)
-    - Focus: N/A
+    - Focus: Social Sciences, Medicine, Psychology
     - Coverage
       - Country: Norway
       - Target population and sampling: Probability sample of adult population
-      - Time: end of march
-      - Interval of data collection: once
+      - Time: 20 – 29 March
+      - Interval of data collection: once, some questions will be repeated in June 2020, August 2020 and October 2020.
       - Availability of individual level data from pre-CoVID: Yes
-      - Number of observations: ~ 12.000
-    - Micro data availablity: no (planned: yes)
+      - Number of observations: ~ 12.000 (less in the follow up-studies)
+    - Micro data availablity: Planned to become available, timing still not decided.
     - Data format: .dta, .sav
     - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
 
