@@ -851,7 +851,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Coverage
       - Country: Germany
       - Target population and sampling: Probability sample of households
-      - Time: 03/30/2020 – 06/28/2020
+      - Time: 30/3/2020 – 28/6/2020
       - Interval of data collection: weekly cross-sections, follow-up survey planned for 2021
       - Availability of individual level data from pre-CoVID: Yes
       - Number of observations:  ~ 7.800 households (300-2000 per week)
@@ -864,7 +864,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Coverage
       - Country: Germany
       - Target population and sampling: Probability sample of households/individuals
-      - Time: 03/20/2020-07/03/2020
+      - Time: 20/3/2020-03/7/2020
       - Interval of data collection: daily cross-sections, weekly individual panel data
       - Availability of individual level data from pre-CoVID: Yes
       - Number of observations:  ~ 3.500 individuals (~ 500 per day)
@@ -877,7 +877,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Coverage
       - Country: Germany
       - Target population and sampling: Probability sample of individuals
-      - Time: 03/17/2020-29/03/2020
+      - Time: 17/3/2020-29/03/2020
       - Interval of data collection: once
       - Availability of individual level data from pre-CoVID: Yes
       - Number of observations:  3.765 individuals
@@ -890,7 +890,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Coverage
       - Country: United States
       - Target population and sampling: Probability sample of U.S. residents
-      - Time: since 03/10/2020 (ongoing)
+      - Time: since 10/3/2020 (ongoing)
       - Interval of data collection: daily cross-sections, bi-weekly individual level panel
       - Availability of individual level data from pre-CoVID: Yes
       - Number of observations: ~ 5.500 individuals (~500 per day)
@@ -903,7 +903,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Coverage
       - Country: United States
       - Target population and sampling: Probability sample of U.S. adult population
-      - Time: 04/20-04/26 (Week 1), 05/04-05/10 (Week 2), ongoing
+      - Time: 20/4/2020-26/4/2020 (Week 1), 04/5/2020-10/5/2020 (Week 2), 1/6/2020-8/6/2020, ongoing
       - Interval of data collection: monthly cross-sections
       - Availability of individual level data from pre-CoVID: No
       - Number of observations: ~ 2,200 individuals each month
@@ -963,7 +963,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: 29
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
-    - Time: since 03/30, ongoing
+    - Time: since 30/3/2020, ongoing
     - Interval of data collection: weekly cross-sections
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 21,000 respondents each week
@@ -977,7 +977,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: 26
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
-    - Time: since march, ongoing
+    - Time: since march 2020, ongoing
     - Interval of data collection: weekly cross-sections
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 27,000 respondents each week
@@ -989,7 +989,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: 20
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
-    - Time: 03/20 - 04/30
+    - Time: 20/3/2020- 30/4/2020
     - Interval of data collection: individual level panel data (weekly, 2-8 waves depending on country)
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 23,000 respondents in the first wave
@@ -1001,7 +1001,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: USA, UK, Germany
     - Target population and sampling: people aged 18 and over, quota sample from opt-in panel
-    - Time: 03/24 - 04/14
+    - Time: 24/03/2020 - 14/04/2020
     - Interval of data collection: 2 cross-sectional waves in UK and US, 1 wave in Germany
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 4,000 per country and wave
@@ -1043,7 +1043,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Coverage
       - Country: Austria
       - Target population and sampling: adult population, non-probability quota sampling
-      - Time: since 03/27/2020 (ongoing)
+      - Time: since 27/03/2020 (ongoing)
       - Interval of data collection: weekly individual level panel data
       - Availability of individual level data from pre-CoVID: No
       - Number of observations: ~ 1.500 per week
@@ -1059,7 +1059,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Coverage
       - Countries: 170
       - Target population and sampling: people aged 18 and over, snowballing via social media
-      - Time: since 03/20, ongoing
+      - Time: since 20/3/2020, ongoing
       - Interval of data collection: continuous
       - Availability of individual level data from pre-CoVID: No
       - Number of observations: > 110,000 respondents
@@ -1079,7 +1079,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: > 50
     - Target population and sampling: people aged 18 and over, snowballing via social media
-    - Time: since 03/30, ongoing
+    - Time: since 30/3/2020, ongoing
     - Interval of data collection: continuous
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: > 150,000 respondents
@@ -1092,7 +1092,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: EU27 and the UK
     - Target population and sampling: people aged 18 and over, snowballing on social media
-    - Time: 04/9-04/30, ongoing
+    - Time: 09/4/2020-30/04/2020, ongoing
     - Interval of data collection: monthly cross-sections
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 70,000
@@ -1104,7 +1104,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Coverage
     - Countries: Chile
     - Target population and sampling: people aged 18 and over, snowball sampling
-    - Time: 04/13 - 05/24, ongoing
+    - Time: 13/4/2020 - 24/5/2020, ongoing
     - Interval of data collection: weekly cross-sections and weekly individual level panel
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: 15,000-37,000 per week
@@ -1118,7 +1118,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Coverage
       - Countries: Ghana, Kenya, Nigeria, South Africa, India, Mexico, UK, USA
       - Target population and sampling: N/A
-      - Time: 03/25-26, 04/11-12
+      - Time: 25-26 March 2020, 11-12 April 2020
       - Interval of data collection: 2 cross-sections
       - Availability of individual level data from pre-CoVID: No
       - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
