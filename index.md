@@ -64,8 +64,14 @@ Grant Mills,
 [@ashamin](https://twitter.com/ashamin),
 [Seth Schimmel](https://github.com/sethsch),
 [@AsjadNaqvi](https://twitter.com/AsjadNaqvi),
-[@jsvine](https://twitter.com/jsvine), and
-[@zehrarizvi](https://twitter.com/zehrarizvi).
+[@jsvine](https://twitter.com/jsvine),
+[@zehrarizvi](https://twitter.com/zehrarizvi)
+Karel Mertens,
+[@\_CatJones_](https://twitter.com/_CatJones_),
+[@JuliaRaifman](https://twitter.com/JuliaRaifman),
+Phoebe Dunn,
+[@kbbolch](https://twitter.com/kbbolch), and
+[@LiviaFritz](https://twitter.com/LiviaFritz).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -141,12 +147,37 @@ The collection is structured around the areas of
   - Data format: csv and world map
   - By [@O_LJ](https://twitter.com/O_LJ)
 
+- [COVID-19 US state policy database (CUSP)](https://tinyurl.com/statepolicies) and [Sources](https://preview.tinyurl.com/statepolicysources)
+    - Focus: dates of state policy changes in the areas of non-pharmaceutical interventions, social policies, healthcare, racial disparities, etc.
+    - Coverage: USA (state level)
+    - Data format: Google sheets, xlsx, csv
+    - By [@JuliaRaifman](https://twitter.com/JuliaRaifman)
+[@JacobBor](https://twitter.com/JacobBor)
+[@dklinejones](https://twitter.com/dklinejones)
+[@DrSarahLipson](https://twitter.com/DrSarahLipson)
+[@jonjaytweets](https://twitter.com/jonjaytweets)
+
 -   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
     -   Focus: County-level nonpharmaceutical interventions (K-12 school closures, higher education closures, religious gathering cancellations, non-essential business closures, stay-at-home orders)
     -   Coverage: USA on a county level (currently 274 counties covered)
     -   Data format: Google sheets, downloadable as csv and xlsx
     -   [Data set](http://hci.st/socialdistancing-dataset)
     -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
+
+- [COVID Analysis and Mapping of Policies (AMP) site](https://covidamp.org/)
+    - Focus: non-pharmaceutical interventions
+    - Coverage: United States (national and sub-national), Nigeria, Djibouti
+    - Data format: html, xlsx
+    - By [@georgetown_ghss](https://twitter.com/georgetown_ghss)
+[@TalusAnalytics](https://twitter.com/talusanalytics/)
+[@NTI_WMD](https://twitter.com/NTI_WMD)
+
+- [COVID19 Afrique Données Recherche](https://www.covid19afrique.com/)
+    - Focus: non-pharmaceutical interventions; cases and deaths (in French)
+    - Coverage: Francophone African countries and countries of Economic Community of West African States (ECOWAS)
+    - Data format: html
+    - By [@mavalo76](https://twitter.com/@mavalo76)
+[@ValeryRidde](https://twitter.com/ValeryRidde)
 
 -   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
     -   Focus: travel restrictions, quarantine requirements for travellers
@@ -236,11 +267,18 @@ The collection is structured around the areas of
   [@MPGoodman88](https://twitter.com/MPGoodman88)
   [@handrewschwartz](https://twitter.com/handrewschwartz)
 
-  - [IMF Fiscal Monitor](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDA1MjAuMjE3ODU5MjEiLCJ1cmwiOiJodHRwczovL3d3dy5pbWYub3JnL34vbWVkaWEvRmlsZXMvUHVibGljYXRpb25zL2Zpc2NhbC1tb25pdG9yLzIwMjAvQXByaWwvRW5nbGlzaC9vbmxpbmVhbm5leDExLmFzaHg_bGE9ZW4mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.2kIn3Sr0Vxsxo63xijpm_Ma21ifxFSMYrhNztcJPD6M/br/78878540483-l)
+- [IMF Fiscal Monitor](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDA1MjAuMjE3ODU5MjEiLCJ1cmwiOiJodHRwczovL3d3dy5pbWYub3JnL34vbWVkaWEvRmlsZXMvUHVibGljYXRpb25zL2Zpc2NhbC1tb25pdG9yLzIwMjAvQXByaWwvRW5nbGlzaC9vbmxpbmVhbm5leDExLmFzaHg_bGE9ZW4mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.2kIn3Sr0Vxsxo63xijpm_Ma21ifxFSMYrhNztcJPD6M/br/78878540483-l)
   - Focus: key fiscal measures governments have announced or taken from January 1 to April 8, 2020, categorised by above-the-line measures, below-the-line measures, and guarantees
   - Coverage: G20 countries + selected countries
   - Data format: pdf
   - By [@IMFNews](https://twitter.com/IMFNews)
+
+- [Policy Responses to COVID-19 in Asia and the Pacific](https://www.unescap.org/covid19/policy-responses)
+    - Focus: Non-pharmaceutical interventions; fiscal, monetary, financial and trade policy;
+    - Coverage: Asia and the Pacific
+    - Data format: Tableau; pdf
+    - By [@UNESCAP](https://twitter.com/UNESCAP)
+[@sweta_saxena](https://twitter.com/sweta_saxena)
 
 - [The Opportunity Insights Economic Tracker](https://tracker.opportunityinsights.org/)
     - Focus: real time tracking of employment, unemployment, consumer spending, job postings, small businesses openings and revenue, students online math coursework
@@ -273,6 +311,20 @@ Raj Chetty
   - By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
 [@DirtDiggers](https://twitter.com/DirtDiggers)
 [@GregLeRoy4](https://twitter.com/GregLeRoy4)
+
+- [The Weekly Economic Index (WEI)](https://www.newyorkfed.org/research/policy/weekly-economic-index)
+    - Focus: provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency. It represents the common component of ten different daily and weekly series covering consumer behavior, the labor market, and production, scaled to proxy US GDP growth.
+    - Coverage: USA
+    - Data format: xlsx
+    - By [@NewYorkFed](https://twitter.com/NewYorkFed)
+[@DallasFed](https://twitter.com/DallasFed)
+
+- [Real Time Population Survey](https://sites.google.com/view/covid-rps)
+    - Focus: bi-weekly online household survey that aims to provide more timely and more frequent version of the official labor market survey used to produce unemployment rate numbers etc.
+    - Coverage: USA
+    - Data format: html, pdf. No micro data available yet.
+    - By Alexander Bick, [@AdamBlandin](https://twitter.com/AdamBlandin)
+[@DallasFed](https://twitter.com/DallasFed)
 
 ## 3. Tax Policy
 
@@ -349,6 +401,12 @@ Raj Chetty
     -   Coverage: 46 countries
     -   Data format: pdf
     -   [Dashboard (regularly updated)](https://www.social-protection.org/gimi/ShowWiki.action?id=3417)
+
+- Eurofound [COVID-19 EU PolicyWatch](https://www.eurofound.europa.eu/data/covid-19-eu-policywatch)
+    - Focus: social and employment policy responses of government and social partners; examples of company practices aimed at mitigating the social and economic impacts
+    - Coverage: EU member countries, Norway, United Kingdom
+    - Data format: html, csv, json
+    - By [@eurofound](https://twitter.com/eurofound)
 
 -   Eurofound European Restructuring Monitor (ERM) [COVID 19
     summary](https://www.eurofound.europa.eu/publications/blog/coronavirus-a-labour-market-earthquake?&utm_campaign=covid-19&utm_content=ef20052&utm_source=twitter&utm_medium=social-network)
@@ -447,6 +505,13 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 [@COVID19Tracking](https://twitter.com/COVID19Tracking)
 [@TheAtlantic](https://twitter.com/TheAtlantic)
 
+- [The Health Foundation COVID-19 policy tracker](https://www.health.org.uk/news-and-comment/charts-and-infographics/covid-19-policy-tracker)
+    - Focus: national government and health and social care system responses in five areas: 1. Policy narrative, 2. Measures to limit spread, 3. Health and social care systems responses, 4. Interventions to support R&D, 5. Broader social and economic interventions
+    - Coverage: England
+    - Data format: xlsx
+    - By [@HealthFdn](https://twitter.com/healthfdn)
+[@hughalderwick](https://twitter.com/hughalderwick)
+
 ## 7. Education, Research and Innovation
 
 -   [UNESCO COVID-19 Educational Disruption and Response](https://en.unesco.org/covid19/educationresponse)
@@ -506,6 +571,12 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: worldwide
     - Data format: html
     - By [@CovidScholar](https://twitter.com/CovidScholar) incl. [@KPatBerkeley](https://twitter.com/KPatBerkeley) [@jmdagdelen](https://twitter.com/jmdagdelen)
+
+- [Open Government Approaches to Tackling COVID-19](https://www.opengovpartnership.org/collecting-open-government-approaches-to-covid-19/)
+    - Focus: a list of open government approaches, such as citizen-led community responses, Building trust between government and citizens, Transparency over forecasting models and data, Digital platforms or apps, Tackling misinformation online
+    - Coverage: worldwide, country level
+    - Data format: Google sheet, downloadable as xlsx or csv
+    - By [@opengovpart](https://twitter.com/opengovpart)
 
 ## 8. Regions, Cities, SMEs, Tourism
 
@@ -575,6 +646,12 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: countries, regions and cities worldwide
     - Data format: csv data, html charts
     - By [@Apple](https://twitter.com/Apple)
+
+- [The Dallas Fed Social Distancing Index](https://www.dallasfed.org/research/sdi.aspx)
+    - Focus: The index summarises the information in seven different variables based on geolocation data collected from a large sample of mobile devices: 1. The fraction of devices leaving home in a day; 2. The fraction of devices away from home for 3-6 hours at a fixed location; 3. The fraction of devices away from home longer than 6 hours at a fixed location; 4. An adjusted average of daytime hours spent at home; 5. The fraction of devices taking trips longer than 16 kilometers; 6. The fraction of devices taking trips less than 2 kilometers; and 7. The average time spent at locations far from home.
+    - Coverage: USA at county, metropolitan statistical areas (MSA), state and national level.
+    - Data format: csv
+    - By [@DallasFed](https://twitter.com/DallasFed)
 
 ## 10. Politics, Elections, Policy Making
 
@@ -756,6 +833,13 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: African countries
     - Data format: html tables
     - By [@Covid_Africa](https://twitter.com/Covid_Africa)
+
+- [The ONE Africa COVID-19 Tracker](https://www.one.org/africa/about/policy-analysis/covid-19-tracker/)
+    - Focus: health, economic, and social impacts, such as the number of hospital beds and ICUs; government measures to limit spread of the virus or to limit civil liberties; impact on food intake or remittances
+    - Coverage: African countries
+    - Data format: Tableau (not downloadable)
+    - By [@ONECampaign](https://twitter.com/ONEcampaign)
+[@David_McNair](https://twitter.com/David_McNair)
 
 ## 14. National Surveys (with probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
