@@ -846,6 +846,19 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 
 Countries in this section (with number of surveys in brackets): Germany (3), US (2), Netherlands (1), Norway (1), UK(1)
 
+- [SHARE](http://www.share-project.org)
+    - Focus: Employment and financial situation, infection and health, mental health, social networks, healthcare
+    - Coverage
+      - Country: 27 EU countries + Israel
+      - Target population and sampling: Probability sample of population aged 50 and older
+      - Time: May/June 2020
+      - Interval of data collection: once
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations:  sub-sample of all SHARE panel respondents
+    - Micro data availablity: no (planned:yes)
+    - Data format: .dta, .sav
+    - By [@SHARE_MEA](https://twitter.com/SHARE_MEA)
+
 - [SOEP-CoV](https://www.soep-cov.de/)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
     - Coverage
