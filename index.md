@@ -562,8 +562,8 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 - [Dimensions COVID-19 publications, data sets, clinical trials](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063)
     - Focus: research outputs in medical and health science, such as journal articles, datasets and clinical trials
     - Coverage: worldwide
-    - Data format: xlsx spreadsheet
-    - By [@DSDimensions] (https://twitter.com/DSDimensions)
+    - Data format: xlsx spreadsheet 
+    - By [@DSDimensions](https://twitter.com/DSDimensions)
     [@digitalsci](https://twitter.com/digitalsci)
 
 - [COVID Scholar](https://covidscholar.org/)
