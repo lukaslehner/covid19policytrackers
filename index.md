@@ -70,8 +70,9 @@ Karel Mertens,
 [@\_CatJones_](https://twitter.com/_CatJones_),
 [@JuliaRaifman](https://twitter.com/JuliaRaifman),
 Phoebe Dunn,
-[@kbbolch](https://twitter.com/kbbolch), and
-[@LiviaFritz](https://twitter.com/LiviaFritz).
+[@kbbolch](https://twitter.com/kbbolch),
+[@LiviaFritz](https://twitter.com/LiviaFritz), and
+[@KonstPoensgen](https://twitter.com/KonstPoensgen).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
