@@ -16,7 +16,7 @@ globe has been impressive. To keep track of new sources, I have compiled a colle
 exhaustive and I am grateful for general feedback you may have or suggestions on new
 sources. I am updating the tracker of trackers on a daily basis. Please email me at <lukas.lehner@spi.ox.ac.uk> or follow me on [Twitter](https://twitter.com/LukasLehner_) for updates.
 
-Sections 14. and 15. on surveys are edited by [Elias Naumann](http://www.eliasnaumann.de/). For suggestions, please email him at <naumann@uni-mannheim.de>.
+Sections 15. and 16. on surveys are edited by [Elias Naumann](http://www.eliasnaumann.de/). For suggestions, please email him at <naumann@uni-mannheim.de>.
 
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
@@ -86,11 +86,11 @@ The collection is structured around the areas of
 - [9. Behavioural Responses and Mobility](#9-behavioural-responses-and-mobility)
 - [10. Politics, Elections, Policy Making](#10-politics-elections-policy-making)
 - [11. Civic Freedom, Human Rights, Media](#11-civic-freedom-human-rights-media)
-- [11. War, Peace and Civil Unrest](#11-war-peace-and-civil-unrest)
-- [12. Prisons, Courts and Judiciary Systems](#12-prisons-courts-and-judiciary-systems)
-- [13. International Development, Philantropy](#13-international-development-philantropy)
-- [14. National Surveys (with probability samples)](#14-national-surveys-with-probability-samples)
-- [15. National and comparative surveys (with non-probability samples)](#15-national-and-comparative-surveys-with-non-probability-samples)
+- [12. War, Peace and Civil Unrest](#12-war-peace-and-civil-unrest)
+- [13. Prisons, Courts and Judiciary Systems](#13-prisons-courts-and-judiciary-systems)
+- [14. International Development, Philantropy](#14-international-development-philantropy)
+- [15. National Surveys (with probability samples)](#15-national-surveys-with-probability-samples)
+- [16. National and comparative surveys (with non-probability samples)](#16-national-and-comparative-surveys-with-non-probability-samples)
   - [Quota sampling](#quota-sampling)
   - [Snowballing sampling](#snowballing-sampling)
   - [N/A](#na)
@@ -715,7 +715,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: csv
     - By [@Anacode]( https://twitter.com/Anacode)
 
-## 11. War, Peace and Civil Unrest
+## 12. War, Peace and Civil Unrest
 
 -	[Impact:Peace resources on COVID-19](https://docs.google.com/document/d/1QMEOe7NC1wpSx3jLDBohxXja-cN4M5A8ctg8fbLrOcs/edit)
     - Focus: resources related to violence, conflict, inequality, peacebuilding
@@ -736,7 +736,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: html, data can be exported
     - By [@ACLEDINFO](https://twitter.com/ACLEDINFO)
 
-## 12. Prisons, Courts and Judiciary Systems
+## 13. Prisons, Courts and Judiciary Systems
 
 -   [Coronavirus in Prisons map and database](https://blogs.helsinki.fi/gulagechoes/2020/04/01/coronavirus-in-prisons-a-global-perspective-tracking-policy-responses-releases-and-riots/#more-311)
     -   Focus: responses in prison systems incl. policy responses, releases, and riots
@@ -800,7 +800,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Data format: html
     - By [@PrisonInsider](https://twitter.com/PrisonInsider)
 
-## 13. International Development, Philantropy
+## 14. International Development, Philantropy
 
 - [UNDP HDR Global Preparedness and Vulnerability Dashboard](http://hdr.undp.org/)
     - Focus: Index for preparedness and vulnerability to pandemics by country. Preparedness index composed of indicators such as Human Development Index, number of physicians and mobile phone subscriptions. Vulnerability index composed of indicators such as population in poverty, population without social protection, remittances inflows or tourism as a share of GDP.
@@ -842,7 +842,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - By [@ONECampaign](https://twitter.com/ONEcampaign)
 [@David_McNair](https://twitter.com/David_McNair)
 
-## 14. National Surveys (with probability samples)
+## 15. National Surveys (with probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
 
 Countries in this section (with number of surveys in brackets): Germany (3), US (2), Netherlands (1), Norway (1), UK(1)
@@ -965,7 +965,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - By [@usociety](https://twitter.com/usociety)
 
 
-## 15. National and comparative surveys (with non-probability samples)
+## 16. National and comparative surveys (with non-probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
 
 We rank order the list of surveys by sampling method used. Surveys with non-probability samples either use quota sampling from commercial opt-in panels or snowballing via social media. We list surveys with quota sampling first,  since we believe that they provide somewhat higher data quality compared to snowball sampling. Within each category we rank order surveys according the number of countries covered.
