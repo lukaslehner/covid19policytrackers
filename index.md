@@ -124,10 +124,10 @@ The collection is structured around the areas of
     -   Focus: currently includes more than 10,000 separate policy announcements on measures such as social distancing measures, border restrictions, public awareness campaigns, declaration of emergency, health
     -   Coverage: 190 countries and sub-national units
     -   Data format: csv, xlsx spreadsheet
-    -   By [@CoronaNet_org](https://twitter.com/CoronaNet_org)
-        [@LuMesserschmidt](https://twitter.com/LuMesserschmidt)
-        [@rmkubinec](https://twitter.com/rmkubinec)
-        [@joan_barcelo_](https://twitter.com/joan_barcelo_)
+    -   By [@CoronaNet_org](https://twitter.com/CoronaNet_org),
+        [@LuMesserschmidt](https://twitter.com/LuMesserschmidt),
+        [@rmkubinec](https://twitter.com/rmkubinec),
+        [@joan_barcelo_](https://twitter.com/joan_barcelo_),
         [@as_hartnett](https://twitter.com/as_hartnett)
 
 - [Complexity Science Hub COVID-19 Covid-19 Control Strategies List (CCCSL)](http://covid19-interventions.com/)
@@ -140,7 +140,7 @@ The collection is structured around the areas of
     - Focus: documents public health policy interventions related to COVID-19
     - Coverage: worldwide at the national and first-level administrative unit
     - Data format: html for aggregate data, csv for microdata
-    - By [@JohnsHopkinsSPH](https://twitter.com/JohnsHopkinsSPH) [@BUSPH](https://twitter.com/BUSPH) [@qulu_zheng](https://twitter.com/qulu_zheng) [@JustinLessler](https://twitter.com/JustinLessler) [@alabriqu](https://twitter.com/alabriqu) [@andrewazman](https://twitter.com/andrewazman) [@Ymax](https://twitter.com/Ymax)
+    - By [@JohnsHopkinsSPH](https://twitter.com/JohnsHopkinsSPH), [@BUSPH](https://twitter.com/BUSPH), [@qulu_zheng](https://twitter.com/qulu_zheng), [@JustinLessler](https://twitter.com/JustinLessler), [@alabriqu](https://twitter.com/alabriqu), [@andrewazman](https://twitter.com/andrewazman), [@Ymax](https://twitter.com/Ymax)
 
 - [Coronavirus containment measures](https://coronavirusmeasures.herokuapp.com/) dataset and world map
   - Focus: containment measures incl. a stringency index as a time series
@@ -152,10 +152,10 @@ The collection is structured around the areas of
     - Focus: dates of state policy changes in the areas of non-pharmaceutical interventions, social policies, healthcare, racial disparities, etc.
     - Coverage: USA (state level)
     - Data format: Google sheets, xlsx, csv
-    - By [@JuliaRaifman](https://twitter.com/JuliaRaifman)
-[@JacobBor](https://twitter.com/JacobBor)
-[@dklinejones](https://twitter.com/dklinejones)
-[@DrSarahLipson](https://twitter.com/DrSarahLipson)
+    - By [@JuliaRaifman](https://twitter.com/JuliaRaifman),
+[@JacobBor](https://twitter.com/JacobBor),
+[@dklinejones](https://twitter.com/dklinejones),
+[@DrSarahLipson](https://twitter.com/DrSarahLipson),
 [@jonjaytweets](https://twitter.com/jonjaytweets)
 
 -   [socialdistancing.stanford.edu](http://socialdistancing.stanford.edu)
@@ -163,21 +163,21 @@ The collection is structured around the areas of
     -   Coverage: USA on a county level (currently 274 counties covered)
     -   Data format: Google sheets, downloadable as csv and xlsx
     -   [Data set](http://hci.st/socialdistancing-dataset)
-    -   By [@StanfordHCI](https://twitter.com/StanfordHCI) [@UVA_BI](https://twitter.com/UVA_BI)
+    -   By [@StanfordHCI](https://twitter.com/StanfordHCI), [@UVA_BI](https://twitter.com/UVA_BI)
 
 - [COVID Analysis and Mapping of Policies (AMP) site](https://covidamp.org/)
     - Focus: non-pharmaceutical interventions
     - Coverage: United States (national and sub-national), Nigeria, Djibouti
     - Data format: html, xlsx
-    - By [@georgetown_ghss](https://twitter.com/georgetown_ghss)
-[@TalusAnalytics](https://twitter.com/talusanalytics/)
+    - By [@georgetown_ghss](https://twitter.com/georgetown_ghss),
+[@TalusAnalytics](https://twitter.com/talusanalytics/),
 [@NTI_WMD](https://twitter.com/NTI_WMD)
 
 - [COVID19 Afrique Données Recherche](https://www.covid19afrique.com/)
     - Focus: non-pharmaceutical interventions; cases and deaths (in French)
     - Coverage: Francophone African countries and countries of Economic Community of West African States (ECOWAS)
     - Data format: html
-    - By [@mavalo76](https://twitter.com/@mavalo76)
+    - By [@mavalo76](https://twitter.com/@mavalo76),
 [@ValeryRidde](https://twitter.com/ValeryRidde)
 
 -   [COVID19 Global Travel Navigator](https://c19navigator.mayerbrown.com/)
@@ -220,9 +220,9 @@ The collection is structured around the areas of
     -   Coverage:23 CESEE countries
     -   Data format: pdf, html
     -   By [@wiiw_news](https://twitter.com/wiiw_news) incl.
-        [@RicGri](https://twitter.com/RicGri)
-        [@JuliaGruebler](https://twitter.com/JuliaGruebler)
-        [@alexbykova](https://twitter.com/alexbykova)
+        [@RicGri](https://twitter.com/RicGri),
+        [@JuliaGruebler](https://twitter.com/JuliaGruebler),
+        [@alexbykova](https://twitter.com/alexbykova),
         [@MarioHolzner](https://twitter.com/MarioHolzner)
 
 - [IIF Global Policy Responses](https://www.iif.com/Portals/0/Files/Databases/COVID-19_responses.pdf?ver=2020-04-24-173749-083)
@@ -236,8 +236,8 @@ The collection is structured around the areas of
     -   Coverage: 11 countries (BEL, DNK, FRA, DEU, GRC, HUN, ITA, ESP, GBR,
         USA)
     -   Data format: html
-    -   By [@ZsoltDarvas](https://twitter.com/ZsoltDarvas)
-        [@BergaminiEnrico](https://twitter.com/BergaminiEnrico)
+    -   By [@ZsoltDarvas](https://twitter.com/ZsoltDarvas),
+        [@BergaminiEnrico](https://twitter.com/BergaminiEnrico),
         [@MartaDomnguezJ1](https://twitter.com/MartaDomnguezJ1)
 
 -    [EU and euro area level measures](https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/645723/IPOL_IDA(2020)645723_EN.pdf)
@@ -255,17 +255,17 @@ The collection is structured around the areas of
 -   [COVID-19 Economic Stimulus Index](http://web.boun.edu.tr/elgin/COVID.htm) (CESI) and dataset
     -   Focus: fiscal, monetary & exchange rate measures
     -   Coverage: 166 countries
-    -   By [@CeyhunElgin](https://twitter.com/CeyhunElgin)
-        [@BasbugGokce](https://twitter.com/BasbugGokce)
+    -   By [@CeyhunElgin](https://twitter.com/CeyhunElgin),
+        [@BasbugGokce](https://twitter.com/BasbugGokce),
         [@AbdullahYalaman](https://twitter.com/AbdullahYalaman)
 
 - [COVID-19 Fiscal Response Tracker and world map](https://www.csis.org/analysis/breaking-down-g20-covid-19-fiscal-response)
   - Focus: breakdown of major fiscal actions
   - Coverage: G20 countries
   - Data format: html
-  - By [@CSIS](https://twitter.com/CSIS)
-  [@CSIS_Econ](https://twitter.com/CSIS_Econ)
-  [@MPGoodman88](https://twitter.com/MPGoodman88)
+  - By [@CSIS](https://twitter.com/CSIS),
+  [@CSIS_Econ](https://twitter.com/CSIS_Econ),
+  [@MPGoodman88](https://twitter.com/MPGoodman88),
   [@handrewschwartz](https://twitter.com/handrewschwartz)
 
 - [IMF Fiscal Monitor](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDA1MjAuMjE3ODU5MjEiLCJ1cmwiOiJodHRwczovL3d3dy5pbWYub3JnL34vbWVkaWEvRmlsZXMvUHVibGljYXRpb25zL2Zpc2NhbC1tb25pdG9yLzIwMjAvQXByaWwvRW5nbGlzaC9vbmxpbmVhbm5leDExLmFzaHg_bGE9ZW4mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.2kIn3Sr0Vxsxo63xijpm_Ma21ifxFSMYrhNztcJPD6M/br/78878540483-l)
@@ -278,53 +278,53 @@ The collection is structured around the areas of
     - Focus: Non-pharmaceutical interventions; fiscal, monetary, financial and trade policy;
     - Coverage: Asia and the Pacific
     - Data format: Tableau; pdf
-    - By [@UNESCAP](https://twitter.com/UNESCAP)
+    - By [@UNESCAP](https://twitter.com/UNESCAP),
 [@sweta_saxena](https://twitter.com/sweta_saxena)
 
 - [The Opportunity Insights Economic Tracker](https://tracker.opportunityinsights.org/)
     - Focus: real time tracking of employment, unemployment, consumer spending, job postings, small businesses openings and revenue, students online math coursework
     - Coverage: USA aggregate and on a state level
     - Data format: html, downloadable soon
-    - By [@OppInsights](https://twitter.com/OppInsights)
-Raj Chetty
-[@John_N_Friedman](https://twitter.com/John_N_Friedman)
-[@nhendren82](https://twitter.com/nhendren82)
+    - By [@OppInsights](https://twitter.com/OppInsights),
+Raj Chetty,
+[@John_N_Friedman](https://twitter.com/John_N_Friedman),
+[@nhendren82](https://twitter.com/nhendren82),
 [@michaelstepner](https://twitter.com/michaelstepner)
 
 -	[U.S. Economic Policy Response to Coronavirus Pandemic](https://messertodd.github.io/coronavirus-policy-response/)
     - Focus: economic policy responses, explanation of economic mechanisms at play and references to theory and academic readings on the implemented measures.
     - Coverage: USA
     - Data format: html
-    - By [@ToddOfMess](https://twitter.com/ToddOfMess)
+    - By [@ToddOfMess](https://twitter.com/ToddOfMess),
     [@PeterMcCrory](https://twitter.com/PeterMcCrory)
 
 - [Firm-level risk Covid-19 exposure](https://sites.google.com/view/firmrisk/home?authuser=0)
     - Focus: firm-level measures of exposure, risk, and sentiment to epidemic diseases (covid-19, SARS, H1N1, Ebola, etc.) constructed using textual analysis of quarterly earnings conference calls
     - Coverage: 11’000 firms in 81 countries; 2002 to 2020q1
     - Data format: csv, tsv, dta
-    - By [@StephanHollan](https://twitter.com/StephanHollan)
+    - By [@StephanHollan](https://twitter.com/StephanHollan),
 [@L_van_Lent](https://twitter.com/L_van_Lent)
 
 - [Covid Stimulus Watch](https://covidstimuluswatch.org/blog/2020-04/covid-stimulus-watch-new-website-documents-accountability-track-records-cares-act)
   - Focus: strengthen corporate accountability. It assembles CARES Act recipient data on grants and loans per firm and combines it with information about each firm’s history of regulatory violations, previous government assistance, federal tax avoidance, and CEO and worker pay practices.
   - Coverage: US firms receiving grants and loans through the CARES Act. At the moment, it contains more than 5,700 awards, totalling $54 billion.
   - Data format: html, downloadable as csv and xml
-  - By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
-[@DirtDiggers](https://twitter.com/DirtDiggers)
+  - By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst),
+[@DirtDiggers](https://twitter.com/DirtDiggers),
 [@GregLeRoy4](https://twitter.com/GregLeRoy4)
 
 - [The Weekly Economic Index (WEI)](https://www.newyorkfed.org/research/policy/weekly-economic-index)
     - Focus: provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency. It represents the common component of ten different daily and weekly series covering consumer behavior, the labor market, and production, scaled to proxy US GDP growth.
     - Coverage: USA
     - Data format: xlsx
-    - By [@NewYorkFed](https://twitter.com/NewYorkFed)
+    - By [@NewYorkFed](https://twitter.com/NewYorkFed),
 [@DallasFed](https://twitter.com/DallasFed)
 
 - [Real Time Population Survey](https://sites.google.com/view/covid-rps)
     - Focus: bi-weekly online household survey that aims to provide more timely and more frequent version of the official labor market survey used to produce unemployment rate numbers etc.
     - Coverage: USA
     - Data format: html, pdf. No micro data available yet.
-    - By Alexander Bick, [@AdamBlandin](https://twitter.com/AdamBlandin)
+    - By Alexander Bick, [@AdamBlandin](https://twitter.com/AdamBlandin),
 [@DallasFed](https://twitter.com/DallasFed)
 
 ## 3. Tax Policy
@@ -334,9 +334,9 @@ Raj Chetty
     -   Coverage: 91 countries
     -   Data format: xlsm spreadsheet
     -   By [@OECDtax](https://twitter.com/OECDtax) incl.
-        [@DBradbury1021](https://twitter.com/DBradbury1021)
-        [@THanappi](https://twitter.com/THanappi)
-        [@PierceOReilly](https://twitter.com/PierceOReilly)
+        [@DBradbury1021](https://twitter.com/DBradbury1021),
+        [@THanappi](https://twitter.com/THanappi),
+        [@PierceOReilly](https://twitter.com/PierceOReilly),
         [@jmteusch](https://twitter.com/jmteusch)
 
 -   [OECD tax administration responses dataset](https://read.oecd-ilibrary.org/view/?ref=126_126478-29c4rprb3y&title=Tax_administration_responses_to_COVID-9_Measures_taken_to_support_taxpayers)
@@ -349,7 +349,7 @@ Raj Chetty
     -   Focus: individual, business, consumption, and other taxes
     -   Coverage: worldwide
     -   Data format: html
-    -   By [@TaxFoundation](https://twitter.com/TaxFoundation) [@ElkeAsen](https://twitter.com/ElkeAsen) [@crisberechet](https://twitter.com/crisberechet) [@danieldbunn](https://twitter.com/danieldbunn)
+    -   By [@TaxFoundation](https://twitter.com/TaxFoundation), [@ElkeAsen](https://twitter.com/ElkeAsen), [@crisberechet](https://twitter.com/crisberechet), [@danieldbunn](https://twitter.com/danieldbunn)
 
 ## 4. Trade Policy and FDI
 
@@ -370,7 +370,7 @@ Raj Chetty
     -   Focus: projections on global FDI and data on CAPEX, greenfield investments, M&As, and MNE earning estimates
     -   Coverage: worldwide
     -   Data format: pdf
-    -   By [@UNCTAD](https://twitter.com/UNCTAD)
+    -   By [@UNCTAD](https://twitter.com/UNCTAD),
         [@unctadwif](https://twitter.com/unctadwif) incl.
         [@perezludena](https://twitter.com/perezludena)
 
@@ -380,7 +380,7 @@ Raj Chetty
     -   Focus: social protection and jobs
     -   Countries: worldwide
     -   Data format: pdf
-    -   By [@Ugentilini](https://twitter.com/Ugentilini)
+    -   By [@Ugentilini](https://twitter.com/Ugentilini),
         [@mohamed_almenfi](https://twitter.com/mohamed_almenfi)
         (WorldBank, ILO, UNICEF)
 
@@ -389,7 +389,7 @@ Raj Chetty
     -   Coverage: 37 OECD and G20 countries
     -   Data format: xlsx spreadsheet
     -   By [OECD_Social](https://twitter.com/OECD_Social) incl.
-        [@AGarnero](https://twitter.com/AGarnero)
+        [@AGarnero](https://twitter.com/AGarnero),
         [@sebkoenigs](file:///C:\Users\lukas\Desktop\@sebkoenigs)
 
 -   [ILO collection of country policy responses](https://ilo.org/global/topics/coronavirus/country-responses/lang--en/index.htm)
@@ -423,7 +423,7 @@ Raj Chetty
     -   Focus: short-time work, social protection, employment protection, human rights
     -   Coverage: Europe
     -   Data format: pdf
-    -   By [@etuc_ces](https://twitter.com/etuc_ces)
+    -   By [@etuc_ces](https://twitter.com/etuc_ces),
         [@ETUI_org](https://twitter.com/ETUI_org)
 
 - [Special Issue: Covid-19 and Labour Law. A Global Review](https://illej.unibo.it/issue/view/868)
@@ -442,9 +442,9 @@ Raj Chetty
     - Focus: wage & employment support measures and their mechanisms
     - Coverage: 16 countries: Australia, Canada, Denmark, France, Germany, Ireland, Italy, Japan, Netherlands, New Zealand, Norway, South Africa, Spain, Sweden, United Kingdom, United States
     - Data format: html
-    - By [@Rachel_Lipson](https://twitter.com/Rachel_Lipson)
-[@jnorthend](https://twitter.com/jnorthend)
-[@HarvardMWC](https://twitter.com/HarvardMWC)
+    - By [@Rachel_Lipson](https://twitter.com/Rachel_Lipson),
+[@jnorthend](https://twitter.com/jnorthend),
+[@HarvardMWC](https://twitter.com/HarvardMWC),
 [@Kennedy_School](https://twitter.com/Kennedy_School)
 
 ## 6. Health and Care Policy
@@ -455,16 +455,16 @@ Raj Chetty
     -   Coverage: mainly OECD + Argentina, Peru, Costa Rica
     -   Data format: xlsx spreadsheet
     -   By [@OECD_Social](https://twitter.com/OECD_Social) incl.
-        [@FranColombo2019](https://twitter.com/FranColombo2019)
+        [@FranColombo2019](https://twitter.com/FranColombo2019),
         [@fredguanais](https://twitter.com/fredguanais)
 
 -   [Health System Response Monitor](https://www.covid19healthsystem.org/mainpage.aspx)
     -   Focus: health systems and wider public health initiatives
     -   Coverage: Europe
     -   Data format: pdf
-    -   By [@OBShealth](https://twitter.com/OBShealth)
-        [@WHO_Europe](https://twitter.com/WHO_Europe)
-        [@EU_Health](https://twitter.com/EU_Health)
+    -   By [@OBShealth](https://twitter.com/OBShealth),
+        [@WHO_Europe](https://twitter.com/WHO_Europe),
+        [@EU_Health](https://twitter.com/EU_Health),
         [@EU_Commission](https://twitter.com/EU_Commission) incl.
         [@BKMErica](https://twitter.com/BKMErica)
 
@@ -473,10 +473,10 @@ Raj Chetty
     -   Focus: long-term care policy
     -   Coverage: worldwide
     -   Data format: html
-    -   By [@LTCcovid](https://twitter.com/LTCcovid)
-        [@AdelinaCoHe](https://twitter.com/AdelinaCoHe)
-        [@LorenzKH](https://twitter.com/LorenzKH)
-        [@CPEC_LSE](https://twitter.com/CPEC_LSE)
+    -   By [@LTCcovid](https://twitter.com/LTCcovid),
+        [@AdelinaCoHe](https://twitter.com/AdelinaCoHe),
+        [@LorenzKH](https://twitter.com/LorenzKH),
+        [@CPEC_LSE](https://twitter.com/CPEC_LSE),
         [@ilpnetwork](https://twitter.com/ilpnetwork)
 
 -   [Cambridge Core Health Economics, Policy and Law Blog series](https://www.cambridge.org/core/blog/tag/country-responses-to-the-covid19-pandemic/) is publishing short blogs on country responses
@@ -502,15 +502,15 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: cases, deaths and negative test results by race and ethnicity on a bi-weekly basis
     - Coverage: US states
     - Data format: Google sheets, downloadable as csv
-    - By [@AntiracismCtr](https://twitter.com/AntiracismCtr)
-[@COVID19Tracking](https://twitter.com/COVID19Tracking)
+    - By [@AntiracismCtr](https://twitter.com/AntiracismCtr),
+[@COVID19Tracking](https://twitter.com/COVID19Tracking),
 [@TheAtlantic](https://twitter.com/TheAtlantic)
 
 - [The Health Foundation COVID-19 policy tracker](https://www.health.org.uk/news-and-comment/charts-and-infographics/covid-19-policy-tracker)
     - Focus: national government and health and social care system responses in five areas: 1. Policy narrative, 2. Measures to limit spread, 3. Health and social care systems responses, 4. Interventions to support R&D, 5. Broader social and economic interventions
     - Coverage: England
     - Data format: xlsx
-    - By [@HealthFdn](https://twitter.com/healthfdn)
+    - By [@HealthFdn](https://twitter.com/healthfdn),
 [@hughalderwick](https://twitter.com/hughalderwick)
 
 ## 7. Education, Research and Innovation
@@ -525,7 +525,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: school closures
     - Coverage: countries worldwide and regional level for India, Brazil, Nigeria, USA
     - Data format: Google sheets, downloadable as csv, xlsx, pdf, html
-    - By [@CGDev](https://twitter.com/CGDev)
+    - By [@CGDev](https://twitter.com/CGDev),
     [@leecrawfurd](https://twitter.com/leecrawfurd)
 
 -	[OECD Survey on Science and Innovation policy responses](https://stip.oecd.org/Covid.html)
@@ -538,7 +538,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: new research about COVID 19, including published findings, pre-prints, projects underway, and projects at least at proposal stage. You can add your project via Google form.
     - Coverage: worldwide
     - Data format: Google sheets, downloadable as csv, xlsx, pdf, html
-    - By [@natematias](https://twitter.com/natematias)
+    - By [@natematias](https://twitter.com/natematias),
     [@alexleavitt](https://twitter.com/alexleavitt)
 
 -	[World Pandemic Research Network (WPRN)](https://wprn.org/)
@@ -564,14 +564,14 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: research outputs in medical and health science, such as journal articles, datasets and clinical trials
     - Coverage: worldwide
     - Data format: xlsx spreadsheet 
-    - By [@DSDimensions](https://twitter.com/DSDimensions)
+    - By [@DSDimensions](https://twitter.com/DSDimensions),
     [@digitalsci](https://twitter.com/digitalsci)
 
 - [COVID Scholar](https://covidscholar.org/)
     - Focus: search engine that uses natural language processing (NLP) to search on a set of research papers related to COVID-19. It also shows daily paper statistics on related research articles.
     - Coverage: worldwide
     - Data format: html
-    - By [@CovidScholar](https://twitter.com/CovidScholar) incl. [@KPatBerkeley](https://twitter.com/KPatBerkeley) [@jmdagdelen](https://twitter.com/jmdagdelen)
+    - By [@CovidScholar](https://twitter.com/CovidScholar) incl. [@KPatBerkeley](https://twitter.com/KPatBerkeley), [@jmdagdelen](https://twitter.com/jmdagdelen)
 
 - [Open Government Approaches to Tackling COVID-19](https://www.opengovpartnership.org/collecting-open-government-approaches-to-covid-19/)
     - Focus: a list of open government approaches, such as citizen-led community responses, Building trust between government and citizens, Transparency over forecasting models and data, Digital platforms or apps, Tackling misinformation online
@@ -600,7 +600,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     -   Focus: policy solutions
     -   Coverage: US local and state governments
     -   Data format: html
-    -   By [@HarvardAsh](https://twitter.com/HarvardAsh)
+    -   By [@HarvardAsh](https://twitter.com/HarvardAsh),
         [@Kennedy_School](https://twitter.com/Kennedy_School)
 
 -	[GovPredict Federal, State, and Local Responses to the Coronavirus](https://www.govpredict.com/corona-virus-resource-center)
@@ -613,10 +613,10 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     -   Focus: innovative government responses
     -   Coverage: worldwide
     -   Data format: html
-    -   By OECD [@OPSIgov](https://twitter.com/OPSIgov)
-        [@CaptainInnovate](https://twitter.com/CaptainInnovate)
-        [@SamANutt](https://twitter.com/SamANutt)
-        [@civiccatalyst](https://twitter.com/civiccatalyst)
+    -   By OECD [@OPSIgov](https://twitter.com/OPSIgov) incl.
+        [@CaptainInnovate](https://twitter.com/CaptainInnovate),
+        [@SamANutt](https://twitter.com/SamANutt),
+        [@civiccatalyst](https://twitter.com/civiccatalyst),
         [@hbuisma](https://twitter.com/hbuisma)
 
 -   [OECD SME policy responses](https://read.oecd-ilibrary.org/view/?ref=119_119680-di6h3qgi4x&title=Covid-19_SME_Policy_Responses)
@@ -639,7 +639,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: mobility trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. Data is sourced from Google Apps such as Google Maps.
     - Coverage: 131 countries, of which many can be disaggregated at the regional level
     - Data format: csv data, pdf reports
-    - By [@Google](https://twitter.com/Google)
+    - By [@Google](https://twitter.com/Google),
 [@googlemaps](https://twitter.com/googlemaps)
 
 - [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility)
@@ -666,16 +666,16 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: policy documents from think tanks, policy orientated NGOs, IOs and national governments
     - Coverage: worldwide
     - Data format: pdf files with an accompanying json file for metadata
-    - By [@overtonio](https://twitter.com/overtonio) [@Stew](https://twitter.com/Stew)
+    - By [@overtonio](https://twitter.com/overtonio), [@Stew](https://twitter.com/Stew)
 
 - [COVID-19 Policy-Making Tracker](https://www.ingsa.org/covid/policymaking-tracker/)
   - Focus: how policy interventions are being made by collecting advice, evidence or other justifications that underpin governments’ decisions
   - Coverage: worldwide
   - Data format: html
-  - By [@INGSciAdvice](https://twitter.com/INGSciAdvice)
-   [@ISC](https://twitter.com/ISC)
-   [@PeterGluckman](https://twitter.com/PeterGluckman)
-   [@jameswilsdon](https://twitter.com/jameswilsdon)
+  - By [@INGSciAdvice](https://twitter.com/INGSciAdvice),
+   [@ISC](https://twitter.com/ISC),
+   [@PeterGluckman](https://twitter.com/PeterGluckman),
+   [@jameswilsdon](https://twitter.com/jameswilsdon),
    [@SciChefQC](https://twitter.com/SciChefQC)
 
 ## 11. Civic Freedom, Human Rights, Media
@@ -684,8 +684,8 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
   - Focus: government responses that affect civicfreedoms and humanrights
   - Coverage: worldwide
   - Data format: html
-  - By [@ICNLAlliance](https://twitter.com/ICNLAlliance)
-  [@enablingNGOlaw](https://twitter.com/enablingNGOlaw)
+  - By [@ICNLAlliance](https://twitter.com/ICNLAlliance),
+  [@enablingNGOlaw](https://twitter.com/enablingNGOlaw),
   [@NiAolainF](https://twitter.com/NiAolainF)
 
 - [Tracker 19](https://rsf.org/en/tracker19-Coronavirus-Covid19)
@@ -693,7 +693,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Coverage: countries worldwide
     - Data format: html
     - By Reporters Without Borders
-[@RSF_en](https://twitter.com/RSF_en)
+[@RSF_en](https://twitter.com/RSF_en),
 [@RSF_inter](https://twitter.com/RSF_inter)
 
 - Civic Space Watch: [Solidarity amid the COVID-19 crisis](http://civicspacewatch.eu/solidarity-amid-covid-19-crisis/)
@@ -706,7 +706,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: restrictions and attacks on civic freedoms. Categories include 1) Censorship and restrictions on access to information, 2) Threats and arrests for criticising state response, 3) Restrictions on the media, 4) Passage and use of restrictive laws to counter ‘fake news’, 5) Targeting of human rights defenders, 6) Police abuses during lockdowns, 7) Surveillance and violations of the right to privacy, 8) Overly broad emergency laws and new restrictive legislation.
     - Coverage: countries worldwide
     - Data format: html
-    - By [@CIVICUSMonitor](https://twitter.com/CIVICUSMonitor)
+    - By [@CIVICUSMonitor](https://twitter.com/CIVICUSMonitor),
 [@CIVICUSalliance](https://twitter.com/CIVICUSalliance)
 
 - [COVID-19 Public Media Dataset](https://anacode.de/download-covid-19-public-media-dataset/)
@@ -721,7 +721,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: resources related to violence, conflict, inequality, peacebuilding
     - Coverage: worldwide
     - Data format: google doc
-    - By [@ImpactPeace](https://twitter.com/ImpactPeace)
+    - By [@ImpactPeace](https://twitter.com/ImpactPeace),
     [@juliascanney](https://twitter.com/juliascanney)
 
 -	[Conflict and Covid-19 Resource Hub](https://www.politicalsettlements.org/covid-19/resources/)
@@ -776,21 +776,21 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: cases & deaths for each US prison, jail, youth correctional facility and immigration detention facility. It also tracks releases, population reduction requests and responses, legal filings and court orders.
     - Coverage: U.S. facility-level
     - Data format: Google spreadsheet, downloadable as xlsx or csv
-    - By [@uclaprisondata](https://twitter.com/uclaprisondata)
-[@SharonDolovich](https://twitter.com/SharonDolovich)
-[@aaronlittman](https://twitter.com/aaronlittman)
+    - By [@uclaprisondata](https://twitter.com/uclaprisondata),
+[@SharonDolovich](https://twitter.com/SharonDolovich),
+[@aaronlittman](https://twitter.com/aaronlittman),
 [@uclaprisonlaw](https://twitter.com/uclaprisonlaw)
 
 - [Covid Prison Data](https://covidprisondata.com/)
     - Focus: cases, tests and deaths among inmates and guards; historical population data for state prisons
     - Coverage: U.S. states and facility-level
     - Data format: xlsx, csv, html
-    - By [@DataPrison](https://twitter.com/DataPrison)
-[@JacobKaplan19](https://twitter.com/JacobKaplan19)
-[@seathebass92](https://twitter.com/seathebass92)
-[@cconcannon1](https://twitter.com/cconcannon1)
-[@everydayasoreng](https://twitter.com/everydayasoreng)
-[@aaronlittman](https://twitter.com/aaronlittman)
+    - By [@DataPrison](https://twitter.com/DataPrison),
+[@JacobKaplan19](https://twitter.com/JacobKaplan19),
+[@seathebass92](https://twitter.com/seathebass92),
+[@cconcannon1](https://twitter.com/cconcannon1),
+[@everydayasoreng](https://twitter.com/everydayasoreng),
+[@aaronlittman](https://twitter.com/aaronlittman),
 [@nrjones8](https://twitter.com/nrjones8)
 
 - [Coronavirus: prison fever](https://www.prison-insider.com/en/articles/coronavirus-la-fievre-des-prisons)
@@ -839,7 +839,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     - Focus: health, economic, and social impacts, such as the number of hospital beds and ICUs; government measures to limit spread of the virus or to limit civil liberties; impact on food intake or remittances
     - Coverage: African countries
     - Data format: Tableau (not downloadable)
-    - By [@ONECampaign](https://twitter.com/ONEcampaign)
+    - By [@ONECampaign](https://twitter.com/ONEcampaign),
 [@David_McNair](https://twitter.com/David_McNair)
 
 ## 15. National Surveys (with probability samples)
@@ -871,7 +871,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
       - Number of observations:  ~ 7.800 households (300-2000 per week)
     - Micro data availablity: no (planned:yes)
     - Data format: pdf (research reports)
-    - By [@DIW_Berlin](https://twitter.com/DIW_Berlin) [@unibielefeld](https://twitter.com/unibielefeld)
+    - By [@DIW_Berlin](https://twitter.com/DIW_Berlin), [@unibielefeld](https://twitter.com/unibielefeld)
 
 - [Mannheimer Corona-Studie](https://www.uni-mannheim.de/gip/corona-studie/)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
@@ -884,7 +884,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
       - Number of observations:  ~ 3.500 individuals (~ 500 per day)
     - Micro data availablity: no (planned:yes)
     - Data format: pdf (daily update)
-    - By [@PolEconReforms](https://twitter.com/PolEconReforms) [Universität Mannheim](https://www.uni-mannheim.de)
+    - By [@PolEconReforms](https://twitter.com/PolEconReforms), [Universität Mannheim](https://www.uni-mannheim.de)
 
 - [gesis panel](https://www.gesis.org/gesis-panel/gesis-panel-home)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
@@ -923,7 +923,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
       - Number of observations: ~ 2,200 individuals each month
     - Micro data availablity: yes
     - Data format: .dta, .sav, .csv
-    - By [@covidimpact](https://twitter.com/covidimpact) [Data Foundation](https://www.datafoundation.org/)
+    - By [@covidimpact](https://twitter.com/covidimpact), [Data Foundation](https://www.datafoundation.org/)
 
 - [LISS Panel](https://www.lissdata.nl/)
     - Focus: various topics based on several studies proposed by individual researchers (in addition to the standard monthly LISS questions)
@@ -949,7 +949,7 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
       - Number of observations: ~ 12.000 (less in the follow up-studies)
     - Micro data availablity: Planned to become available, timing still not decided.
     - Data format: .dta, .sav
-    - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
+    - By [@DIGSSCORE](https://twitter.com/DIGSSCORE), [@uib](https://twitter.com/uib)
 
 - [Understanding Society](https://www.understandingsociety.ac.uk/research/themes/covid-19)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
@@ -982,7 +982,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 21,000 respondents each week
   - Data format: aggregate results are published on a dashboard and microdata are publicly available as csv spreadsheets
-  - By [@YouGov](https://twitter.com/YouGov)
+  - By [@YouGov](https://twitter.com/YouGov),
   [@Imperial_IGHI](https://twitter.com/Imperial_IGHI)
   - [Dashboard for aggregate results](https://public.tableau.com/profile/ighi#!/vizhome/ICLYouGovCovid-19Tracker_V0_3/1Specificbehaviourbycountry)
 
@@ -1020,10 +1020,10 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Availability of individual level data from pre-CoVID: No
     - Number of observations: ~ 4,000 per country and wave
   - Data format: aggregate data in csv, results reported in html and pdf
-  - By [@abicadams](https://twitter.com/abicadams)
-    [@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1)
-    [@MartaGolin](https://twitter.com/MartaGolin)
-    Christopher Rauh
+  - By [@abicadams](https://twitter.com/abicadams),
+    [@TeodoraBoneva1](https://twitter.com/TeodoraBoneva1),
+    [@MartaGolin](https://twitter.com/MartaGolin),
+    Christopher Rauh,
   - [Working Paper](https://drive.google.com/file/d/1JYI4bzQ5ytmml_Vct8o-Zw7BqRsHKzsq/view)
 
 - [intergen-COVID](https://sites.google.com/unifi.it/intergen-covid)
@@ -1037,7 +1037,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Number of observations: 9,186
   - Micro data availablity: no
   - Data format: Key findings in google doc
-  - By [@brunoarpinoFLR](https://twitter.com/brunoarpinoFLR) [@ValeriaBordone](https://twitter.com/ValeriaBordone)  [@pasqualinimarta](https://twitter.com/pasqualinimarta)
+  - By [@brunoarpinoFLR](https://twitter.com/brunoarpinoFLR), [@ValeriaBordone](https://twitter.com/ValeriaBordone), [@pasqualinimarta](https://twitter.com/pasqualinimarta)
 
 - [COVID-19 Snapshot Monitoring (COSMO)](https://www.psycharchives.org/handle/20.500.12034/2397)
     - Focus: COVID-related behavior and perceptions, mental health, political attitudes
@@ -1077,17 +1077,17 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
   - Micro data availablity: no (planned: N/A)
   - Data format: reports, aggregate data and cross-tabs (as .html, .csv, .pdf)
   - By: The COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States
-            [The Network Science Institute of Northeastern University](https://www.networkscienceinstitute.org/)
-            [The Shorenstein Center on Media, Politics, and Public Policy of Harvard University](https://shorensteincenter.org/)
-            [Harvard Medical School, Harvard University](https://hms.harvard.edu/)
-            [The School of Communication & Information, Rutgers University](https://comminfo.rutgers.edu/)
-            [Department of Political Science, Northwestern University](https://www.polisci.northwestern.edu/)
-            [@ognyanova](https://twitter.com/ognyanova)
-            [@royperlis](https://twitter.com/royperlis)
-            [@matthewabaum](https://twitter.com/matthewabaum)
-            [@davidlazer](https://twitter.com/davidlazer)
-            James Druckman (Northwestern University)
-            [@MauSantillana](https://twitter.com/MauSantillana)
+            [The Network Science Institute of Northeastern University](https://www.networkscienceinstitute.org/),
+            [The Shorenstein Center on Media, Politics, and Public Policy of Harvard University](https://shorensteincenter.org/),
+            [Harvard Medical School, Harvard University](https://hms.harvard.edu/),
+            [The School of Communication & Information, Rutgers University](https://comminfo.rutgers.edu/),
+            [Department of Political Science, Northwestern University](https://www.polisci.northwestern.edu/),
+            [@ognyanova](https://twitter.com/ognyanova),
+            [@royperlis](https://twitter.com/royperlis),
+            [@matthewabaum](https://twitter.com/matthewabaum),
+            [@davidlazer](https://twitter.com/davidlazer),
+            James Druckman (Northwestern University),
+            [@MauSantillana](https://twitter.com/MauSantillana),
             [@dellavolpe](https://twitter.com/dellavolpe)
 
 
@@ -1105,12 +1105,12 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
       - Number of observations: > 110,000 respondents
     - Data format: aggregate results in html, individual level data in dta
     - By researchers of 12 universities incl.
-            [@Margarita1512](https://twitter.com/Margarita1512)
-            [@LukasHenselEcon](https://twitter.com/LukasHenselEcon)
-            [@jonj](https://twitter.com/jonj)
-            [@jhaushofer](https://twitter.com/jhaushofer)
-            [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz)
-            [@fetzert](https://twitter.com/fetzert)
+            [@Margarita1512](https://twitter.com/Margarita1512),
+            [@LukasHenselEcon](https://twitter.com/LukasHenselEcon),
+            [@jonj](https://twitter.com/jonj),
+            [@jhaushofer](https://twitter.com/jhaushofer),
+            [@FriedrichMGoetz](https://twitter.com/FriedrichMGoetz),
+            [@fetzert](https://twitter.com/fetzert),
             [@caria_stefano](https://twitter.com/caria_stefano)
     - [Individual level data](https://osf.io/3sn2k/)
 
@@ -1175,7 +1175,7 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
       - Availability of individual level data from pre-CoVID: No
       - Number of observations: 1,561 respondents in 7 countries (wave1), 1,646 respondents in 8 countries (wave 2).
     - Data format: html for aggregate results (only)
-    - By [@BFAGlobal](https://twitter.com/BFAGlobal)
+    - By [@BFAGlobal](https://twitter.com/BFAGlobal),
   [@ashamin](https://twitter.com/ashamin)
 
 ## Additional Sources: Research & other collections
