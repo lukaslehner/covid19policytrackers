@@ -8,9 +8,9 @@
   gtag('config', 'UA-163872740-1');
 </script>
 
-# A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc -->
-
 ## We have now migrated to a new website. For further updates, please visit: [Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](http://supertracker.spi.ox.ac.uk/)
+
+# A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc -->
 
 The amount of COVID-19 related research being produced within the first
 weeks following the implementation of far-reaching lockdowns across the
