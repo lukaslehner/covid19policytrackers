@@ -10,6 +10,8 @@
 
 # A tracker of trackers: COVID-19 policy responses and data <!-- omit in toc -->
 
+## We have now migrated to a new website. For further updates, please visit: [Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](http://supertracker.spi.ox.ac.uk/)
+
 The amount of COVID-19 related research being produced within the first
 weeks following the implementation of far-reaching lockdowns across the
 globe has been impressive. To keep track of new sources, I have compiled a collection of currently over 100 policy trackers and datasets on the topic. The compilation is not meant to be
@@ -75,6 +77,7 @@ Phoebe Dunn,
 [@KonstPoensgen](https://twitter.com/KonstPoensgen).
 
 The collection is structured around the areas of
+- [We have now migrated to a new website. For further updates, please visit: Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](#we-have-now-migrated-to-a-new-website-for-further-updates-please-visit-oxford-supertracker-the-global-directory-for-covid-policy-trackers-and-surveys)
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
 - [2. Macroeconomic and Financial Policy](#2-macroeconomic-and-financial-policy)
 - [3. Tax Policy](#3-tax-policy)
