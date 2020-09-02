@@ -20,6 +20,8 @@ sources. I am updating the tracker of trackers on a daily basis. Please email me
 
 Sections 15. and 16. on surveys are edited by [Elias Naumann](http://www.eliasnaumann.de/). For suggestions, please email him at <naumann@uni-mannheim.de>.
 
+The tracker of trackers collection has lead to the creation of the [Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](http://supertracker.spi.ox.ac.uk/), a joint project by [Mary Daly](https://www.spi.ox.ac.uk/people/profile/daly.html), [Bernhard Ebbinghaus](https://www.spi.ox.ac.uk/people/professor-bernhard-ebbinghaus), [Lukas Lehner](https://www.spi.ox.ac.uk/people/lukas-lehner), [Marek Naczyk](https://www.spi.ox.ac.uk/people/dr-marek-naczyk) and [Tim Vlandas](https://www.spi.ox.ac.uk/people/dr-tim-vlandas) at the [Department of Social Policy and Intervention (DSPI)](https://www.spi.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) funded by the Higher Education Innovation Fund (HEIF) and the Oxford ESRC Impact Acceleration Account (IAA). Please visit the [new website](http://supertracker.spi.ox.ac.uk/) and [subscribe to receive regular updates on new sources](https://supertracker.spi.ox.ac.uk/#subscribe).
+
 This collection started initially as a [Twitter
 Thread](https://twitter.com/LukasLehner_/status/1243557931888578565) in
 March 2020 and is based on a collaborative effort with suggestions from
@@ -75,8 +77,6 @@ Phoebe Dunn,
 [@kbbolch](https://twitter.com/kbbolch),
 [@LiviaFritz](https://twitter.com/LiviaFritz), and
 [@KonstPoensgen](https://twitter.com/KonstPoensgen).
-
-The tracker of trackers collection has lead to the creation of the [Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](http://supertracker.spi.ox.ac.uk/), a joint project by [Mary Daly](https://www.spi.ox.ac.uk/people/profile/daly.html), [Bernhard Ebbinghaus](https://www.spi.ox.ac.uk/people/professor-bernhard-ebbinghaus), [Lukas Lehner](https://www.spi.ox.ac.uk/people/lukas-lehner), [Marek Naczyk](https://www.spi.ox.ac.uk/people/dr-marek-naczyk) and [Tim Vlandas](https://www.spi.ox.ac.uk/people/dr-tim-vlandas) at the [Department of Social Policy and Intervention (DSPI)](https://www.spi.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) funded by the Higher Education Innovation Fund (HEIF) and the Oxford ESRC Impact Acceleration Account (IAA). Please visit the [new website](http://supertracker.spi.ox.ac.uk/) and [subscribe to receive regular updates on new sources](https://supertracker.spi.ox.ac.uk/#subscribe).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
