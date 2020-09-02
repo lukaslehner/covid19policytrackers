@@ -76,6 +76,8 @@ Phoebe Dunn,
 [@LiviaFritz](https://twitter.com/LiviaFritz), and
 [@KonstPoensgen](https://twitter.com/KonstPoensgen).
 
+The tracker of trackers collection has lead to the creation of the [Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](http://supertracker.spi.ox.ac.uk/). Please visit the new website and [subscribe to receive regular updates on new sources](https://supertracker.spi.ox.ac.uk/#subscribe).
+
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
 - [2. Macroeconomic and Financial Policy](#2-macroeconomic-and-financial-policy)
